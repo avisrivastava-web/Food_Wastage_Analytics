@@ -1,0 +1,4704 @@
+service_date,meal,dish
+2025-01-01,Breakfast,Veg Sandwich
+2025-01-01,Breakfast,Seasonal Fruit
+2025-01-01,Lunch,Veg Kofta
+2025-01-01,Lunch,Rice
+2025-01-01,Lunch,Dal Tadka
+2025-01-01,Lunch,Roti
+2025-01-01,Lunch,Salad
+2025-01-01,Snacks,Bread Pakora
+2025-01-01,Snacks,Tea
+2025-01-01,Dinner,Veg Biryani
+2025-01-01,Dinner,Raita
+2025-01-01,Dinner,Salad
+2025-01-02,Breakfast,Veg Sandwich
+2025-01-02,Breakfast,Seasonal Fruit
+2025-01-02,Lunch,Palak Paneer
+2025-01-02,Lunch,Rice
+2025-01-02,Lunch,Dal Tadka
+2025-01-02,Lunch,Roti
+2025-01-02,Lunch,Salad
+2025-01-02,Snacks,Sprouts Chaat
+2025-01-02,Dinner,Chana Masala
+2025-01-02,Dinner,Roti
+2025-01-02,Dinner,Dal
+2025-01-02,Dinner,Salad
+2025-01-03,Breakfast,Aloo Paratha
+2025-01-03,Breakfast,Curd
+2025-01-03,Breakfast,Pickle
+2025-01-03,Lunch,Kadhi
+2025-01-03,Lunch,Rice
+2025-01-03,Lunch,Aloo Gobi
+2025-01-03,Lunch,Roti
+2025-01-03,Snacks,Bread Pakora
+2025-01-03,Snacks,Tea
+2025-01-03,Dinner,Paneer Butter Masala
+2025-01-03,Dinner,Roti
+2025-01-03,Dinner,Dal
+2025-01-03,Dinner,Salad
+2025-01-04,Breakfast,Poha
+2025-01-04,Breakfast,Banana
+2025-01-04,Lunch,Kadhi
+2025-01-04,Lunch,Rice
+2025-01-04,Lunch,Aloo Gobi
+2025-01-04,Lunch,Roti
+2025-01-04,Snacks,Corn Chaat
+2025-01-04,Dinner,Palak Corn
+2025-01-04,Dinner,Roti
+2025-01-04,Dinner,Dal
+2025-01-04,Dinner,Salad
+2025-01-05,Breakfast,Besan Chilla
+2025-01-05,Breakfast,Mint Chutney
+2025-01-05,Breakfast,Curd
+2025-01-05,Lunch,Mixed Veg Curry
+2025-01-05,Lunch,Rice
+2025-01-05,Lunch,Dal Tadka
+2025-01-05,Lunch,Roti
+2025-01-05,Lunch,Salad
+2025-01-05,Snacks,Bread Pakora
+2025-01-05,Snacks,Tea
+2025-01-05,Dinner,Paneer Butter Masala
+2025-01-05,Dinner,Roti
+2025-01-05,Dinner,Dal
+2025-01-05,Dinner,Salad
+2025-01-06,Breakfast,Poori Bhaji
+2025-01-06,Breakfast,Tea
+2025-01-06,Lunch,Lauki Kofta
+2025-01-06,Lunch,Rice
+2025-01-06,Lunch,Dal Tadka
+2025-01-06,Lunch,Roti
+2025-01-06,Lunch,Salad
+2025-01-06,Snacks,Bread Pakora
+2025-01-06,Snacks,Tea
+2025-01-06,Dinner,Moong Dal Khichdi
+2025-01-06,Dinner,Curd
+2025-01-06,Dinner,Papad
+2025-01-07,Breakfast,Vegetable Dalia
+2025-01-07,Breakfast,Banana
+2025-01-07,Lunch,Rajma
+2025-01-07,Lunch,Rice
+2025-01-07,Lunch,Salad
+2025-01-07,Lunch,Roti
+2025-01-07,Snacks,Roasted Chana
+2025-01-07,Snacks,Tea
+2025-01-07,Dinner,Chana Masala
+2025-01-07,Dinner,Roti
+2025-01-07,Dinner,Dal
+2025-01-07,Dinner,Salad
+2025-01-08,Breakfast,Veg Sandwich
+2025-01-08,Breakfast,Seasonal Fruit
+2025-01-08,Lunch,Chole
+2025-01-08,Lunch,Rice
+2025-01-08,Lunch,Salad
+2025-01-08,Lunch,Roti
+2025-01-08,Snacks,Corn Chaat
+2025-01-08,Dinner,Soya Chunk Curry
+2025-01-08,Dinner,Roti
+2025-01-08,Dinner,Dal
+2025-01-08,Dinner,Salad
+2025-01-09,Breakfast,Aloo Paratha
+2025-01-09,Breakfast,Curd
+2025-01-09,Breakfast,Pickle
+2025-01-09,Lunch,Sambar
+2025-01-09,Lunch,Rice
+2025-01-09,Lunch,Cabbage Poriyal
+2025-01-09,Lunch,Curd
+2025-01-09,Snacks,Corn Chaat
+2025-01-09,Dinner,Soya Chunk Curry
+2025-01-09,Dinner,Roti
+2025-01-09,Dinner,Dal
+2025-01-09,Dinner,Salad
+2025-01-10,Breakfast,Upma
+2025-01-10,Breakfast,Tea
+2025-01-10,Lunch,Mixed Veg Curry
+2025-01-10,Lunch,Rice
+2025-01-10,Lunch,Dal Tadka
+2025-01-10,Lunch,Roti
+2025-01-10,Lunch,Salad
+2025-01-10,Snacks,Fruit Chaat
+2025-01-10,Dinner,Dal Makhani
+2025-01-10,Dinner,Roti
+2025-01-10,Dinner,Dal
+2025-01-10,Dinner,Salad
+2025-01-11,Breakfast,Poori Bhaji
+2025-01-11,Breakfast,Tea
+2025-01-11,Breakfast,Milk
+2025-01-11,Lunch,Matar Paneer
+2025-01-11,Lunch,Rice
+2025-01-11,Lunch,Dal Tadka
+2025-01-11,Lunch,Roti
+2025-01-11,Lunch,Salad
+2025-01-11,Snacks,Corn Chaat
+2025-01-11,Dinner,Khichdi
+2025-01-11,Dinner,Curd
+2025-01-11,Dinner,Papad
+2025-01-12,Breakfast,Veg Sandwich
+2025-01-12,Breakfast,Seasonal Fruit
+2025-01-12,Lunch,Palak Paneer
+2025-01-12,Lunch,Rice
+2025-01-12,Lunch,Dal Tadka
+2025-01-12,Lunch,Roti
+2025-01-12,Lunch,Salad
+2025-01-12,Snacks,Dhokla
+2025-01-12,Snacks,Tea
+2025-01-12,Dinner,Palak Corn
+2025-01-12,Dinner,Roti
+2025-01-12,Dinner,Dal
+2025-01-12,Dinner,Salad
+2025-01-13,Breakfast,Uttapam
+2025-01-13,Breakfast,Sambar
+2025-01-13,Breakfast,Coconut Chutney
+2025-01-13,Lunch,Chana Dal
+2025-01-13,Lunch,Rice
+2025-01-13,Lunch,Seasonal Veg
+2025-01-13,Lunch,Roti
+2025-01-13,Lunch,Salad
+2025-01-13,Snacks,Dhokla
+2025-01-13,Snacks,Tea
+2025-01-13,Dinner,Paneer Bhurji
+2025-01-13,Dinner,Roti
+2025-01-13,Dinner,Dal
+2025-01-13,Dinner,Salad
+2025-01-14,Breakfast,Vegetable Dalia
+2025-01-14,Breakfast,Banana
+2025-01-14,Lunch,Rajma
+2025-01-14,Lunch,Rice
+2025-01-14,Lunch,Salad
+2025-01-14,Lunch,Roti
+2025-01-14,Snacks,Bhel Puri
+2025-01-14,Snacks,Tea
+2025-01-14,Dinner,Mix Veg
+2025-01-14,Dinner,Roti
+2025-01-14,Dinner,Dal
+2025-01-14,Dinner,Salad
+2025-01-15,Breakfast,Masala Dosa
+2025-01-15,Breakfast,Sambar
+2025-01-15,Breakfast,Coconut Chutney
+2025-01-15,Lunch,Palak Paneer
+2025-01-15,Lunch,Rice
+2025-01-15,Lunch,Dal Tadka
+2025-01-15,Lunch,Roti
+2025-01-15,Lunch,Salad
+2025-01-15,Snacks,Kachori
+2025-01-15,Snacks,Tea
+2025-01-15,Dinner,Aloo Matar
+2025-01-15,Dinner,Roti
+2025-01-15,Dinner,Dal
+2025-01-15,Dinner,Salad
+2025-01-16,Breakfast,Uttapam
+2025-01-16,Breakfast,Sambar
+2025-01-16,Breakfast,Coconut Chutney
+2025-01-16,Lunch,Kadhi
+2025-01-16,Lunch,Rice
+2025-01-16,Lunch,Aloo Gobi
+2025-01-16,Lunch,Roti
+2025-01-16,Snacks,Bread Pakora
+2025-01-16,Snacks,Tea
+2025-01-16,Dinner,Veg Korma
+2025-01-16,Dinner,Roti
+2025-01-16,Dinner,Dal
+2025-01-16,Dinner,Salad
+2025-01-17,Breakfast,Aloo Paratha
+2025-01-17,Breakfast,Curd
+2025-01-17,Breakfast,Pickle
+2025-01-17,Lunch,Veg Kofta
+2025-01-17,Lunch,Rice
+2025-01-17,Lunch,Dal Tadka
+2025-01-17,Lunch,Roti
+2025-01-17,Lunch,Salad
+2025-01-17,Snacks,Veg Cutlet
+2025-01-17,Snacks,Tea
+2025-01-17,Dinner,Palak Corn
+2025-01-17,Dinner,Roti
+2025-01-17,Dinner,Dal
+2025-01-17,Dinner,Salad
+2025-01-17,Dinner,Gajar Halwa
+2025-01-18,Breakfast,Aloo Paratha
+2025-01-18,Breakfast,Curd
+2025-01-18,Breakfast,Pickle
+2025-01-18,Lunch,Chole
+2025-01-18,Lunch,Rice
+2025-01-18,Lunch,Salad
+2025-01-18,Lunch,Roti
+2025-01-18,Snacks,Kachori
+2025-01-18,Snacks,Tea
+2025-01-18,Dinner,Paneer Butter Masala
+2025-01-18,Dinner,Roti
+2025-01-18,Dinner,Dal
+2025-01-18,Dinner,Salad
+2025-01-19,Breakfast,Idli
+2025-01-19,Breakfast,Sambar
+2025-01-19,Breakfast,Coconut Chutney
+2025-01-19,Lunch,Rajma
+2025-01-19,Lunch,Rice
+2025-01-19,Lunch,Salad
+2025-01-19,Lunch,Roti
+2025-01-19,Lunch,Kheer
+2025-01-19,Snacks,Bhel Puri
+2025-01-19,Snacks,Tea
+2025-01-19,Dinner,Palak Corn
+2025-01-19,Dinner,Roti
+2025-01-19,Dinner,Dal
+2025-01-19,Dinner,Salad
+2025-01-20,Breakfast,Poori Bhaji
+2025-01-20,Breakfast,Tea
+2025-01-20,Lunch,Aloo Gobi
+2025-01-20,Lunch,Rice
+2025-01-20,Lunch,Dal Tadka
+2025-01-20,Lunch,Roti
+2025-01-20,Lunch,Salad
+2025-01-20,Snacks,Fruit Chaat
+2025-01-20,Dinner,Kadhi
+2025-01-20,Dinner,Rice
+2025-01-20,Dinner,Roti
+2025-01-20,Dinner,Salad
+2025-01-21,Breakfast,Poha
+2025-01-21,Breakfast,Banana
+2025-01-21,Lunch,Kala Chana
+2025-01-21,Lunch,Rice
+2025-01-21,Lunch,Salad
+2025-01-21,Lunch,Roti
+2025-01-21,Snacks,Samosa
+2025-01-21,Snacks,Tea
+2025-01-21,Dinner,Aloo Matar
+2025-01-21,Dinner,Roti
+2025-01-21,Dinner,Dal
+2025-01-21,Dinner,Salad
+2025-01-22,Breakfast,Idli
+2025-01-22,Breakfast,Sambar
+2025-01-22,Breakfast,Coconut Chutney
+2025-01-22,Breakfast,Milk
+2025-01-22,Lunch,Veg Kofta
+2025-01-22,Lunch,Rice
+2025-01-22,Lunch,Dal Tadka
+2025-01-22,Lunch,Roti
+2025-01-22,Lunch,Salad
+2025-01-22,Snacks,Bread Pakora
+2025-01-22,Snacks,Tea
+2025-01-22,Dinner,Rajma
+2025-01-22,Dinner,Rice
+2025-01-22,Dinner,Roti
+2025-01-22,Dinner,Salad
+2025-01-23,Breakfast,Vegetable Dalia
+2025-01-23,Breakfast,Banana
+2025-01-23,Lunch,Matar Paneer
+2025-01-23,Lunch,Rice
+2025-01-23,Lunch,Dal Tadka
+2025-01-23,Lunch,Roti
+2025-01-23,Lunch,Salad
+2025-01-23,Snacks,Kachori
+2025-01-23,Snacks,Tea
+2025-01-23,Dinner,Soya Chunk Curry
+2025-01-23,Dinner,Roti
+2025-01-23,Dinner,Dal
+2025-01-23,Dinner,Salad
+2025-01-24,Breakfast,Upma
+2025-01-24,Breakfast,Tea
+2025-01-24,Lunch,Mixed Veg Curry
+2025-01-24,Lunch,Rice
+2025-01-24,Lunch,Dal Tadka
+2025-01-24,Lunch,Roti
+2025-01-24,Lunch,Salad
+2025-01-24,Snacks,Bhel Puri
+2025-01-24,Snacks,Tea
+2025-01-24,Dinner,Soya Chunk Curry
+2025-01-24,Dinner,Roti
+2025-01-24,Dinner,Dal
+2025-01-24,Dinner,Salad
+2025-01-25,Breakfast,Upma
+2025-01-25,Breakfast,Tea
+2025-01-25,Lunch,Lauki Kofta
+2025-01-25,Lunch,Rice
+2025-01-25,Lunch,Dal Tadka
+2025-01-25,Lunch,Roti
+2025-01-25,Lunch,Salad
+2025-01-25,Snacks,Dhokla
+2025-01-25,Snacks,Tea
+2025-01-25,Dinner,Soya Chunk Curry
+2025-01-25,Dinner,Roti
+2025-01-25,Dinner,Dal
+2025-01-25,Dinner,Salad
+2025-01-26,Breakfast,Upma
+2025-01-26,Breakfast,Tea
+2025-01-26,Lunch,Chana Dal
+2025-01-26,Lunch,Rice
+2025-01-26,Lunch,Seasonal Veg
+2025-01-26,Lunch,Roti
+2025-01-26,Lunch,Salad
+2025-01-26,Lunch,Gulab Jamun
+2025-01-26,Lunch,Veg Pulao Special
+2025-01-26,Snacks,Veg Cutlet
+2025-01-26,Snacks,Tea
+2025-01-26,Dinner,Palak Corn
+2025-01-26,Dinner,Roti
+2025-01-26,Dinner,Dal
+2025-01-26,Dinner,Salad
+2025-01-27,Breakfast,Masala Dosa
+2025-01-27,Breakfast,Sambar
+2025-01-27,Breakfast,Coconut Chutney
+2025-01-27,Lunch,Matar Paneer
+2025-01-27,Lunch,Rice
+2025-01-27,Lunch,Dal Tadka
+2025-01-27,Lunch,Roti
+2025-01-27,Lunch,Salad
+2025-01-27,Snacks,Kachori
+2025-01-27,Snacks,Tea
+2025-01-27,Dinner,Paneer Butter Masala
+2025-01-27,Dinner,Roti
+2025-01-27,Dinner,Dal
+2025-01-27,Dinner,Salad
+2025-01-28,Breakfast,Poha
+2025-01-28,Breakfast,Banana
+2025-01-28,Lunch,Rajma
+2025-01-28,Lunch,Rice
+2025-01-28,Lunch,Salad
+2025-01-28,Lunch,Roti
+2025-01-28,Snacks,Kachori
+2025-01-28,Snacks,Tea
+2025-01-28,Dinner,Veg Korma
+2025-01-28,Dinner,Roti
+2025-01-28,Dinner,Dal
+2025-01-28,Dinner,Salad
+2025-01-29,Breakfast,Aloo Paratha
+2025-01-29,Breakfast,Curd
+2025-01-29,Breakfast,Pickle
+2025-01-29,Lunch,Veg Pulao
+2025-01-29,Lunch,Raita
+2025-01-29,Lunch,Salad
+2025-01-29,Snacks,Bhel Puri
+2025-01-29,Snacks,Tea
+2025-01-29,Dinner,Chana Masala
+2025-01-29,Dinner,Roti
+2025-01-29,Dinner,Dal
+2025-01-29,Dinner,Salad
+2025-01-30,Breakfast,Masala Dosa
+2025-01-30,Breakfast,Sambar
+2025-01-30,Breakfast,Coconut Chutney
+2025-01-30,Lunch,Sambar
+2025-01-30,Lunch,Rice
+2025-01-30,Lunch,Cabbage Poriyal
+2025-01-30,Lunch,Curd
+2025-01-30,Snacks,Sprouts Chaat
+2025-01-30,Dinner,Mix Veg
+2025-01-30,Dinner,Roti
+2025-01-30,Dinner,Dal
+2025-01-30,Dinner,Salad
+2025-01-31,Breakfast,Poori Bhaji
+2025-01-31,Breakfast,Tea
+2025-01-31,Lunch,Veg Kofta
+2025-01-31,Lunch,Rice
+2025-01-31,Lunch,Dal Tadka
+2025-01-31,Lunch,Roti
+2025-01-31,Lunch,Salad
+2025-01-31,Snacks,Corn Chaat
+2025-01-31,Dinner,Veg Biryani
+2025-01-31,Dinner,Raita
+2025-01-31,Dinner,Salad
+2025-02-01,Breakfast,Aloo Paratha
+2025-02-01,Breakfast,Curd
+2025-02-01,Breakfast,Pickle
+2025-02-01,Lunch,Kala Chana
+2025-02-01,Lunch,Rice
+2025-02-01,Lunch,Salad
+2025-02-01,Lunch,Roti
+2025-02-01,Snacks,Veg Cutlet
+2025-02-01,Snacks,Tea
+2025-02-01,Dinner,Soya Chunk Curry
+2025-02-01,Dinner,Roti
+2025-02-01,Dinner,Dal
+2025-02-01,Dinner,Salad
+2025-02-02,Breakfast,Aloo Paratha
+2025-02-02,Breakfast,Curd
+2025-02-02,Breakfast,Pickle
+2025-02-02,Breakfast,Milk
+2025-02-02,Lunch,Kala Chana
+2025-02-02,Lunch,Rice
+2025-02-02,Lunch,Salad
+2025-02-02,Lunch,Roti
+2025-02-02,Snacks,Dhokla
+2025-02-02,Snacks,Tea
+2025-02-02,Dinner,Khichdi
+2025-02-02,Dinner,Curd
+2025-02-02,Dinner,Papad
+2025-02-03,Breakfast,Masala Dosa
+2025-02-03,Breakfast,Sambar
+2025-02-03,Breakfast,Coconut Chutney
+2025-02-03,Lunch,Veg Kofta
+2025-02-03,Lunch,Rice
+2025-02-03,Lunch,Dal Tadka
+2025-02-03,Lunch,Roti
+2025-02-03,Lunch,Salad
+2025-02-03,Snacks,Veg Cutlet
+2025-02-03,Snacks,Tea
+2025-02-03,Dinner,Rajma
+2025-02-03,Dinner,Rice
+2025-02-03,Dinner,Roti
+2025-02-03,Dinner,Salad
+2025-02-03,Dinner,Gajar Halwa
+2025-02-04,Breakfast,Poha
+2025-02-04,Breakfast,Banana
+2025-02-04,Lunch,Veg Pulao
+2025-02-04,Lunch,Raita
+2025-02-04,Lunch,Salad
+2025-02-04,Snacks,Fruit Chaat
+2025-02-04,Dinner,Dal Makhani
+2025-02-04,Dinner,Roti
+2025-02-04,Dinner,Dal
+2025-02-04,Dinner,Salad
+2025-02-05,Breakfast,Masala Dosa
+2025-02-05,Breakfast,Sambar
+2025-02-05,Breakfast,Coconut Chutney
+2025-02-05,Lunch,Chole
+2025-02-05,Lunch,Rice
+2025-02-05,Lunch,Salad
+2025-02-05,Lunch,Roti
+2025-02-05,Snacks,Dhokla
+2025-02-05,Snacks,Tea
+2025-02-05,Dinner,Palak Corn
+2025-02-05,Dinner,Roti
+2025-02-05,Dinner,Dal
+2025-02-05,Dinner,Salad
+2025-02-06,Breakfast,Idli
+2025-02-06,Breakfast,Sambar
+2025-02-06,Breakfast,Coconut Chutney
+2025-02-06,Lunch,Kala Chana
+2025-02-06,Lunch,Rice
+2025-02-06,Lunch,Salad
+2025-02-06,Lunch,Roti
+2025-02-06,Snacks,Kachori
+2025-02-06,Snacks,Tea
+2025-02-06,Dinner,Palak Corn
+2025-02-06,Dinner,Roti
+2025-02-06,Dinner,Dal
+2025-02-06,Dinner,Salad
+2025-02-07,Breakfast,Masala Dosa
+2025-02-07,Breakfast,Sambar
+2025-02-07,Breakfast,Coconut Chutney
+2025-02-07,Lunch,Kadhi
+2025-02-07,Lunch,Rice
+2025-02-07,Lunch,Aloo Gobi
+2025-02-07,Lunch,Roti
+2025-02-07,Snacks,Bhel Puri
+2025-02-07,Snacks,Tea
+2025-02-07,Dinner,Veg Biryani
+2025-02-07,Dinner,Raita
+2025-02-07,Dinner,Salad
+2025-02-08,Breakfast,Upma
+2025-02-08,Breakfast,Tea
+2025-02-08,Lunch,Kala Chana
+2025-02-08,Lunch,Rice
+2025-02-08,Lunch,Salad
+2025-02-08,Lunch,Roti
+2025-02-08,Snacks,Bread Pakora
+2025-02-08,Snacks,Tea
+2025-02-08,Dinner,Kadhi
+2025-02-08,Dinner,Rice
+2025-02-08,Dinner,Roti
+2025-02-08,Dinner,Salad
+2025-02-09,Breakfast,Poha
+2025-02-09,Breakfast,Banana
+2025-02-09,Lunch,Kadhi
+2025-02-09,Lunch,Rice
+2025-02-09,Lunch,Aloo Gobi
+2025-02-09,Lunch,Roti
+2025-02-09,Lunch,Kheer
+2025-02-09,Snacks,Veg Cutlet
+2025-02-09,Snacks,Tea
+2025-02-09,Dinner,Khichdi
+2025-02-09,Dinner,Curd
+2025-02-09,Dinner,Papad
+2025-02-10,Breakfast,Aloo Paratha
+2025-02-10,Breakfast,Curd
+2025-02-10,Breakfast,Pickle
+2025-02-10,Lunch,Veg Kofta
+2025-02-10,Lunch,Rice
+2025-02-10,Lunch,Dal Tadka
+2025-02-10,Lunch,Roti
+2025-02-10,Lunch,Salad
+2025-02-10,Snacks,Sprouts Chaat
+2025-02-10,Dinner,Dal Makhani
+2025-02-10,Dinner,Roti
+2025-02-10,Dinner,Dal
+2025-02-10,Dinner,Salad
+2025-02-11,Breakfast,Masala Dosa
+2025-02-11,Breakfast,Sambar
+2025-02-11,Breakfast,Coconut Chutney
+2025-02-11,Lunch,Veg Kofta
+2025-02-11,Lunch,Rice
+2025-02-11,Lunch,Dal Tadka
+2025-02-11,Lunch,Roti
+2025-02-11,Lunch,Salad
+2025-02-11,Snacks,Kachori
+2025-02-11,Snacks,Tea
+2025-02-11,Dinner,Rajma
+2025-02-11,Dinner,Rice
+2025-02-11,Dinner,Roti
+2025-02-11,Dinner,Salad
+2025-02-12,Breakfast,Vegetable Dalia
+2025-02-12,Breakfast,Banana
+2025-02-12,Lunch,Chana Dal
+2025-02-12,Lunch,Rice
+2025-02-12,Lunch,Seasonal Veg
+2025-02-12,Lunch,Roti
+2025-02-12,Lunch,Salad
+2025-02-12,Snacks,Kachori
+2025-02-12,Snacks,Tea
+2025-02-12,Dinner,Paneer Butter Masala
+2025-02-12,Dinner,Roti
+2025-02-12,Dinner,Dal
+2025-02-12,Dinner,Salad
+2025-02-13,Breakfast,Poori Bhaji
+2025-02-13,Breakfast,Tea
+2025-02-13,Breakfast,Milk
+2025-02-13,Lunch,Lauki Kofta
+2025-02-13,Lunch,Rice
+2025-02-13,Lunch,Dal Tadka
+2025-02-13,Lunch,Roti
+2025-02-13,Lunch,Salad
+2025-02-13,Snacks,Veg Cutlet
+2025-02-13,Snacks,Tea
+2025-02-13,Dinner,Veg Biryani
+2025-02-13,Dinner,Raita
+2025-02-13,Dinner,Salad
+2025-02-14,Breakfast,Aloo Paratha
+2025-02-14,Breakfast,Curd
+2025-02-14,Breakfast,Pickle
+2025-02-14,Lunch,Sambar
+2025-02-14,Lunch,Rice
+2025-02-14,Lunch,Cabbage Poriyal
+2025-02-14,Lunch,Curd
+2025-02-14,Snacks,Bread Pakora
+2025-02-14,Snacks,Tea
+2025-02-14,Dinner,Dal Makhani
+2025-02-14,Dinner,Roti
+2025-02-14,Dinner,Dal
+2025-02-14,Dinner,Salad
+2025-02-15,Breakfast,Poha
+2025-02-15,Breakfast,Banana
+2025-02-15,Lunch,Veg Pulao
+2025-02-15,Lunch,Raita
+2025-02-15,Lunch,Salad
+2025-02-15,Snacks,Kachori
+2025-02-15,Snacks,Tea
+2025-02-15,Dinner,Aloo Matar
+2025-02-15,Dinner,Roti
+2025-02-15,Dinner,Dal
+2025-02-15,Dinner,Salad
+2025-02-16,Breakfast,Poha
+2025-02-16,Breakfast,Banana
+2025-02-16,Lunch,Dal Tadka
+2025-02-16,Lunch,Rice
+2025-02-16,Lunch,Seasonal Veg
+2025-02-16,Lunch,Roti
+2025-02-16,Lunch,Salad
+2025-02-16,Snacks,Samosa
+2025-02-16,Snacks,Tea
+2025-02-16,Dinner,Rajma
+2025-02-16,Dinner,Rice
+2025-02-16,Dinner,Roti
+2025-02-16,Dinner,Salad
+2025-02-17,Breakfast,Aloo Paratha
+2025-02-17,Breakfast,Curd
+2025-02-17,Breakfast,Pickle
+2025-02-17,Lunch,Lauki Kofta
+2025-02-17,Lunch,Rice
+2025-02-17,Lunch,Dal Tadka
+2025-02-17,Lunch,Roti
+2025-02-17,Lunch,Salad
+2025-02-17,Snacks,Kachori
+2025-02-17,Snacks,Tea
+2025-02-17,Dinner,Khichdi
+2025-02-17,Dinner,Curd
+2025-02-17,Dinner,Papad
+2025-02-18,Breakfast,Poori Bhaji
+2025-02-18,Breakfast,Tea
+2025-02-18,Lunch,Chole
+2025-02-18,Lunch,Rice
+2025-02-18,Lunch,Salad
+2025-02-18,Lunch,Roti
+2025-02-18,Snacks,Samosa
+2025-02-18,Snacks,Tea
+2025-02-18,Dinner,Khichdi
+2025-02-18,Dinner,Curd
+2025-02-18,Dinner,Papad
+2025-02-19,Breakfast,Veg Sandwich
+2025-02-19,Breakfast,Seasonal Fruit
+2025-02-19,Lunch,Kala Chana
+2025-02-19,Lunch,Rice
+2025-02-19,Lunch,Salad
+2025-02-19,Lunch,Roti
+2025-02-19,Snacks,Dhokla
+2025-02-19,Snacks,Tea
+2025-02-19,Dinner,Kadhi
+2025-02-19,Dinner,Rice
+2025-02-19,Dinner,Roti
+2025-02-19,Dinner,Salad
+2025-02-20,Breakfast,Veg Sandwich
+2025-02-20,Breakfast,Seasonal Fruit
+2025-02-20,Lunch,Veg Kofta
+2025-02-20,Lunch,Rice
+2025-02-20,Lunch,Dal Tadka
+2025-02-20,Lunch,Roti
+2025-02-20,Lunch,Salad
+2025-02-20,Snacks,Bhel Puri
+2025-02-20,Snacks,Tea
+2025-02-20,Dinner,Mix Veg
+2025-02-20,Dinner,Roti
+2025-02-20,Dinner,Dal
+2025-02-20,Dinner,Salad
+2025-02-20,Dinner,Gajar Halwa
+2025-02-21,Breakfast,Besan Chilla
+2025-02-21,Breakfast,Mint Chutney
+2025-02-21,Breakfast,Curd
+2025-02-21,Lunch,Palak Paneer
+2025-02-21,Lunch,Rice
+2025-02-21,Lunch,Dal Tadka
+2025-02-21,Lunch,Roti
+2025-02-21,Lunch,Salad
+2025-02-21,Snacks,Roasted Chana
+2025-02-21,Snacks,Tea
+2025-02-21,Dinner,Dal Makhani
+2025-02-21,Dinner,Roti
+2025-02-21,Dinner,Dal
+2025-02-21,Dinner,Salad
+2025-02-22,Breakfast,Besan Chilla
+2025-02-22,Breakfast,Mint Chutney
+2025-02-22,Breakfast,Curd
+2025-02-22,Lunch,Aloo Gobi
+2025-02-22,Lunch,Rice
+2025-02-22,Lunch,Dal Tadka
+2025-02-22,Lunch,Roti
+2025-02-22,Lunch,Salad
+2025-02-22,Snacks,Sprouts Chaat
+2025-02-22,Dinner,Moong Dal Khichdi
+2025-02-22,Dinner,Curd
+2025-02-22,Dinner,Papad
+2025-02-23,Breakfast,Idli
+2025-02-23,Breakfast,Sambar
+2025-02-23,Breakfast,Coconut Chutney
+2025-02-23,Lunch,Veg Pulao
+2025-02-23,Lunch,Raita
+2025-02-23,Lunch,Salad
+2025-02-23,Snacks,Fruit Chaat
+2025-02-23,Dinner,Soya Chunk Curry
+2025-02-23,Dinner,Roti
+2025-02-23,Dinner,Dal
+2025-02-23,Dinner,Salad
+2025-02-24,Breakfast,Veg Sandwich
+2025-02-24,Breakfast,Seasonal Fruit
+2025-02-24,Breakfast,Milk
+2025-02-24,Lunch,Matar Paneer
+2025-02-24,Lunch,Rice
+2025-02-24,Lunch,Dal Tadka
+2025-02-24,Lunch,Roti
+2025-02-24,Lunch,Salad
+2025-02-24,Snacks,Roasted Chana
+2025-02-24,Snacks,Tea
+2025-02-24,Dinner,Soya Chunk Curry
+2025-02-24,Dinner,Roti
+2025-02-24,Dinner,Dal
+2025-02-24,Dinner,Salad
+2025-02-25,Breakfast,Poha
+2025-02-25,Breakfast,Banana
+2025-02-25,Lunch,Lauki Kofta
+2025-02-25,Lunch,Rice
+2025-02-25,Lunch,Dal Tadka
+2025-02-25,Lunch,Roti
+2025-02-25,Lunch,Salad
+2025-02-25,Snacks,Bread Pakora
+2025-02-25,Snacks,Tea
+2025-02-25,Dinner,Khichdi
+2025-02-25,Dinner,Curd
+2025-02-25,Dinner,Papad
+2025-02-26,Breakfast,Vegetable Dalia
+2025-02-26,Breakfast,Banana
+2025-02-26,Lunch,Kadhi
+2025-02-26,Lunch,Rice
+2025-02-26,Lunch,Aloo Gobi
+2025-02-26,Lunch,Roti
+2025-02-26,Snacks,Veg Cutlet
+2025-02-26,Snacks,Tea
+2025-02-26,Dinner,Aloo Matar
+2025-02-26,Dinner,Roti
+2025-02-26,Dinner,Dal
+2025-02-26,Dinner,Salad
+2025-02-27,Breakfast,Upma
+2025-02-27,Breakfast,Tea
+2025-02-27,Lunch,Lauki Kofta
+2025-02-27,Lunch,Rice
+2025-02-27,Lunch,Dal Tadka
+2025-02-27,Lunch,Roti
+2025-02-27,Lunch,Salad
+2025-02-27,Snacks,Fruit Chaat
+2025-02-27,Dinner,Mix Veg
+2025-02-27,Dinner,Roti
+2025-02-27,Dinner,Dal
+2025-02-27,Dinner,Salad
+2025-02-28,Breakfast,Poori Bhaji
+2025-02-28,Breakfast,Tea
+2025-02-28,Lunch,Sambar
+2025-02-28,Lunch,Rice
+2025-02-28,Lunch,Cabbage Poriyal
+2025-02-28,Lunch,Curd
+2025-02-28,Snacks,Dhokla
+2025-02-28,Snacks,Tea
+2025-02-28,Dinner,Paneer Butter Masala
+2025-02-28,Dinner,Roti
+2025-02-28,Dinner,Dal
+2025-02-28,Dinner,Salad
+2025-03-01,Breakfast,Poori Bhaji
+2025-03-01,Breakfast,Tea
+2025-03-01,Lunch,Chana Dal
+2025-03-01,Lunch,Rice
+2025-03-01,Lunch,Seasonal Veg
+2025-03-01,Lunch,Roti
+2025-03-01,Lunch,Salad
+2025-03-01,Snacks,Bhel Puri
+2025-03-01,Snacks,Tea
+2025-03-01,Dinner,Veg Korma
+2025-03-01,Dinner,Roti
+2025-03-01,Dinner,Dal
+2025-03-01,Dinner,Salad
+2025-03-02,Breakfast,Poha
+2025-03-02,Breakfast,Banana
+2025-03-02,Lunch,Kala Chana
+2025-03-02,Lunch,Rice
+2025-03-02,Lunch,Salad
+2025-03-02,Lunch,Roti
+2025-03-02,Lunch,Kheer
+2025-03-02,Snacks,Sprouts Chaat
+2025-03-02,Dinner,Chana Masala
+2025-03-02,Dinner,Roti
+2025-03-02,Dinner,Dal
+2025-03-02,Dinner,Salad
+2025-03-03,Breakfast,Aloo Paratha
+2025-03-03,Breakfast,Curd
+2025-03-03,Breakfast,Pickle
+2025-03-03,Lunch,Veg Kofta
+2025-03-03,Lunch,Rice
+2025-03-03,Lunch,Dal Tadka
+2025-03-03,Lunch,Roti
+2025-03-03,Lunch,Salad
+2025-03-03,Snacks,Bread Pakora
+2025-03-03,Snacks,Tea
+2025-03-03,Dinner,Paneer Bhurji
+2025-03-03,Dinner,Roti
+2025-03-03,Dinner,Dal
+2025-03-03,Dinner,Salad
+2025-03-04,Breakfast,Aloo Paratha
+2025-03-04,Breakfast,Curd
+2025-03-04,Breakfast,Pickle
+2025-03-04,Lunch,Lauki Kofta
+2025-03-04,Lunch,Rice
+2025-03-04,Lunch,Dal Tadka
+2025-03-04,Lunch,Roti
+2025-03-04,Lunch,Salad
+2025-03-04,Snacks,Roasted Chana
+2025-03-04,Snacks,Tea
+2025-03-04,Dinner,Rajma
+2025-03-04,Dinner,Rice
+2025-03-04,Dinner,Roti
+2025-03-04,Dinner,Salad
+2025-03-05,Breakfast,Uttapam
+2025-03-05,Breakfast,Sambar
+2025-03-05,Breakfast,Coconut Chutney
+2025-03-05,Lunch,Aloo Gobi
+2025-03-05,Lunch,Rice
+2025-03-05,Lunch,Dal Tadka
+2025-03-05,Lunch,Roti
+2025-03-05,Lunch,Salad
+2025-03-05,Snacks,Veg Cutlet
+2025-03-05,Snacks,Tea
+2025-03-05,Dinner,Aloo Matar
+2025-03-05,Dinner,Roti
+2025-03-05,Dinner,Dal
+2025-03-05,Dinner,Salad
+2025-03-06,Breakfast,Uttapam
+2025-03-06,Breakfast,Sambar
+2025-03-06,Breakfast,Coconut Chutney
+2025-03-06,Lunch,Chole
+2025-03-06,Lunch,Rice
+2025-03-06,Lunch,Salad
+2025-03-06,Lunch,Roti
+2025-03-06,Snacks,Fruit Chaat
+2025-03-06,Dinner,Paneer Butter Masala
+2025-03-06,Dinner,Roti
+2025-03-06,Dinner,Dal
+2025-03-06,Dinner,Salad
+2025-03-07,Breakfast,Idli
+2025-03-07,Breakfast,Sambar
+2025-03-07,Breakfast,Coconut Chutney
+2025-03-07,Breakfast,Milk
+2025-03-07,Lunch,Kala Chana
+2025-03-07,Lunch,Rice
+2025-03-07,Lunch,Salad
+2025-03-07,Lunch,Roti
+2025-03-07,Snacks,Corn Chaat
+2025-03-07,Dinner,Veg Biryani
+2025-03-07,Dinner,Raita
+2025-03-07,Dinner,Salad
+2025-03-08,Breakfast,Idli
+2025-03-08,Breakfast,Sambar
+2025-03-08,Breakfast,Coconut Chutney
+2025-03-08,Lunch,Chole
+2025-03-08,Lunch,Rice
+2025-03-08,Lunch,Salad
+2025-03-08,Lunch,Roti
+2025-03-08,Snacks,Veg Cutlet
+2025-03-08,Snacks,Tea
+2025-03-08,Dinner,Palak Corn
+2025-03-08,Dinner,Roti
+2025-03-08,Dinner,Dal
+2025-03-08,Dinner,Salad
+2025-03-09,Breakfast,Poori Bhaji
+2025-03-09,Breakfast,Tea
+2025-03-09,Lunch,Matar Paneer
+2025-03-09,Lunch,Rice
+2025-03-09,Lunch,Dal Tadka
+2025-03-09,Lunch,Roti
+2025-03-09,Lunch,Salad
+2025-03-09,Snacks,Roasted Chana
+2025-03-09,Snacks,Tea
+2025-03-09,Dinner,Khichdi
+2025-03-09,Dinner,Curd
+2025-03-09,Dinner,Papad
+2025-03-10,Breakfast,Veg Sandwich
+2025-03-10,Breakfast,Seasonal Fruit
+2025-03-10,Lunch,Sambar
+2025-03-10,Lunch,Rice
+2025-03-10,Lunch,Cabbage Poriyal
+2025-03-10,Lunch,Curd
+2025-03-10,Snacks,Veg Cutlet
+2025-03-10,Snacks,Tea
+2025-03-10,Dinner,Chana Masala
+2025-03-10,Dinner,Roti
+2025-03-10,Dinner,Dal
+2025-03-10,Dinner,Salad
+2025-03-11,Breakfast,Vegetable Dalia
+2025-03-11,Breakfast,Banana
+2025-03-11,Lunch,Veg Kofta
+2025-03-11,Lunch,Rice
+2025-03-11,Lunch,Dal Tadka
+2025-03-11,Lunch,Roti
+2025-03-11,Lunch,Salad
+2025-03-11,Snacks,Sprouts Chaat
+2025-03-11,Dinner,Kadhi
+2025-03-11,Dinner,Rice
+2025-03-11,Dinner,Roti
+2025-03-11,Dinner,Salad
+2025-03-12,Breakfast,Vegetable Dalia
+2025-03-12,Breakfast,Banana
+2025-03-12,Lunch,Chana Dal
+2025-03-12,Lunch,Rice
+2025-03-12,Lunch,Seasonal Veg
+2025-03-12,Lunch,Roti
+2025-03-12,Lunch,Salad
+2025-03-12,Snacks,Dhokla
+2025-03-12,Snacks,Tea
+2025-03-12,Dinner,Paneer Butter Masala
+2025-03-12,Dinner,Roti
+2025-03-12,Dinner,Dal
+2025-03-12,Dinner,Salad
+2025-03-13,Breakfast,Vegetable Dalia
+2025-03-13,Breakfast,Banana
+2025-03-13,Lunch,Veg Pulao
+2025-03-13,Lunch,Raita
+2025-03-13,Lunch,Salad
+2025-03-13,Snacks,Kachori
+2025-03-13,Snacks,Tea
+2025-03-13,Dinner,Paneer Butter Masala
+2025-03-13,Dinner,Roti
+2025-03-13,Dinner,Dal
+2025-03-13,Dinner,Salad
+2025-03-14,Breakfast,Poori Bhaji
+2025-03-14,Breakfast,Tea
+2025-03-14,Lunch,Veg Pulao
+2025-03-14,Lunch,Raita
+2025-03-14,Lunch,Salad
+2025-03-14,Lunch,Gulab Jamun
+2025-03-14,Snacks,Bread Pakora
+2025-03-14,Snacks,Tea
+2025-03-14,Snacks,Festival Sweet
+2025-03-14,Dinner,Paneer Butter Masala
+2025-03-14,Dinner,Roti
+2025-03-14,Dinner,Dal
+2025-03-14,Dinner,Salad
+2025-03-15,Breakfast,Vegetable Dalia
+2025-03-15,Breakfast,Banana
+2025-03-15,Lunch,Matar Paneer
+2025-03-15,Lunch,Rice
+2025-03-15,Lunch,Dal Tadka
+2025-03-15,Lunch,Roti
+2025-03-15,Lunch,Salad
+2025-03-15,Snacks,Samosa
+2025-03-15,Snacks,Tea
+2025-03-15,Dinner,Khichdi
+2025-03-15,Dinner,Curd
+2025-03-15,Dinner,Papad
+2025-03-16,Breakfast,Aloo Paratha
+2025-03-16,Breakfast,Curd
+2025-03-16,Breakfast,Pickle
+2025-03-16,Lunch,Lauki Kofta
+2025-03-16,Lunch,Rice
+2025-03-16,Lunch,Dal Tadka
+2025-03-16,Lunch,Roti
+2025-03-16,Lunch,Salad
+2025-03-16,Snacks,Veg Cutlet
+2025-03-16,Snacks,Tea
+2025-03-16,Dinner,Veg Biryani
+2025-03-16,Dinner,Raita
+2025-03-16,Dinner,Salad
+2025-03-17,Breakfast,Masala Dosa
+2025-03-17,Breakfast,Sambar
+2025-03-17,Breakfast,Coconut Chutney
+2025-03-17,Lunch,Rajma
+2025-03-17,Lunch,Rice
+2025-03-17,Lunch,Salad
+2025-03-17,Lunch,Roti
+2025-03-17,Snacks,Bhel Puri
+2025-03-17,Snacks,Tea
+2025-03-17,Dinner,Veg Korma
+2025-03-17,Dinner,Roti
+2025-03-17,Dinner,Dal
+2025-03-17,Dinner,Salad
+2025-03-18,Breakfast,Poori Bhaji
+2025-03-18,Breakfast,Tea
+2025-03-18,Breakfast,Milk
+2025-03-18,Lunch,Veg Kofta
+2025-03-18,Lunch,Rice
+2025-03-18,Lunch,Dal Tadka
+2025-03-18,Lunch,Roti
+2025-03-18,Lunch,Salad
+2025-03-18,Snacks,Corn Chaat
+2025-03-18,Dinner,Paneer Bhurji
+2025-03-18,Dinner,Roti
+2025-03-18,Dinner,Dal
+2025-03-18,Dinner,Salad
+2025-03-19,Breakfast,Aloo Paratha
+2025-03-19,Breakfast,Curd
+2025-03-19,Breakfast,Pickle
+2025-03-19,Lunch,Lauki Kofta
+2025-03-19,Lunch,Rice
+2025-03-19,Lunch,Dal Tadka
+2025-03-19,Lunch,Roti
+2025-03-19,Lunch,Salad
+2025-03-19,Snacks,Veg Cutlet
+2025-03-19,Snacks,Tea
+2025-03-19,Dinner,Soya Chunk Curry
+2025-03-19,Dinner,Roti
+2025-03-19,Dinner,Dal
+2025-03-19,Dinner,Salad
+2025-03-20,Breakfast,Poori Bhaji
+2025-03-20,Breakfast,Tea
+2025-03-20,Lunch,Dal Tadka
+2025-03-20,Lunch,Rice
+2025-03-20,Lunch,Seasonal Veg
+2025-03-20,Lunch,Roti
+2025-03-20,Lunch,Salad
+2025-03-20,Snacks,Fruit Chaat
+2025-03-20,Dinner,Dal Makhani
+2025-03-20,Dinner,Roti
+2025-03-20,Dinner,Dal
+2025-03-20,Dinner,Salad
+2025-03-21,Breakfast,Poori Bhaji
+2025-03-21,Breakfast,Tea
+2025-03-21,Lunch,Kadhi
+2025-03-21,Lunch,Rice
+2025-03-21,Lunch,Aloo Gobi
+2025-03-21,Lunch,Roti
+2025-03-21,Snacks,Fruit Chaat
+2025-03-21,Dinner,Veg Biryani
+2025-03-21,Dinner,Raita
+2025-03-21,Dinner,Salad
+2025-03-22,Breakfast,Upma
+2025-03-22,Breakfast,Tea
+2025-03-22,Lunch,Kadhi
+2025-03-22,Lunch,Rice
+2025-03-22,Lunch,Aloo Gobi
+2025-03-22,Lunch,Roti
+2025-03-22,Snacks,Roasted Chana
+2025-03-22,Snacks,Tea
+2025-03-22,Dinner,Kadhi
+2025-03-22,Dinner,Rice
+2025-03-22,Dinner,Roti
+2025-03-22,Dinner,Salad
+2025-03-23,Breakfast,Idli
+2025-03-23,Breakfast,Sambar
+2025-03-23,Breakfast,Coconut Chutney
+2025-03-23,Lunch,Lauki Kofta
+2025-03-23,Lunch,Rice
+2025-03-23,Lunch,Dal Tadka
+2025-03-23,Lunch,Roti
+2025-03-23,Lunch,Salad
+2025-03-23,Lunch,Kheer
+2025-03-23,Snacks,Kachori
+2025-03-23,Snacks,Tea
+2025-03-23,Dinner,Kadhi
+2025-03-23,Dinner,Rice
+2025-03-23,Dinner,Roti
+2025-03-23,Dinner,Salad
+2025-03-24,Breakfast,Idli
+2025-03-24,Breakfast,Sambar
+2025-03-24,Breakfast,Coconut Chutney
+2025-03-24,Lunch,Veg Kofta
+2025-03-24,Lunch,Rice
+2025-03-24,Lunch,Dal Tadka
+2025-03-24,Lunch,Roti
+2025-03-24,Lunch,Salad
+2025-03-24,Snacks,Veg Cutlet
+2025-03-24,Snacks,Tea
+2025-03-24,Dinner,Rajma
+2025-03-24,Dinner,Rice
+2025-03-24,Dinner,Roti
+2025-03-24,Dinner,Salad
+2025-03-25,Breakfast,Aloo Paratha
+2025-03-25,Breakfast,Curd
+2025-03-25,Breakfast,Pickle
+2025-03-25,Lunch,Mixed Veg Curry
+2025-03-25,Lunch,Rice
+2025-03-25,Lunch,Dal Tadka
+2025-03-25,Lunch,Roti
+2025-03-25,Lunch,Salad
+2025-03-25,Snacks,Roasted Chana
+2025-03-25,Snacks,Tea
+2025-03-25,Dinner,Veg Korma
+2025-03-25,Dinner,Roti
+2025-03-25,Dinner,Dal
+2025-03-25,Dinner,Salad
+2025-03-26,Breakfast,Idli
+2025-03-26,Breakfast,Sambar
+2025-03-26,Breakfast,Coconut Chutney
+2025-03-26,Lunch,Kadhi
+2025-03-26,Lunch,Rice
+2025-03-26,Lunch,Aloo Gobi
+2025-03-26,Lunch,Roti
+2025-03-26,Snacks,Bread Pakora
+2025-03-26,Snacks,Tea
+2025-03-26,Dinner,Paneer Bhurji
+2025-03-26,Dinner,Roti
+2025-03-26,Dinner,Dal
+2025-03-26,Dinner,Salad
+2025-03-27,Breakfast,Aloo Paratha
+2025-03-27,Breakfast,Curd
+2025-03-27,Breakfast,Pickle
+2025-03-27,Lunch,Mixed Veg Curry
+2025-03-27,Lunch,Rice
+2025-03-27,Lunch,Dal Tadka
+2025-03-27,Lunch,Roti
+2025-03-27,Lunch,Salad
+2025-03-27,Snacks,Dhokla
+2025-03-27,Snacks,Tea
+2025-03-27,Dinner,Paneer Butter Masala
+2025-03-27,Dinner,Roti
+2025-03-27,Dinner,Dal
+2025-03-27,Dinner,Salad
+2025-03-28,Breakfast,Masala Dosa
+2025-03-28,Breakfast,Sambar
+2025-03-28,Breakfast,Coconut Chutney
+2025-03-28,Lunch,Palak Paneer
+2025-03-28,Lunch,Rice
+2025-03-28,Lunch,Dal Tadka
+2025-03-28,Lunch,Roti
+2025-03-28,Lunch,Salad
+2025-03-28,Snacks,Bread Pakora
+2025-03-28,Snacks,Tea
+2025-03-28,Dinner,Aloo Matar
+2025-03-28,Dinner,Roti
+2025-03-28,Dinner,Dal
+2025-03-28,Dinner,Salad
+2025-03-29,Breakfast,Aloo Paratha
+2025-03-29,Breakfast,Curd
+2025-03-29,Breakfast,Pickle
+2025-03-29,Breakfast,Milk
+2025-03-29,Lunch,Kadhi
+2025-03-29,Lunch,Rice
+2025-03-29,Lunch,Aloo Gobi
+2025-03-29,Lunch,Roti
+2025-03-29,Snacks,Dhokla
+2025-03-29,Snacks,Tea
+2025-03-29,Dinner,Aloo Matar
+2025-03-29,Dinner,Roti
+2025-03-29,Dinner,Dal
+2025-03-29,Dinner,Salad
+2025-03-30,Breakfast,Poori Bhaji
+2025-03-30,Breakfast,Tea
+2025-03-30,Lunch,Aloo Gobi
+2025-03-30,Lunch,Rice
+2025-03-30,Lunch,Dal Tadka
+2025-03-30,Lunch,Roti
+2025-03-30,Lunch,Salad
+2025-03-30,Snacks,Samosa
+2025-03-30,Snacks,Tea
+2025-03-30,Dinner,Dal Makhani
+2025-03-30,Dinner,Roti
+2025-03-30,Dinner,Dal
+2025-03-30,Dinner,Salad
+2025-03-31,Breakfast,Poha
+2025-03-31,Breakfast,Banana
+2025-03-31,Lunch,Sambar
+2025-03-31,Lunch,Rice
+2025-03-31,Lunch,Cabbage Poriyal
+2025-03-31,Lunch,Curd
+2025-03-31,Snacks,Bread Pakora
+2025-03-31,Snacks,Tea
+2025-03-31,Dinner,Kadhi
+2025-03-31,Dinner,Rice
+2025-03-31,Dinner,Roti
+2025-03-31,Dinner,Salad
+2025-04-01,Breakfast,Veg Sandwich
+2025-04-01,Breakfast,Seasonal Fruit
+2025-04-01,Lunch,Mixed Veg Curry
+2025-04-01,Lunch,Rice
+2025-04-01,Lunch,Dal Tadka
+2025-04-01,Lunch,Roti
+2025-04-01,Lunch,Salad
+2025-04-01,Snacks,Bread Pakora
+2025-04-01,Snacks,Tea
+2025-04-01,Dinner,Dal Makhani
+2025-04-01,Dinner,Roti
+2025-04-01,Dinner,Dal
+2025-04-01,Dinner,Salad
+2025-04-02,Breakfast,Poha
+2025-04-02,Breakfast,Banana
+2025-04-02,Lunch,Lauki Kofta
+2025-04-02,Lunch,Rice
+2025-04-02,Lunch,Dal Tadka
+2025-04-02,Lunch,Roti
+2025-04-02,Lunch,Salad
+2025-04-02,Snacks,Samosa
+2025-04-02,Snacks,Tea
+2025-04-02,Dinner,Soya Chunk Curry
+2025-04-02,Dinner,Roti
+2025-04-02,Dinner,Dal
+2025-04-02,Dinner,Salad
+2025-04-03,Breakfast,Aloo Paratha
+2025-04-03,Breakfast,Curd
+2025-04-03,Breakfast,Pickle
+2025-04-03,Lunch,Chana Dal
+2025-04-03,Lunch,Rice
+2025-04-03,Lunch,Seasonal Veg
+2025-04-03,Lunch,Roti
+2025-04-03,Lunch,Salad
+2025-04-03,Lunch,Cucumber Raita
+2025-04-03,Snacks,Sprouts Chaat
+2025-04-03,Dinner,Mix Veg
+2025-04-03,Dinner,Roti
+2025-04-03,Dinner,Dal
+2025-04-03,Dinner,Salad
+2025-04-04,Breakfast,Uttapam
+2025-04-04,Breakfast,Sambar
+2025-04-04,Breakfast,Coconut Chutney
+2025-04-04,Lunch,Aloo Gobi
+2025-04-04,Lunch,Rice
+2025-04-04,Lunch,Dal Tadka
+2025-04-04,Lunch,Roti
+2025-04-04,Lunch,Salad
+2025-04-04,Snacks,Roasted Chana
+2025-04-04,Snacks,Tea
+2025-04-04,Dinner,Chana Masala
+2025-04-04,Dinner,Roti
+2025-04-04,Dinner,Dal
+2025-04-04,Dinner,Salad
+2025-04-05,Breakfast,Aloo Paratha
+2025-04-05,Breakfast,Curd
+2025-04-05,Breakfast,Pickle
+2025-04-05,Lunch,Sambar
+2025-04-05,Lunch,Rice
+2025-04-05,Lunch,Cabbage Poriyal
+2025-04-05,Lunch,Curd
+2025-04-05,Snacks,Dhokla
+2025-04-05,Snacks,Tea
+2025-04-05,Dinner,Paneer Butter Masala
+2025-04-05,Dinner,Roti
+2025-04-05,Dinner,Dal
+2025-04-05,Dinner,Salad
+2025-04-06,Breakfast,Aloo Paratha
+2025-04-06,Breakfast,Curd
+2025-04-06,Breakfast,Pickle
+2025-04-06,Lunch,Veg Pulao
+2025-04-06,Lunch,Raita
+2025-04-06,Lunch,Salad
+2025-04-06,Snacks,Roasted Chana
+2025-04-06,Snacks,Tea
+2025-04-06,Dinner,Mix Veg
+2025-04-06,Dinner,Roti
+2025-04-06,Dinner,Dal
+2025-04-06,Dinner,Salad
+2025-04-07,Breakfast,Aloo Paratha
+2025-04-07,Breakfast,Curd
+2025-04-07,Breakfast,Pickle
+2025-04-07,Lunch,Kala Chana
+2025-04-07,Lunch,Rice
+2025-04-07,Lunch,Salad
+2025-04-07,Lunch,Roti
+2025-04-07,Snacks,Bhel Puri
+2025-04-07,Snacks,Tea
+2025-04-07,Dinner,Veg Korma
+2025-04-07,Dinner,Roti
+2025-04-07,Dinner,Dal
+2025-04-07,Dinner,Salad
+2025-04-08,Breakfast,Vegetable Dalia
+2025-04-08,Breakfast,Banana
+2025-04-08,Lunch,Palak Paneer
+2025-04-08,Lunch,Rice
+2025-04-08,Lunch,Dal Tadka
+2025-04-08,Lunch,Roti
+2025-04-08,Lunch,Salad
+2025-04-08,Snacks,Kachori
+2025-04-08,Snacks,Tea
+2025-04-08,Dinner,Chana Masala
+2025-04-08,Dinner,Roti
+2025-04-08,Dinner,Dal
+2025-04-08,Dinner,Salad
+2025-04-09,Breakfast,Masala Dosa
+2025-04-09,Breakfast,Sambar
+2025-04-09,Breakfast,Coconut Chutney
+2025-04-09,Breakfast,Milk
+2025-04-09,Lunch,Mixed Veg Curry
+2025-04-09,Lunch,Rice
+2025-04-09,Lunch,Dal Tadka
+2025-04-09,Lunch,Roti
+2025-04-09,Lunch,Salad
+2025-04-09,Lunch,Cucumber Raita
+2025-04-09,Snacks,Veg Cutlet
+2025-04-09,Snacks,Tea
+2025-04-09,Dinner,Aloo Matar
+2025-04-09,Dinner,Roti
+2025-04-09,Dinner,Dal
+2025-04-09,Dinner,Salad
+2025-04-10,Breakfast,Uttapam
+2025-04-10,Breakfast,Sambar
+2025-04-10,Breakfast,Coconut Chutney
+2025-04-10,Lunch,Kadhi
+2025-04-10,Lunch,Rice
+2025-04-10,Lunch,Aloo Gobi
+2025-04-10,Lunch,Roti
+2025-04-10,Lunch,Gulab Jamun
+2025-04-10,Snacks,Bread Pakora
+2025-04-10,Snacks,Tea
+2025-04-10,Dinner,Palak Corn
+2025-04-10,Dinner,Roti
+2025-04-10,Dinner,Dal
+2025-04-10,Dinner,Salad
+2025-04-11,Breakfast,Masala Dosa
+2025-04-11,Breakfast,Sambar
+2025-04-11,Breakfast,Coconut Chutney
+2025-04-11,Lunch,Lauki Kofta
+2025-04-11,Lunch,Rice
+2025-04-11,Lunch,Dal Tadka
+2025-04-11,Lunch,Roti
+2025-04-11,Lunch,Salad
+2025-04-11,Snacks,Bhel Puri
+2025-04-11,Snacks,Tea
+2025-04-11,Dinner,Soya Chunk Curry
+2025-04-11,Dinner,Roti
+2025-04-11,Dinner,Dal
+2025-04-11,Dinner,Salad
+2025-04-12,Breakfast,Masala Dosa
+2025-04-12,Breakfast,Sambar
+2025-04-12,Breakfast,Coconut Chutney
+2025-04-12,Lunch,Chole
+2025-04-12,Lunch,Rice
+2025-04-12,Lunch,Salad
+2025-04-12,Lunch,Roti
+2025-04-12,Lunch,Cucumber Raita
+2025-04-12,Snacks,Fruit Chaat
+2025-04-12,Dinner,Moong Dal Khichdi
+2025-04-12,Dinner,Curd
+2025-04-12,Dinner,Papad
+2025-04-13,Breakfast,Besan Chilla
+2025-04-13,Breakfast,Mint Chutney
+2025-04-13,Breakfast,Curd
+2025-04-13,Lunch,Lauki Kofta
+2025-04-13,Lunch,Rice
+2025-04-13,Lunch,Dal Tadka
+2025-04-13,Lunch,Roti
+2025-04-13,Lunch,Salad
+2025-04-13,Lunch,Kheer
+2025-04-13,Snacks,Fruit Chaat
+2025-04-13,Dinner,Palak Corn
+2025-04-13,Dinner,Roti
+2025-04-13,Dinner,Dal
+2025-04-13,Dinner,Salad
+2025-04-14,Breakfast,Upma
+2025-04-14,Breakfast,Tea
+2025-04-14,Lunch,Veg Kofta
+2025-04-14,Lunch,Rice
+2025-04-14,Lunch,Dal Tadka
+2025-04-14,Lunch,Roti
+2025-04-14,Lunch,Salad
+2025-04-14,Snacks,Bhel Puri
+2025-04-14,Snacks,Tea
+2025-04-14,Dinner,Palak Corn
+2025-04-14,Dinner,Roti
+2025-04-14,Dinner,Dal
+2025-04-14,Dinner,Salad
+2025-04-15,Breakfast,Poori Bhaji
+2025-04-15,Breakfast,Tea
+2025-04-15,Lunch,Kadhi
+2025-04-15,Lunch,Rice
+2025-04-15,Lunch,Aloo Gobi
+2025-04-15,Lunch,Roti
+2025-04-15,Lunch,Cucumber Raita
+2025-04-15,Snacks,Sprouts Chaat
+2025-04-15,Dinner,Khichdi
+2025-04-15,Dinner,Curd
+2025-04-15,Dinner,Papad
+2025-04-16,Breakfast,Besan Chilla
+2025-04-16,Breakfast,Mint Chutney
+2025-04-16,Breakfast,Curd
+2025-04-16,Lunch,Aloo Gobi
+2025-04-16,Lunch,Rice
+2025-04-16,Lunch,Dal Tadka
+2025-04-16,Lunch,Roti
+2025-04-16,Lunch,Salad
+2025-04-16,Snacks,Corn Chaat
+2025-04-16,Dinner,Soya Chunk Curry
+2025-04-16,Dinner,Roti
+2025-04-16,Dinner,Dal
+2025-04-16,Dinner,Salad
+2025-04-17,Breakfast,Besan Chilla
+2025-04-17,Breakfast,Mint Chutney
+2025-04-17,Breakfast,Curd
+2025-04-17,Lunch,Palak Paneer
+2025-04-17,Lunch,Rice
+2025-04-17,Lunch,Dal Tadka
+2025-04-17,Lunch,Roti
+2025-04-17,Lunch,Salad
+2025-04-17,Snacks,Bread Pakora
+2025-04-17,Snacks,Tea
+2025-04-17,Dinner,Mix Veg
+2025-04-17,Dinner,Roti
+2025-04-17,Dinner,Dal
+2025-04-17,Dinner,Salad
+2025-04-18,Breakfast,Aloo Paratha
+2025-04-18,Breakfast,Curd
+2025-04-18,Breakfast,Pickle
+2025-04-18,Lunch,Aloo Gobi
+2025-04-18,Lunch,Rice
+2025-04-18,Lunch,Dal Tadka
+2025-04-18,Lunch,Roti
+2025-04-18,Lunch,Salad
+2025-04-18,Lunch,Cucumber Raita
+2025-04-18,Snacks,Bread Pakora
+2025-04-18,Snacks,Tea
+2025-04-18,Dinner,Veg Korma
+2025-04-18,Dinner,Roti
+2025-04-18,Dinner,Dal
+2025-04-18,Dinner,Salad
+2025-04-19,Breakfast,Veg Sandwich
+2025-04-19,Breakfast,Seasonal Fruit
+2025-04-19,Lunch,Aloo Gobi
+2025-04-19,Lunch,Rice
+2025-04-19,Lunch,Dal Tadka
+2025-04-19,Lunch,Roti
+2025-04-19,Lunch,Salad
+2025-04-19,Snacks,Bhel Puri
+2025-04-19,Snacks,Tea
+2025-04-19,Dinner,Khichdi
+2025-04-19,Dinner,Curd
+2025-04-19,Dinner,Papad
+2025-04-20,Breakfast,Poha
+2025-04-20,Breakfast,Banana
+2025-04-20,Breakfast,Milk
+2025-04-20,Lunch,Kadhi
+2025-04-20,Lunch,Rice
+2025-04-20,Lunch,Aloo Gobi
+2025-04-20,Lunch,Roti
+2025-04-20,Snacks,Fruit Chaat
+2025-04-20,Dinner,Rajma
+2025-04-20,Dinner,Rice
+2025-04-20,Dinner,Roti
+2025-04-20,Dinner,Salad
+2025-04-21,Breakfast,Uttapam
+2025-04-21,Breakfast,Sambar
+2025-04-21,Breakfast,Coconut Chutney
+2025-04-21,Lunch,Dal Tadka
+2025-04-21,Lunch,Rice
+2025-04-21,Lunch,Seasonal Veg
+2025-04-21,Lunch,Roti
+2025-04-21,Lunch,Salad
+2025-04-21,Lunch,Cucumber Raita
+2025-04-21,Snacks,Bread Pakora
+2025-04-21,Snacks,Tea
+2025-04-21,Dinner,Paneer Bhurji
+2025-04-21,Dinner,Roti
+2025-04-21,Dinner,Dal
+2025-04-21,Dinner,Salad
+2025-04-22,Breakfast,Poha
+2025-04-22,Breakfast,Banana
+2025-04-22,Lunch,Palak Paneer
+2025-04-22,Lunch,Rice
+2025-04-22,Lunch,Dal Tadka
+2025-04-22,Lunch,Roti
+2025-04-22,Lunch,Salad
+2025-04-22,Snacks,Veg Cutlet
+2025-04-22,Snacks,Tea
+2025-04-22,Dinner,Aloo Matar
+2025-04-22,Dinner,Roti
+2025-04-22,Dinner,Dal
+2025-04-22,Dinner,Salad
+2025-04-23,Breakfast,Aloo Paratha
+2025-04-23,Breakfast,Curd
+2025-04-23,Breakfast,Pickle
+2025-04-23,Lunch,Dal Tadka
+2025-04-23,Lunch,Rice
+2025-04-23,Lunch,Seasonal Veg
+2025-04-23,Lunch,Roti
+2025-04-23,Lunch,Salad
+2025-04-23,Snacks,Sprouts Chaat
+2025-04-23,Dinner,Veg Korma
+2025-04-23,Dinner,Roti
+2025-04-23,Dinner,Dal
+2025-04-23,Dinner,Salad
+2025-04-24,Breakfast,Poori Bhaji
+2025-04-24,Breakfast,Tea
+2025-04-24,Lunch,Veg Kofta
+2025-04-24,Lunch,Rice
+2025-04-24,Lunch,Dal Tadka
+2025-04-24,Lunch,Roti
+2025-04-24,Lunch,Salad
+2025-04-24,Lunch,Cucumber Raita
+2025-04-24,Snacks,Roasted Chana
+2025-04-24,Snacks,Tea
+2025-04-24,Dinner,Palak Corn
+2025-04-24,Dinner,Roti
+2025-04-24,Dinner,Dal
+2025-04-24,Dinner,Salad
+2025-04-25,Breakfast,Idli
+2025-04-25,Breakfast,Sambar
+2025-04-25,Breakfast,Coconut Chutney
+2025-04-25,Lunch,Chana Dal
+2025-04-25,Lunch,Rice
+2025-04-25,Lunch,Seasonal Veg
+2025-04-25,Lunch,Roti
+2025-04-25,Lunch,Salad
+2025-04-25,Snacks,Bhel Puri
+2025-04-25,Snacks,Tea
+2025-04-25,Dinner,Veg Korma
+2025-04-25,Dinner,Roti
+2025-04-25,Dinner,Dal
+2025-04-25,Dinner,Salad
+2025-04-26,Breakfast,Upma
+2025-04-26,Breakfast,Tea
+2025-04-26,Lunch,Lauki Kofta
+2025-04-26,Lunch,Rice
+2025-04-26,Lunch,Dal Tadka
+2025-04-26,Lunch,Roti
+2025-04-26,Lunch,Salad
+2025-04-26,Snacks,Corn Chaat
+2025-04-26,Dinner,Aloo Matar
+2025-04-26,Dinner,Roti
+2025-04-26,Dinner,Dal
+2025-04-26,Dinner,Salad
+2025-04-27,Breakfast,Vegetable Dalia
+2025-04-27,Breakfast,Banana
+2025-04-27,Lunch,Rajma
+2025-04-27,Lunch,Rice
+2025-04-27,Lunch,Salad
+2025-04-27,Lunch,Roti
+2025-04-27,Lunch,Cucumber Raita
+2025-04-27,Snacks,Bread Pakora
+2025-04-27,Snacks,Tea
+2025-04-27,Dinner,Aloo Matar
+2025-04-27,Dinner,Roti
+2025-04-27,Dinner,Dal
+2025-04-27,Dinner,Salad
+2025-04-28,Breakfast,Upma
+2025-04-28,Breakfast,Tea
+2025-04-28,Lunch,Kala Chana
+2025-04-28,Lunch,Rice
+2025-04-28,Lunch,Salad
+2025-04-28,Lunch,Roti
+2025-04-28,Snacks,Roasted Chana
+2025-04-28,Snacks,Tea
+2025-04-28,Dinner,Rajma
+2025-04-28,Dinner,Rice
+2025-04-28,Dinner,Roti
+2025-04-28,Dinner,Salad
+2025-04-29,Breakfast,Idli
+2025-04-29,Breakfast,Sambar
+2025-04-29,Breakfast,Coconut Chutney
+2025-04-29,Lunch,Rajma
+2025-04-29,Lunch,Rice
+2025-04-29,Lunch,Salad
+2025-04-29,Lunch,Roti
+2025-04-29,Snacks,Sprouts Chaat
+2025-04-29,Dinner,Aloo Matar
+2025-04-29,Dinner,Roti
+2025-04-29,Dinner,Dal
+2025-04-29,Dinner,Salad
+2025-04-30,Breakfast,Veg Sandwich
+2025-04-30,Breakfast,Seasonal Fruit
+2025-04-30,Lunch,Lauki Kofta
+2025-04-30,Lunch,Rice
+2025-04-30,Lunch,Dal Tadka
+2025-04-30,Lunch,Roti
+2025-04-30,Lunch,Salad
+2025-04-30,Lunch,Cucumber Raita
+2025-04-30,Snacks,Bhel Puri
+2025-04-30,Snacks,Tea
+2025-04-30,Dinner,Veg Biryani
+2025-04-30,Dinner,Raita
+2025-04-30,Dinner,Salad
+2025-05-01,Breakfast,Aloo Paratha
+2025-05-01,Breakfast,Curd
+2025-05-01,Breakfast,Pickle
+2025-05-01,Breakfast,Milk
+2025-05-01,Lunch,Mixed Veg Curry
+2025-05-01,Lunch,Rice
+2025-05-01,Lunch,Dal Tadka
+2025-05-01,Lunch,Roti
+2025-05-01,Lunch,Salad
+2025-05-01,Snacks,Samosa
+2025-05-01,Snacks,Tea
+2025-05-01,Dinner,Kadhi
+2025-05-01,Dinner,Rice
+2025-05-01,Dinner,Roti
+2025-05-01,Dinner,Salad
+2025-05-02,Breakfast,Vegetable Dalia
+2025-05-02,Breakfast,Watermelon
+2025-05-02,Lunch,Kala Chana
+2025-05-02,Lunch,Rice
+2025-05-02,Lunch,Salad
+2025-05-02,Lunch,Roti
+2025-05-02,Snacks,Bread Pakora
+2025-05-02,Snacks,Tea
+2025-05-02,Dinner,Palak Corn
+2025-05-02,Dinner,Roti
+2025-05-02,Dinner,Dal
+2025-05-02,Dinner,Salad
+2025-05-03,Breakfast,Aloo Paratha
+2025-05-03,Breakfast,Curd
+2025-05-03,Breakfast,Pickle
+2025-05-03,Lunch,Chole
+2025-05-03,Lunch,Rice
+2025-05-03,Lunch,Salad
+2025-05-03,Lunch,Roti
+2025-05-03,Lunch,Cucumber Raita
+2025-05-03,Snacks,Bread Pakora
+2025-05-03,Snacks,Tea
+2025-05-03,Dinner,Soya Chunk Curry
+2025-05-03,Dinner,Roti
+2025-05-03,Dinner,Dal
+2025-05-03,Dinner,Salad
+2025-05-04,Breakfast,Poori Bhaji
+2025-05-04,Breakfast,Tea
+2025-05-04,Lunch,Dal Tadka
+2025-05-04,Lunch,Rice
+2025-05-04,Lunch,Seasonal Veg
+2025-05-04,Lunch,Roti
+2025-05-04,Lunch,Salad
+2025-05-04,Lunch,Kheer
+2025-05-04,Snacks,Bread Pakora
+2025-05-04,Snacks,Tea
+2025-05-04,Dinner,Soya Chunk Curry
+2025-05-04,Dinner,Roti
+2025-05-04,Dinner,Dal
+2025-05-04,Dinner,Salad
+2025-05-05,Breakfast,Uttapam
+2025-05-05,Breakfast,Sambar
+2025-05-05,Breakfast,Coconut Chutney
+2025-05-05,Lunch,Palak Paneer
+2025-05-05,Lunch,Rice
+2025-05-05,Lunch,Dal Tadka
+2025-05-05,Lunch,Roti
+2025-05-05,Lunch,Salad
+2025-05-05,Snacks,Bread Pakora
+2025-05-05,Snacks,Tea
+2025-05-05,Dinner,Rajma
+2025-05-05,Dinner,Rice
+2025-05-05,Dinner,Roti
+2025-05-05,Dinner,Salad
+2025-05-06,Breakfast,Veg Sandwich
+2025-05-06,Breakfast,Seasonal Fruit
+2025-05-06,Lunch,Lauki Kofta
+2025-05-06,Lunch,Rice
+2025-05-06,Lunch,Dal Tadka
+2025-05-06,Lunch,Roti
+2025-05-06,Lunch,Salad
+2025-05-06,Lunch,Cucumber Raita
+2025-05-06,Snacks,Corn Chaat
+2025-05-06,Dinner,Palak Corn
+2025-05-06,Dinner,Roti
+2025-05-06,Dinner,Dal
+2025-05-06,Dinner,Salad
+2025-05-07,Breakfast,Upma
+2025-05-07,Breakfast,Tea
+2025-05-07,Lunch,Lauki Kofta
+2025-05-07,Lunch,Rice
+2025-05-07,Lunch,Dal Tadka
+2025-05-07,Lunch,Roti
+2025-05-07,Lunch,Salad
+2025-05-07,Snacks,Fruit Chaat
+2025-05-07,Dinner,Paneer Butter Masala
+2025-05-07,Dinner,Roti
+2025-05-07,Dinner,Dal
+2025-05-07,Dinner,Salad
+2025-05-08,Breakfast,Idli
+2025-05-08,Breakfast,Sambar
+2025-05-08,Breakfast,Coconut Chutney
+2025-05-08,Lunch,Aloo Gobi
+2025-05-08,Lunch,Rice
+2025-05-08,Lunch,Dal Tadka
+2025-05-08,Lunch,Roti
+2025-05-08,Lunch,Salad
+2025-05-08,Snacks,Roasted Chana
+2025-05-08,Snacks,Tea
+2025-05-08,Dinner,Mix Veg
+2025-05-08,Dinner,Roti
+2025-05-08,Dinner,Dal
+2025-05-08,Dinner,Salad
+2025-05-09,Breakfast,Aloo Paratha
+2025-05-09,Breakfast,Curd
+2025-05-09,Breakfast,Pickle
+2025-05-09,Lunch,Lauki Kofta
+2025-05-09,Lunch,Rice
+2025-05-09,Lunch,Dal Tadka
+2025-05-09,Lunch,Roti
+2025-05-09,Lunch,Salad
+2025-05-09,Lunch,Cucumber Raita
+2025-05-09,Snacks,Sprouts Chaat
+2025-05-09,Dinner,Dal Makhani
+2025-05-09,Dinner,Roti
+2025-05-09,Dinner,Dal
+2025-05-09,Dinner,Salad
+2025-05-10,Breakfast,Poori Bhaji
+2025-05-10,Breakfast,Tea
+2025-05-10,Lunch,Dal Tadka
+2025-05-10,Lunch,Rice
+2025-05-10,Lunch,Seasonal Veg
+2025-05-10,Lunch,Roti
+2025-05-10,Lunch,Salad
+2025-05-10,Snacks,Bhel Puri
+2025-05-10,Snacks,Tea
+2025-05-10,Dinner,Kadhi
+2025-05-10,Dinner,Rice
+2025-05-10,Dinner,Roti
+2025-05-10,Dinner,Salad
+2025-05-11,Breakfast,Poori Bhaji
+2025-05-11,Breakfast,Tea
+2025-05-11,Lunch,Chole
+2025-05-11,Lunch,Rice
+2025-05-11,Lunch,Salad
+2025-05-11,Lunch,Roti
+2025-05-11,Snacks,Corn Chaat
+2025-05-11,Dinner,Soya Chunk Curry
+2025-05-11,Dinner,Roti
+2025-05-11,Dinner,Dal
+2025-05-11,Dinner,Salad
+2025-05-12,Breakfast,Upma
+2025-05-12,Breakfast,Tea
+2025-05-12,Breakfast,Milk
+2025-05-12,Lunch,Veg Kofta
+2025-05-12,Lunch,Rice
+2025-05-12,Lunch,Dal Tadka
+2025-05-12,Lunch,Roti
+2025-05-12,Lunch,Salad
+2025-05-12,Lunch,Cucumber Raita
+2025-05-12,Snacks,Kachori
+2025-05-12,Snacks,Tea
+2025-05-12,Dinner,Paneer Butter Masala
+2025-05-12,Dinner,Roti
+2025-05-12,Dinner,Dal
+2025-05-12,Dinner,Salad
+2025-05-13,Breakfast,Masala Dosa
+2025-05-13,Breakfast,Sambar
+2025-05-13,Breakfast,Coconut Chutney
+2025-05-13,Lunch,Kadhi
+2025-05-13,Lunch,Rice
+2025-05-13,Lunch,Aloo Gobi
+2025-05-13,Lunch,Roti
+2025-05-13,Snacks,Sprouts Chaat
+2025-05-13,Dinner,Aloo Matar
+2025-05-13,Dinner,Roti
+2025-05-13,Dinner,Dal
+2025-05-13,Dinner,Salad
+2025-05-14,Breakfast,Veg Sandwich
+2025-05-14,Breakfast,Seasonal Fruit
+2025-05-14,Lunch,Sambar
+2025-05-14,Lunch,Rice
+2025-05-14,Lunch,Cabbage Poriyal
+2025-05-14,Lunch,Curd
+2025-05-14,Snacks,Bhel Puri
+2025-05-14,Snacks,Tea
+2025-05-14,Dinner,Mix Veg
+2025-05-14,Dinner,Roti
+2025-05-14,Dinner,Dal
+2025-05-14,Dinner,Salad
+2025-05-15,Breakfast,Vegetable Dalia
+2025-05-15,Breakfast,Watermelon
+2025-05-15,Lunch,Dal Tadka
+2025-05-15,Lunch,Rice
+2025-05-15,Lunch,Seasonal Veg
+2025-05-15,Lunch,Roti
+2025-05-15,Lunch,Salad
+2025-05-15,Lunch,Cucumber Raita
+2025-05-15,Snacks,Samosa
+2025-05-15,Snacks,Tea
+2025-05-15,Dinner,Rajma
+2025-05-15,Dinner,Rice
+2025-05-15,Dinner,Roti
+2025-05-15,Dinner,Salad
+2025-05-16,Breakfast,Upma
+2025-05-16,Breakfast,Tea
+2025-05-16,Lunch,Matar Paneer
+2025-05-16,Lunch,Rice
+2025-05-16,Lunch,Dal Tadka
+2025-05-16,Lunch,Roti
+2025-05-16,Lunch,Salad
+2025-05-16,Snacks,Fruit Chaat
+2025-05-16,Dinner,Soya Chunk Curry
+2025-05-16,Dinner,Roti
+2025-05-16,Dinner,Dal
+2025-05-16,Dinner,Salad
+2025-05-17,Breakfast,Uttapam
+2025-05-17,Breakfast,Sambar
+2025-05-17,Breakfast,Coconut Chutney
+2025-05-17,Lunch,Aloo Gobi
+2025-05-17,Lunch,Rice
+2025-05-17,Lunch,Dal Tadka
+2025-05-17,Lunch,Roti
+2025-05-17,Lunch,Salad
+2025-05-17,Snacks,Samosa
+2025-05-17,Snacks,Tea
+2025-05-17,Dinner,Aloo Matar
+2025-05-17,Dinner,Roti
+2025-05-17,Dinner,Dal
+2025-05-17,Dinner,Salad
+2025-05-18,Breakfast,Aloo Paratha
+2025-05-18,Breakfast,Curd
+2025-05-18,Breakfast,Pickle
+2025-05-18,Lunch,Rajma
+2025-05-18,Lunch,Rice
+2025-05-18,Lunch,Salad
+2025-05-18,Lunch,Roti
+2025-05-18,Lunch,Cucumber Raita
+2025-05-18,Snacks,Fruit Chaat
+2025-05-18,Dinner,Paneer Butter Masala
+2025-05-18,Dinner,Roti
+2025-05-18,Dinner,Dal
+2025-05-18,Dinner,Salad
+2025-05-19,Breakfast,Upma
+2025-05-19,Breakfast,Tea
+2025-05-19,Lunch,Lauki Kofta
+2025-05-19,Lunch,Rice
+2025-05-19,Lunch,Dal Tadka
+2025-05-19,Lunch,Roti
+2025-05-19,Lunch,Salad
+2025-05-19,Snacks,Samosa
+2025-05-19,Snacks,Tea
+2025-05-19,Dinner,Aloo Matar
+2025-05-19,Dinner,Roti
+2025-05-19,Dinner,Dal
+2025-05-19,Dinner,Salad
+2025-05-20,Breakfast,Masala Dosa
+2025-05-20,Breakfast,Sambar
+2025-05-20,Breakfast,Coconut Chutney
+2025-05-20,Lunch,Rajma
+2025-05-20,Lunch,Rice
+2025-05-20,Lunch,Salad
+2025-05-20,Lunch,Roti
+2025-05-20,Snacks,Fruit Chaat
+2025-05-20,Dinner,Veg Biryani
+2025-05-20,Dinner,Raita
+2025-05-20,Dinner,Salad
+2025-05-21,Breakfast,Vegetable Dalia
+2025-05-21,Breakfast,Watermelon
+2025-05-21,Lunch,Veg Kofta
+2025-05-21,Lunch,Rice
+2025-05-21,Lunch,Dal Tadka
+2025-05-21,Lunch,Roti
+2025-05-21,Lunch,Salad
+2025-05-21,Lunch,Cucumber Raita
+2025-05-21,Snacks,Bread Pakora
+2025-05-21,Snacks,Tea
+2025-05-21,Dinner,Palak Corn
+2025-05-21,Dinner,Roti
+2025-05-21,Dinner,Dal
+2025-05-21,Dinner,Salad
+2025-05-22,Breakfast,Masala Dosa
+2025-05-22,Breakfast,Sambar
+2025-05-22,Breakfast,Coconut Chutney
+2025-05-22,Lunch,Chana Dal
+2025-05-22,Lunch,Rice
+2025-05-22,Lunch,Seasonal Veg
+2025-05-22,Lunch,Roti
+2025-05-22,Lunch,Salad
+2025-05-22,Snacks,Kachori
+2025-05-22,Snacks,Tea
+2025-05-22,Dinner,Moong Dal Khichdi
+2025-05-22,Dinner,Curd
+2025-05-22,Dinner,Papad
+2025-05-23,Breakfast,Vegetable Dalia
+2025-05-23,Breakfast,Watermelon
+2025-05-23,Breakfast,Milk
+2025-05-23,Lunch,Veg Kofta
+2025-05-23,Lunch,Rice
+2025-05-23,Lunch,Dal Tadka
+2025-05-23,Lunch,Roti
+2025-05-23,Lunch,Salad
+2025-05-23,Snacks,Kachori
+2025-05-23,Snacks,Tea
+2025-05-23,Dinner,Mix Veg
+2025-05-23,Dinner,Roti
+2025-05-23,Dinner,Dal
+2025-05-23,Dinner,Salad
+2025-05-24,Breakfast,Poha
+2025-05-24,Breakfast,Watermelon
+2025-05-24,Lunch,Palak Paneer
+2025-05-24,Lunch,Rice
+2025-05-24,Lunch,Dal Tadka
+2025-05-24,Lunch,Roti
+2025-05-24,Lunch,Salad
+2025-05-24,Lunch,Cucumber Raita
+2025-05-24,Snacks,Roasted Chana
+2025-05-24,Snacks,Tea
+2025-05-24,Dinner,Paneer Bhurji
+2025-05-24,Dinner,Roti
+2025-05-24,Dinner,Dal
+2025-05-24,Dinner,Salad
+2025-05-25,Breakfast,Uttapam
+2025-05-25,Breakfast,Sambar
+2025-05-25,Breakfast,Coconut Chutney
+2025-05-25,Lunch,Dal Tadka
+2025-05-25,Lunch,Rice
+2025-05-25,Lunch,Seasonal Veg
+2025-05-25,Lunch,Roti
+2025-05-25,Lunch,Salad
+2025-05-25,Lunch,Kheer
+2025-05-25,Snacks,Corn Chaat
+2025-05-25,Dinner,Khichdi
+2025-05-25,Dinner,Curd
+2025-05-25,Dinner,Papad
+2025-05-26,Breakfast,Upma
+2025-05-26,Breakfast,Tea
+2025-05-26,Lunch,Matar Paneer
+2025-05-26,Lunch,Rice
+2025-05-26,Lunch,Dal Tadka
+2025-05-26,Lunch,Roti
+2025-05-26,Lunch,Salad
+2025-05-26,Snacks,Fruit Chaat
+2025-05-26,Dinner,Paneer Bhurji
+2025-05-26,Dinner,Roti
+2025-05-26,Dinner,Dal
+2025-05-26,Dinner,Salad
+2025-05-27,Breakfast,Idli
+2025-05-27,Breakfast,Sambar
+2025-05-27,Breakfast,Coconut Chutney
+2025-05-27,Lunch,Rajma
+2025-05-27,Lunch,Rice
+2025-05-27,Lunch,Salad
+2025-05-27,Lunch,Roti
+2025-05-27,Lunch,Cucumber Raita
+2025-05-27,Snacks,Bhel Puri
+2025-05-27,Snacks,Tea
+2025-05-27,Dinner,Soya Chunk Curry
+2025-05-27,Dinner,Roti
+2025-05-27,Dinner,Dal
+2025-05-27,Dinner,Salad
+2025-05-28,Breakfast,Masala Dosa
+2025-05-28,Breakfast,Sambar
+2025-05-28,Breakfast,Coconut Chutney
+2025-05-28,Lunch,Kala Chana
+2025-05-28,Lunch,Rice
+2025-05-28,Lunch,Salad
+2025-05-28,Lunch,Roti
+2025-05-28,Snacks,Kachori
+2025-05-28,Snacks,Tea
+2025-05-28,Dinner,Khichdi
+2025-05-28,Dinner,Curd
+2025-05-28,Dinner,Papad
+2025-05-29,Breakfast,Uttapam
+2025-05-29,Breakfast,Sambar
+2025-05-29,Breakfast,Coconut Chutney
+2025-05-29,Lunch,Palak Paneer
+2025-05-29,Lunch,Rice
+2025-05-29,Lunch,Dal Tadka
+2025-05-29,Lunch,Roti
+2025-05-29,Lunch,Salad
+2025-05-29,Snacks,Corn Chaat
+2025-05-29,Dinner,Paneer Bhurji
+2025-05-29,Dinner,Roti
+2025-05-29,Dinner,Dal
+2025-05-29,Dinner,Salad
+2025-05-30,Breakfast,Poha
+2025-05-30,Breakfast,Watermelon
+2025-05-30,Lunch,Mixed Veg Curry
+2025-05-30,Lunch,Rice
+2025-05-30,Lunch,Dal Tadka
+2025-05-30,Lunch,Roti
+2025-05-30,Lunch,Salad
+2025-05-30,Lunch,Cucumber Raita
+2025-05-30,Snacks,Fruit Chaat
+2025-05-30,Dinner,Mix Veg
+2025-05-30,Dinner,Roti
+2025-05-30,Dinner,Dal
+2025-05-30,Dinner,Salad
+2025-05-31,Breakfast,Vegetable Dalia
+2025-05-31,Breakfast,Watermelon
+2025-05-31,Lunch,Rajma
+2025-05-31,Lunch,Rice
+2025-05-31,Lunch,Salad
+2025-05-31,Lunch,Roti
+2025-05-31,Snacks,Fruit Chaat
+2025-05-31,Dinner,Veg Korma
+2025-05-31,Dinner,Roti
+2025-05-31,Dinner,Dal
+2025-05-31,Dinner,Salad
+2025-06-01,Breakfast,Poori Bhaji
+2025-06-01,Breakfast,Tea
+2025-06-01,Lunch,Chana Dal
+2025-06-01,Lunch,Rice
+2025-06-01,Lunch,Seasonal Veg
+2025-06-01,Lunch,Roti
+2025-06-01,Lunch,Salad
+2025-06-01,Snacks,Corn Chaat
+2025-06-01,Dinner,Kadhi
+2025-06-01,Dinner,Rice
+2025-06-01,Dinner,Roti
+2025-06-01,Dinner,Salad
+2025-06-02,Breakfast,Aloo Paratha
+2025-06-02,Breakfast,Curd
+2025-06-02,Breakfast,Pickle
+2025-06-02,Lunch,Kadhi
+2025-06-02,Lunch,Rice
+2025-06-02,Lunch,Aloo Gobi
+2025-06-02,Lunch,Roti
+2025-06-02,Snacks,Dhokla
+2025-06-02,Snacks,Tea
+2025-06-02,Dinner,Paneer Bhurji
+2025-06-02,Dinner,Roti
+2025-06-02,Dinner,Dal
+2025-06-02,Dinner,Salad
+2025-06-03,Breakfast,Upma
+2025-06-03,Breakfast,Tea
+2025-06-03,Breakfast,Milk
+2025-06-03,Lunch,Lauki Kofta
+2025-06-03,Lunch,Rice
+2025-06-03,Lunch,Dal Tadka
+2025-06-03,Lunch,Roti
+2025-06-03,Lunch,Salad
+2025-06-03,Lunch,Cucumber Raita
+2025-06-03,Snacks,Sprouts Chaat
+2025-06-03,Dinner,Kadhi
+2025-06-03,Dinner,Rice
+2025-06-03,Dinner,Roti
+2025-06-03,Dinner,Salad
+2025-06-04,Breakfast,Besan Chilla
+2025-06-04,Breakfast,Mint Chutney
+2025-06-04,Breakfast,Curd
+2025-06-04,Lunch,Rajma
+2025-06-04,Lunch,Rice
+2025-06-04,Lunch,Salad
+2025-06-04,Lunch,Roti
+2025-06-04,Snacks,Corn Chaat
+2025-06-04,Dinner,Mix Veg
+2025-06-04,Dinner,Roti
+2025-06-04,Dinner,Dal
+2025-06-04,Dinner,Salad
+2025-06-05,Breakfast,Poori Bhaji
+2025-06-05,Breakfast,Tea
+2025-06-05,Lunch,Mixed Veg Curry
+2025-06-05,Lunch,Rice
+2025-06-05,Lunch,Dal Tadka
+2025-06-05,Lunch,Roti
+2025-06-05,Lunch,Salad
+2025-06-05,Snacks,Dhokla
+2025-06-05,Snacks,Tea
+2025-06-05,Dinner,Rajma
+2025-06-05,Dinner,Rice
+2025-06-05,Dinner,Roti
+2025-06-05,Dinner,Salad
+2025-06-06,Breakfast,Masala Dosa
+2025-06-06,Breakfast,Sambar
+2025-06-06,Breakfast,Coconut Chutney
+2025-06-06,Lunch,Aloo Gobi
+2025-06-06,Lunch,Rice
+2025-06-06,Lunch,Dal Tadka
+2025-06-06,Lunch,Roti
+2025-06-06,Lunch,Salad
+2025-06-06,Lunch,Cucumber Raita
+2025-06-06,Snacks,Veg Cutlet
+2025-06-06,Snacks,Tea
+2025-06-06,Dinner,Moong Dal Khichdi
+2025-06-06,Dinner,Curd
+2025-06-06,Dinner,Papad
+2025-06-07,Breakfast,Upma
+2025-06-07,Breakfast,Tea
+2025-06-07,Lunch,Lauki Kofta
+2025-06-07,Lunch,Rice
+2025-06-07,Lunch,Dal Tadka
+2025-06-07,Lunch,Roti
+2025-06-07,Lunch,Salad
+2025-06-07,Snacks,Bread Pakora
+2025-06-07,Snacks,Tea
+2025-06-07,Dinner,Palak Corn
+2025-06-07,Dinner,Roti
+2025-06-07,Dinner,Dal
+2025-06-07,Dinner,Salad
+2025-06-08,Breakfast,Uttapam
+2025-06-08,Breakfast,Sambar
+2025-06-08,Breakfast,Coconut Chutney
+2025-06-08,Lunch,Palak Paneer
+2025-06-08,Lunch,Rice
+2025-06-08,Lunch,Dal Tadka
+2025-06-08,Lunch,Roti
+2025-06-08,Lunch,Salad
+2025-06-08,Snacks,Dhokla
+2025-06-08,Snacks,Tea
+2025-06-08,Dinner,Moong Dal Khichdi
+2025-06-08,Dinner,Curd
+2025-06-08,Dinner,Papad
+2025-06-09,Breakfast,Aloo Paratha
+2025-06-09,Breakfast,Curd
+2025-06-09,Breakfast,Pickle
+2025-06-09,Lunch,Mixed Veg Curry
+2025-06-09,Lunch,Rice
+2025-06-09,Lunch,Dal Tadka
+2025-06-09,Lunch,Roti
+2025-06-09,Lunch,Salad
+2025-06-09,Lunch,Cucumber Raita
+2025-06-09,Snacks,Kachori
+2025-06-09,Snacks,Tea
+2025-06-09,Dinner,Paneer Butter Masala
+2025-06-09,Dinner,Roti
+2025-06-09,Dinner,Dal
+2025-06-09,Dinner,Salad
+2025-06-10,Breakfast,Uttapam
+2025-06-10,Breakfast,Sambar
+2025-06-10,Breakfast,Coconut Chutney
+2025-06-10,Lunch,Aloo Gobi
+2025-06-10,Lunch,Rice
+2025-06-10,Lunch,Dal Tadka
+2025-06-10,Lunch,Roti
+2025-06-10,Lunch,Salad
+2025-06-10,Snacks,Dhokla
+2025-06-10,Snacks,Tea
+2025-06-10,Dinner,Paneer Butter Masala
+2025-06-10,Dinner,Roti
+2025-06-10,Dinner,Dal
+2025-06-10,Dinner,Salad
+2025-06-11,Breakfast,Poha
+2025-06-11,Breakfast,Watermelon
+2025-06-11,Lunch,Mixed Veg Curry
+2025-06-11,Lunch,Rice
+2025-06-11,Lunch,Dal Tadka
+2025-06-11,Lunch,Roti
+2025-06-11,Lunch,Salad
+2025-06-11,Snacks,Dhokla
+2025-06-11,Snacks,Tea
+2025-06-11,Dinner,Rajma
+2025-06-11,Dinner,Rice
+2025-06-11,Dinner,Roti
+2025-06-11,Dinner,Salad
+2025-06-12,Breakfast,Besan Chilla
+2025-06-12,Breakfast,Mint Chutney
+2025-06-12,Breakfast,Curd
+2025-06-12,Lunch,Chole
+2025-06-12,Lunch,Rice
+2025-06-12,Lunch,Salad
+2025-06-12,Lunch,Roti
+2025-06-12,Lunch,Cucumber Raita
+2025-06-12,Snacks,Bhel Puri
+2025-06-12,Snacks,Tea
+2025-06-12,Dinner,Kadhi
+2025-06-12,Dinner,Rice
+2025-06-12,Dinner,Roti
+2025-06-12,Dinner,Salad
+2025-06-13,Breakfast,Uttapam
+2025-06-13,Breakfast,Sambar
+2025-06-13,Breakfast,Coconut Chutney
+2025-06-13,Lunch,Lauki Kofta
+2025-06-13,Lunch,Rice
+2025-06-13,Lunch,Dal Tadka
+2025-06-13,Lunch,Roti
+2025-06-13,Lunch,Salad
+2025-06-13,Snacks,Bread Pakora
+2025-06-13,Snacks,Tea
+2025-06-13,Dinner,Mix Veg
+2025-06-13,Dinner,Roti
+2025-06-13,Dinner,Dal
+2025-06-13,Dinner,Salad
+2025-06-14,Breakfast,Upma
+2025-06-14,Breakfast,Tea
+2025-06-14,Breakfast,Milk
+2025-06-14,Lunch,Veg Pulao
+2025-06-14,Lunch,Raita
+2025-06-14,Lunch,Salad
+2025-06-14,Snacks,Veg Cutlet
+2025-06-14,Snacks,Tea
+2025-06-14,Dinner,Kadhi
+2025-06-14,Dinner,Rice
+2025-06-14,Dinner,Roti
+2025-06-14,Dinner,Salad
+2025-06-15,Breakfast,Aloo Paratha
+2025-06-15,Breakfast,Curd
+2025-06-15,Breakfast,Pickle
+2025-06-15,Lunch,Kala Chana
+2025-06-15,Lunch,Rice
+2025-06-15,Lunch,Salad
+2025-06-15,Lunch,Roti
+2025-06-15,Lunch,Cucumber Raita
+2025-06-15,Lunch,Gulab Jamun
+2025-06-15,Lunch,Kheer
+2025-06-15,Snacks,Veg Cutlet
+2025-06-15,Snacks,Tea
+2025-06-15,Dinner,Paneer Butter Masala
+2025-06-15,Dinner,Roti
+2025-06-15,Dinner,Dal
+2025-06-15,Dinner,Salad
+2025-06-16,Breakfast,Aloo Paratha
+2025-06-16,Breakfast,Curd
+2025-06-16,Breakfast,Pickle
+2025-06-16,Lunch,Veg Kofta
+2025-06-16,Lunch,Rice
+2025-06-16,Lunch,Dal Tadka
+2025-06-16,Lunch,Roti
+2025-06-16,Lunch,Salad
+2025-06-16,Snacks,Dhokla
+2025-06-16,Snacks,Tea
+2025-06-16,Dinner,Chana Masala
+2025-06-16,Dinner,Roti
+2025-06-16,Dinner,Dal
+2025-06-16,Dinner,Salad
+2025-06-17,Breakfast,Aloo Paratha
+2025-06-17,Breakfast,Curd
+2025-06-17,Breakfast,Pickle
+2025-06-17,Lunch,Chana Dal
+2025-06-17,Lunch,Rice
+2025-06-17,Lunch,Seasonal Veg
+2025-06-17,Lunch,Roti
+2025-06-17,Lunch,Salad
+2025-06-17,Snacks,Bread Pakora
+2025-06-17,Snacks,Tea
+2025-06-17,Dinner,Palak Corn
+2025-06-17,Dinner,Roti
+2025-06-17,Dinner,Dal
+2025-06-17,Dinner,Salad
+2025-06-18,Breakfast,Poori Bhaji
+2025-06-18,Breakfast,Tea
+2025-06-18,Lunch,Veg Kofta
+2025-06-18,Lunch,Rice
+2025-06-18,Lunch,Dal Tadka
+2025-06-18,Lunch,Roti
+2025-06-18,Lunch,Salad
+2025-06-18,Lunch,Cucumber Raita
+2025-06-18,Snacks,Dhokla
+2025-06-18,Snacks,Tea
+2025-06-18,Dinner,Paneer Bhurji
+2025-06-18,Dinner,Roti
+2025-06-18,Dinner,Dal
+2025-06-18,Dinner,Salad
+2025-06-19,Breakfast,Masala Dosa
+2025-06-19,Breakfast,Sambar
+2025-06-19,Breakfast,Coconut Chutney
+2025-06-19,Lunch,Matar Paneer
+2025-06-19,Lunch,Rice
+2025-06-19,Lunch,Dal Tadka
+2025-06-19,Lunch,Roti
+2025-06-19,Lunch,Salad
+2025-06-19,Snacks,Fruit Chaat
+2025-06-19,Dinner,Soya Chunk Curry
+2025-06-19,Dinner,Roti
+2025-06-19,Dinner,Dal
+2025-06-19,Dinner,Salad
+2025-06-20,Breakfast,Besan Chilla
+2025-06-20,Breakfast,Mint Chutney
+2025-06-20,Breakfast,Curd
+2025-06-20,Lunch,Chana Dal
+2025-06-20,Lunch,Rice
+2025-06-20,Lunch,Seasonal Veg
+2025-06-20,Lunch,Roti
+2025-06-20,Lunch,Salad
+2025-06-20,Snacks,Corn Chaat
+2025-06-20,Dinner,Paneer Bhurji
+2025-06-20,Dinner,Roti
+2025-06-20,Dinner,Dal
+2025-06-20,Dinner,Salad
+2025-06-21,Breakfast,Idli
+2025-06-21,Breakfast,Sambar
+2025-06-21,Breakfast,Coconut Chutney
+2025-06-21,Lunch,Kala Chana
+2025-06-21,Lunch,Rice
+2025-06-21,Lunch,Salad
+2025-06-21,Lunch,Roti
+2025-06-21,Lunch,Cucumber Raita
+2025-06-21,Snacks,Veg Cutlet
+2025-06-21,Snacks,Tea
+2025-06-21,Dinner,Paneer Bhurji
+2025-06-21,Dinner,Roti
+2025-06-21,Dinner,Dal
+2025-06-21,Dinner,Salad
+2025-06-22,Breakfast,Besan Chilla
+2025-06-22,Breakfast,Mint Chutney
+2025-06-22,Breakfast,Curd
+2025-06-22,Lunch,Kadhi
+2025-06-22,Lunch,Rice
+2025-06-22,Lunch,Aloo Gobi
+2025-06-22,Lunch,Roti
+2025-06-22,Snacks,Sprouts Chaat
+2025-06-22,Dinner,Moong Dal Khichdi
+2025-06-22,Dinner,Curd
+2025-06-22,Dinner,Papad
+2025-06-23,Breakfast,Vegetable Dalia
+2025-06-23,Breakfast,Watermelon
+2025-06-23,Lunch,Lauki Kofta
+2025-06-23,Lunch,Rice
+2025-06-23,Lunch,Dal Tadka
+2025-06-23,Lunch,Roti
+2025-06-23,Lunch,Salad
+2025-06-23,Snacks,Roasted Chana
+2025-06-23,Snacks,Tea
+2025-06-23,Dinner,Chana Masala
+2025-06-23,Dinner,Roti
+2025-06-23,Dinner,Dal
+2025-06-23,Dinner,Salad
+2025-06-24,Breakfast,Poha
+2025-06-24,Breakfast,Watermelon
+2025-06-24,Lunch,Veg Pulao
+2025-06-24,Lunch,Raita
+2025-06-24,Lunch,Salad
+2025-06-24,Snacks,Bread Pakora
+2025-06-24,Snacks,Tea
+2025-06-24,Dinner,Dal Makhani
+2025-06-24,Dinner,Roti
+2025-06-24,Dinner,Dal
+2025-06-24,Dinner,Salad
+2025-06-25,Breakfast,Masala Dosa
+2025-06-25,Breakfast,Sambar
+2025-06-25,Breakfast,Coconut Chutney
+2025-06-25,Breakfast,Milk
+2025-06-25,Lunch,Palak Paneer
+2025-06-25,Lunch,Rice
+2025-06-25,Lunch,Dal Tadka
+2025-06-25,Lunch,Roti
+2025-06-25,Lunch,Salad
+2025-06-25,Snacks,Samosa
+2025-06-25,Snacks,Tea
+2025-06-25,Dinner,Moong Dal Khichdi
+2025-06-25,Dinner,Curd
+2025-06-25,Dinner,Papad
+2025-06-26,Breakfast,Masala Dosa
+2025-06-26,Breakfast,Sambar
+2025-06-26,Breakfast,Coconut Chutney
+2025-06-26,Lunch,Lauki Kofta
+2025-06-26,Lunch,Rice
+2025-06-26,Lunch,Dal Tadka
+2025-06-26,Lunch,Roti
+2025-06-26,Lunch,Salad
+2025-06-26,Snacks,Fruit Chaat
+2025-06-26,Dinner,Soya Chunk Curry
+2025-06-26,Dinner,Roti
+2025-06-26,Dinner,Dal
+2025-06-26,Dinner,Salad
+2025-06-27,Breakfast,Masala Dosa
+2025-06-27,Breakfast,Sambar
+2025-06-27,Breakfast,Coconut Chutney
+2025-06-27,Lunch,Kadhi
+2025-06-27,Lunch,Rice
+2025-06-27,Lunch,Aloo Gobi
+2025-06-27,Lunch,Roti
+2025-06-27,Lunch,Cucumber Raita
+2025-06-27,Snacks,Bhel Puri
+2025-06-27,Snacks,Tea
+2025-06-27,Dinner,Kadhi
+2025-06-27,Dinner,Rice
+2025-06-27,Dinner,Roti
+2025-06-27,Dinner,Salad
+2025-06-28,Breakfast,Masala Dosa
+2025-06-28,Breakfast,Sambar
+2025-06-28,Breakfast,Coconut Chutney
+2025-06-28,Lunch,Matar Paneer
+2025-06-28,Lunch,Rice
+2025-06-28,Lunch,Dal Tadka
+2025-06-28,Lunch,Roti
+2025-06-28,Lunch,Salad
+2025-06-28,Snacks,Bread Pakora
+2025-06-28,Snacks,Tea
+2025-06-28,Dinner,Moong Dal Khichdi
+2025-06-28,Dinner,Curd
+2025-06-28,Dinner,Papad
+2025-06-29,Breakfast,Veg Sandwich
+2025-06-29,Breakfast,Seasonal Fruit
+2025-06-29,Lunch,Dal Tadka
+2025-06-29,Lunch,Rice
+2025-06-29,Lunch,Seasonal Veg
+2025-06-29,Lunch,Roti
+2025-06-29,Lunch,Salad
+2025-06-29,Snacks,Samosa
+2025-06-29,Snacks,Tea
+2025-06-29,Dinner,Mix Veg
+2025-06-29,Dinner,Roti
+2025-06-29,Dinner,Dal
+2025-06-29,Dinner,Salad
+2025-06-30,Breakfast,Masala Dosa
+2025-06-30,Breakfast,Sambar
+2025-06-30,Breakfast,Coconut Chutney
+2025-06-30,Lunch,Palak Paneer
+2025-06-30,Lunch,Rice
+2025-06-30,Lunch,Dal Tadka
+2025-06-30,Lunch,Roti
+2025-06-30,Lunch,Salad
+2025-06-30,Lunch,Cucumber Raita
+2025-06-30,Snacks,Sprouts Chaat
+2025-06-30,Dinner,Chana Masala
+2025-06-30,Dinner,Roti
+2025-06-30,Dinner,Dal
+2025-06-30,Dinner,Salad
+2025-07-01,Breakfast,Uttapam
+2025-07-01,Breakfast,Sambar
+2025-07-01,Breakfast,Coconut Chutney
+2025-07-01,Lunch,Aloo Gobi
+2025-07-01,Lunch,Rice
+2025-07-01,Lunch,Dal Tadka
+2025-07-01,Lunch,Roti
+2025-07-01,Lunch,Salad
+2025-07-01,Snacks,Dhokla
+2025-07-01,Snacks,Tea
+2025-07-01,Dinner,Chana Masala
+2025-07-01,Dinner,Roti
+2025-07-01,Dinner,Dal
+2025-07-01,Dinner,Salad
+2025-07-02,Breakfast,Aloo Paratha
+2025-07-02,Breakfast,Curd
+2025-07-02,Breakfast,Pickle
+2025-07-02,Lunch,Rajma
+2025-07-02,Lunch,Rice
+2025-07-02,Lunch,Salad
+2025-07-02,Lunch,Roti
+2025-07-02,Snacks,Roasted Chana
+2025-07-02,Snacks,Tea
+2025-07-02,Dinner,Aloo Matar
+2025-07-02,Dinner,Roti
+2025-07-02,Dinner,Dal
+2025-07-02,Dinner,Salad
+2025-07-03,Breakfast,Upma
+2025-07-03,Breakfast,Tea
+2025-07-03,Lunch,Rajma
+2025-07-03,Lunch,Rice
+2025-07-03,Lunch,Salad
+2025-07-03,Lunch,Roti
+2025-07-03,Snacks,Fruit Chaat
+2025-07-03,Dinner,Palak Corn
+2025-07-03,Dinner,Roti
+2025-07-03,Dinner,Dal
+2025-07-03,Dinner,Salad
+2025-07-04,Breakfast,Poha
+2025-07-04,Breakfast,Banana
+2025-07-04,Lunch,Mixed Veg Curry
+2025-07-04,Lunch,Rice
+2025-07-04,Lunch,Dal Tadka
+2025-07-04,Lunch,Roti
+2025-07-04,Lunch,Salad
+2025-07-04,Snacks,Samosa
+2025-07-04,Snacks,Tea
+2025-07-04,Dinner,Mix Veg
+2025-07-04,Dinner,Roti
+2025-07-04,Dinner,Dal
+2025-07-04,Dinner,Salad
+2025-07-05,Breakfast,Uttapam
+2025-07-05,Breakfast,Sambar
+2025-07-05,Breakfast,Coconut Chutney
+2025-07-05,Lunch,Mixed Veg Curry
+2025-07-05,Lunch,Rice
+2025-07-05,Lunch,Dal Tadka
+2025-07-05,Lunch,Roti
+2025-07-05,Lunch,Salad
+2025-07-05,Snacks,Sprouts Chaat
+2025-07-05,Dinner,Khichdi
+2025-07-05,Dinner,Curd
+2025-07-05,Dinner,Papad
+2025-07-06,Breakfast,Aloo Paratha
+2025-07-06,Breakfast,Curd
+2025-07-06,Breakfast,Pickle
+2025-07-06,Breakfast,Milk
+2025-07-06,Lunch,Mixed Veg Curry
+2025-07-06,Lunch,Rice
+2025-07-06,Lunch,Dal Tadka
+2025-07-06,Lunch,Roti
+2025-07-06,Lunch,Salad
+2025-07-06,Lunch,Kheer
+2025-07-06,Snacks,Sprouts Chaat
+2025-07-06,Dinner,Veg Biryani
+2025-07-06,Dinner,Raita
+2025-07-06,Dinner,Salad
+2025-07-07,Breakfast,Poori Bhaji
+2025-07-07,Breakfast,Tea
+2025-07-07,Lunch,Dal Tadka
+2025-07-07,Lunch,Rice
+2025-07-07,Lunch,Seasonal Veg
+2025-07-07,Lunch,Roti
+2025-07-07,Lunch,Salad
+2025-07-07,Snacks,Samosa
+2025-07-07,Snacks,Tea
+2025-07-07,Dinner,Palak Corn
+2025-07-07,Dinner,Roti
+2025-07-07,Dinner,Dal
+2025-07-07,Dinner,Salad
+2025-07-08,Breakfast,Poha
+2025-07-08,Breakfast,Banana
+2025-07-08,Lunch,Mixed Veg Curry
+2025-07-08,Lunch,Rice
+2025-07-08,Lunch,Dal Tadka
+2025-07-08,Lunch,Roti
+2025-07-08,Lunch,Salad
+2025-07-08,Snacks,Dhokla
+2025-07-08,Snacks,Tea
+2025-07-08,Dinner,Aloo Matar
+2025-07-08,Dinner,Roti
+2025-07-08,Dinner,Dal
+2025-07-08,Dinner,Salad
+2025-07-09,Breakfast,Poori Bhaji
+2025-07-09,Breakfast,Tea
+2025-07-09,Lunch,Lauki Kofta
+2025-07-09,Lunch,Rice
+2025-07-09,Lunch,Dal Tadka
+2025-07-09,Lunch,Roti
+2025-07-09,Lunch,Salad
+2025-07-09,Snacks,Samosa
+2025-07-09,Snacks,Tea
+2025-07-09,Dinner,Veg Korma
+2025-07-09,Dinner,Roti
+2025-07-09,Dinner,Dal
+2025-07-09,Dinner,Salad
+2025-07-10,Breakfast,Aloo Paratha
+2025-07-10,Breakfast,Curd
+2025-07-10,Breakfast,Pickle
+2025-07-10,Lunch,Dal Tadka
+2025-07-10,Lunch,Rice
+2025-07-10,Lunch,Seasonal Veg
+2025-07-10,Lunch,Roti
+2025-07-10,Lunch,Salad
+2025-07-10,Snacks,Bread Pakora
+2025-07-10,Snacks,Tea
+2025-07-10,Dinner,Khichdi
+2025-07-10,Dinner,Curd
+2025-07-10,Dinner,Papad
+2025-07-11,Breakfast,Veg Sandwich
+2025-07-11,Breakfast,Seasonal Fruit
+2025-07-11,Lunch,Sambar
+2025-07-11,Lunch,Rice
+2025-07-11,Lunch,Cabbage Poriyal
+2025-07-11,Lunch,Curd
+2025-07-11,Snacks,Bread Pakora
+2025-07-11,Snacks,Tea
+2025-07-11,Dinner,Chana Masala
+2025-07-11,Dinner,Roti
+2025-07-11,Dinner,Dal
+2025-07-11,Dinner,Salad
+2025-07-12,Breakfast,Vegetable Dalia
+2025-07-12,Breakfast,Banana
+2025-07-12,Lunch,Dal Tadka
+2025-07-12,Lunch,Rice
+2025-07-12,Lunch,Seasonal Veg
+2025-07-12,Lunch,Roti
+2025-07-12,Lunch,Salad
+2025-07-12,Snacks,Roasted Chana
+2025-07-12,Snacks,Tea
+2025-07-12,Dinner,Soya Chunk Curry
+2025-07-12,Dinner,Roti
+2025-07-12,Dinner,Dal
+2025-07-12,Dinner,Salad
+2025-07-13,Breakfast,Besan Chilla
+2025-07-13,Breakfast,Mint Chutney
+2025-07-13,Breakfast,Curd
+2025-07-13,Lunch,Aloo Gobi
+2025-07-13,Lunch,Rice
+2025-07-13,Lunch,Dal Tadka
+2025-07-13,Lunch,Roti
+2025-07-13,Lunch,Salad
+2025-07-13,Snacks,Veg Cutlet
+2025-07-13,Snacks,Tea
+2025-07-13,Dinner,Moong Dal Khichdi
+2025-07-13,Dinner,Curd
+2025-07-13,Dinner,Papad
+2025-07-14,Breakfast,Uttapam
+2025-07-14,Breakfast,Sambar
+2025-07-14,Breakfast,Coconut Chutney
+2025-07-14,Lunch,Dal Tadka
+2025-07-14,Lunch,Rice
+2025-07-14,Lunch,Seasonal Veg
+2025-07-14,Lunch,Roti
+2025-07-14,Lunch,Salad
+2025-07-14,Snacks,Roasted Chana
+2025-07-14,Snacks,Tea
+2025-07-14,Dinner,Mix Veg
+2025-07-14,Dinner,Roti
+2025-07-14,Dinner,Dal
+2025-07-14,Dinner,Salad
+2025-07-15,Breakfast,Poha
+2025-07-15,Breakfast,Banana
+2025-07-15,Lunch,Lauki Kofta
+2025-07-15,Lunch,Rice
+2025-07-15,Lunch,Dal Tadka
+2025-07-15,Lunch,Roti
+2025-07-15,Lunch,Salad
+2025-07-15,Snacks,Sprouts Chaat
+2025-07-15,Dinner,Soya Chunk Curry
+2025-07-15,Dinner,Roti
+2025-07-15,Dinner,Dal
+2025-07-15,Dinner,Salad
+2025-07-16,Breakfast,Vegetable Dalia
+2025-07-16,Breakfast,Banana
+2025-07-16,Lunch,Matar Paneer
+2025-07-16,Lunch,Rice
+2025-07-16,Lunch,Dal Tadka
+2025-07-16,Lunch,Roti
+2025-07-16,Lunch,Salad
+2025-07-16,Snacks,Dhokla
+2025-07-16,Snacks,Tea
+2025-07-16,Dinner,Moong Dal Khichdi
+2025-07-16,Dinner,Curd
+2025-07-16,Dinner,Papad
+2025-07-17,Breakfast,Aloo Paratha
+2025-07-17,Breakfast,Curd
+2025-07-17,Breakfast,Pickle
+2025-07-17,Breakfast,Milk
+2025-07-17,Lunch,Mixed Veg Curry
+2025-07-17,Lunch,Rice
+2025-07-17,Lunch,Dal Tadka
+2025-07-17,Lunch,Roti
+2025-07-17,Lunch,Salad
+2025-07-17,Snacks,Bread Pakora
+2025-07-17,Snacks,Tea
+2025-07-17,Dinner,Paneer Bhurji
+2025-07-17,Dinner,Roti
+2025-07-17,Dinner,Dal
+2025-07-17,Dinner,Salad
+2025-07-18,Breakfast,Masala Dosa
+2025-07-18,Breakfast,Sambar
+2025-07-18,Breakfast,Coconut Chutney
+2025-07-18,Lunch,Kala Chana
+2025-07-18,Lunch,Rice
+2025-07-18,Lunch,Salad
+2025-07-18,Lunch,Roti
+2025-07-18,Snacks,Fruit Chaat
+2025-07-18,Dinner,Paneer Butter Masala
+2025-07-18,Dinner,Roti
+2025-07-18,Dinner,Dal
+2025-07-18,Dinner,Salad
+2025-07-19,Breakfast,Idli
+2025-07-19,Breakfast,Sambar
+2025-07-19,Breakfast,Coconut Chutney
+2025-07-19,Lunch,Kala Chana
+2025-07-19,Lunch,Rice
+2025-07-19,Lunch,Salad
+2025-07-19,Lunch,Roti
+2025-07-19,Snacks,Sprouts Chaat
+2025-07-19,Dinner,Chana Masala
+2025-07-19,Dinner,Roti
+2025-07-19,Dinner,Dal
+2025-07-19,Dinner,Salad
+2025-07-20,Breakfast,Poha
+2025-07-20,Breakfast,Banana
+2025-07-20,Lunch,Dal Tadka
+2025-07-20,Lunch,Rice
+2025-07-20,Lunch,Seasonal Veg
+2025-07-20,Lunch,Roti
+2025-07-20,Lunch,Salad
+2025-07-20,Snacks,Bread Pakora
+2025-07-20,Snacks,Tea
+2025-07-20,Dinner,Paneer Bhurji
+2025-07-20,Dinner,Roti
+2025-07-20,Dinner,Dal
+2025-07-20,Dinner,Salad
+2025-07-21,Breakfast,Uttapam
+2025-07-21,Breakfast,Sambar
+2025-07-21,Breakfast,Coconut Chutney
+2025-07-21,Lunch,Matar Paneer
+2025-07-21,Lunch,Rice
+2025-07-21,Lunch,Dal Tadka
+2025-07-21,Lunch,Roti
+2025-07-21,Lunch,Salad
+2025-07-21,Snacks,Dhokla
+2025-07-21,Snacks,Tea
+2025-07-21,Dinner,Moong Dal Khichdi
+2025-07-21,Dinner,Curd
+2025-07-21,Dinner,Papad
+2025-07-22,Breakfast,Besan Chilla
+2025-07-22,Breakfast,Mint Chutney
+2025-07-22,Breakfast,Curd
+2025-07-22,Lunch,Kala Chana
+2025-07-22,Lunch,Rice
+2025-07-22,Lunch,Salad
+2025-07-22,Lunch,Roti
+2025-07-22,Snacks,Corn Chaat
+2025-07-22,Dinner,Moong Dal Khichdi
+2025-07-22,Dinner,Curd
+2025-07-22,Dinner,Papad
+2025-07-23,Breakfast,Upma
+2025-07-23,Breakfast,Tea
+2025-07-23,Lunch,Aloo Gobi
+2025-07-23,Lunch,Rice
+2025-07-23,Lunch,Dal Tadka
+2025-07-23,Lunch,Roti
+2025-07-23,Lunch,Salad
+2025-07-23,Lunch,Gulab Jamun
+2025-07-23,Snacks,Fruit Chaat
+2025-07-23,Dinner,Chana Masala
+2025-07-23,Dinner,Roti
+2025-07-23,Dinner,Dal
+2025-07-23,Dinner,Salad
+2025-07-24,Breakfast,Poori Bhaji
+2025-07-24,Breakfast,Tea
+2025-07-24,Lunch,Dal Tadka
+2025-07-24,Lunch,Rice
+2025-07-24,Lunch,Seasonal Veg
+2025-07-24,Lunch,Roti
+2025-07-24,Lunch,Salad
+2025-07-24,Snacks,Dhokla
+2025-07-24,Snacks,Tea
+2025-07-24,Dinner,Khichdi
+2025-07-24,Dinner,Curd
+2025-07-24,Dinner,Papad
+2025-07-25,Breakfast,Poori Bhaji
+2025-07-25,Breakfast,Tea
+2025-07-25,Lunch,Veg Kofta
+2025-07-25,Lunch,Rice
+2025-07-25,Lunch,Dal Tadka
+2025-07-25,Lunch,Roti
+2025-07-25,Lunch,Salad
+2025-07-25,Snacks,Kachori
+2025-07-25,Snacks,Tea
+2025-07-25,Dinner,Aloo Matar
+2025-07-25,Dinner,Roti
+2025-07-25,Dinner,Dal
+2025-07-25,Dinner,Salad
+2025-07-26,Breakfast,Masala Dosa
+2025-07-26,Breakfast,Sambar
+2025-07-26,Breakfast,Coconut Chutney
+2025-07-26,Lunch,Mixed Veg Curry
+2025-07-26,Lunch,Rice
+2025-07-26,Lunch,Dal Tadka
+2025-07-26,Lunch,Roti
+2025-07-26,Lunch,Salad
+2025-07-26,Snacks,Veg Cutlet
+2025-07-26,Snacks,Tea
+2025-07-26,Dinner,Soya Chunk Curry
+2025-07-26,Dinner,Roti
+2025-07-26,Dinner,Dal
+2025-07-26,Dinner,Salad
+2025-07-27,Breakfast,Upma
+2025-07-27,Breakfast,Tea
+2025-07-27,Lunch,Lauki Kofta
+2025-07-27,Lunch,Rice
+2025-07-27,Lunch,Dal Tadka
+2025-07-27,Lunch,Roti
+2025-07-27,Lunch,Salad
+2025-07-27,Lunch,Kheer
+2025-07-27,Snacks,Sprouts Chaat
+2025-07-27,Dinner,Chana Masala
+2025-07-27,Dinner,Roti
+2025-07-27,Dinner,Dal
+2025-07-27,Dinner,Salad
+2025-07-28,Breakfast,Vegetable Dalia
+2025-07-28,Breakfast,Banana
+2025-07-28,Breakfast,Milk
+2025-07-28,Lunch,Chana Dal
+2025-07-28,Lunch,Rice
+2025-07-28,Lunch,Seasonal Veg
+2025-07-28,Lunch,Roti
+2025-07-28,Lunch,Salad
+2025-07-28,Snacks,Bread Pakora
+2025-07-28,Snacks,Tea
+2025-07-28,Dinner,Veg Korma
+2025-07-28,Dinner,Roti
+2025-07-28,Dinner,Dal
+2025-07-28,Dinner,Salad
+2025-07-29,Breakfast,Besan Chilla
+2025-07-29,Breakfast,Mint Chutney
+2025-07-29,Breakfast,Curd
+2025-07-29,Lunch,Kala Chana
+2025-07-29,Lunch,Rice
+2025-07-29,Lunch,Salad
+2025-07-29,Lunch,Roti
+2025-07-29,Snacks,Roasted Chana
+2025-07-29,Snacks,Tea
+2025-07-29,Dinner,Veg Biryani
+2025-07-29,Dinner,Raita
+2025-07-29,Dinner,Salad
+2025-07-30,Breakfast,Upma
+2025-07-30,Breakfast,Tea
+2025-07-30,Lunch,Veg Pulao
+2025-07-30,Lunch,Raita
+2025-07-30,Lunch,Salad
+2025-07-30,Snacks,Roasted Chana
+2025-07-30,Snacks,Tea
+2025-07-30,Dinner,Dal Makhani
+2025-07-30,Dinner,Roti
+2025-07-30,Dinner,Dal
+2025-07-30,Dinner,Salad
+2025-07-31,Breakfast,Poori Bhaji
+2025-07-31,Breakfast,Tea
+2025-07-31,Lunch,Veg Kofta
+2025-07-31,Lunch,Rice
+2025-07-31,Lunch,Dal Tadka
+2025-07-31,Lunch,Roti
+2025-07-31,Lunch,Salad
+2025-07-31,Snacks,Fruit Chaat
+2025-07-31,Dinner,Soya Chunk Curry
+2025-07-31,Dinner,Roti
+2025-07-31,Dinner,Dal
+2025-07-31,Dinner,Salad
+2025-08-01,Breakfast,Aloo Paratha
+2025-08-01,Breakfast,Curd
+2025-08-01,Breakfast,Pickle
+2025-08-01,Lunch,Palak Paneer
+2025-08-01,Lunch,Rice
+2025-08-01,Lunch,Dal Tadka
+2025-08-01,Lunch,Roti
+2025-08-01,Lunch,Salad
+2025-08-01,Snacks,Sprouts Chaat
+2025-08-01,Dinner,Paneer Butter Masala
+2025-08-01,Dinner,Roti
+2025-08-01,Dinner,Dal
+2025-08-01,Dinner,Salad
+2025-08-02,Breakfast,Masala Dosa
+2025-08-02,Breakfast,Sambar
+2025-08-02,Breakfast,Coconut Chutney
+2025-08-02,Lunch,Aloo Gobi
+2025-08-02,Lunch,Rice
+2025-08-02,Lunch,Dal Tadka
+2025-08-02,Lunch,Roti
+2025-08-02,Lunch,Salad
+2025-08-02,Snacks,Fruit Chaat
+2025-08-02,Dinner,Khichdi
+2025-08-02,Dinner,Curd
+2025-08-02,Dinner,Papad
+2025-08-03,Breakfast,Besan Chilla
+2025-08-03,Breakfast,Mint Chutney
+2025-08-03,Breakfast,Curd
+2025-08-03,Lunch,Lauki Kofta
+2025-08-03,Lunch,Rice
+2025-08-03,Lunch,Dal Tadka
+2025-08-03,Lunch,Roti
+2025-08-03,Lunch,Salad
+2025-08-03,Snacks,Roasted Chana
+2025-08-03,Snacks,Tea
+2025-08-03,Dinner,Paneer Bhurji
+2025-08-03,Dinner,Roti
+2025-08-03,Dinner,Dal
+2025-08-03,Dinner,Salad
+2025-08-04,Breakfast,Veg Sandwich
+2025-08-04,Breakfast,Seasonal Fruit
+2025-08-04,Lunch,Veg Pulao
+2025-08-04,Lunch,Raita
+2025-08-04,Lunch,Salad
+2025-08-04,Snacks,Fruit Chaat
+2025-08-04,Dinner,Soya Chunk Curry
+2025-08-04,Dinner,Roti
+2025-08-04,Dinner,Dal
+2025-08-04,Dinner,Salad
+2025-08-05,Breakfast,Aloo Paratha
+2025-08-05,Breakfast,Curd
+2025-08-05,Breakfast,Pickle
+2025-08-05,Lunch,Sambar
+2025-08-05,Lunch,Rice
+2025-08-05,Lunch,Cabbage Poriyal
+2025-08-05,Lunch,Curd
+2025-08-05,Snacks,Bhel Puri
+2025-08-05,Snacks,Tea
+2025-08-05,Dinner,Veg Korma
+2025-08-05,Dinner,Roti
+2025-08-05,Dinner,Dal
+2025-08-05,Dinner,Salad
+2025-08-06,Breakfast,Poori Bhaji
+2025-08-06,Breakfast,Tea
+2025-08-06,Lunch,Chana Dal
+2025-08-06,Lunch,Rice
+2025-08-06,Lunch,Seasonal Veg
+2025-08-06,Lunch,Roti
+2025-08-06,Lunch,Salad
+2025-08-06,Snacks,Bread Pakora
+2025-08-06,Snacks,Tea
+2025-08-06,Dinner,Mix Veg
+2025-08-06,Dinner,Roti
+2025-08-06,Dinner,Dal
+2025-08-06,Dinner,Salad
+2025-08-07,Breakfast,Idli
+2025-08-07,Breakfast,Sambar
+2025-08-07,Breakfast,Coconut Chutney
+2025-08-07,Lunch,Veg Kofta
+2025-08-07,Lunch,Rice
+2025-08-07,Lunch,Dal Tadka
+2025-08-07,Lunch,Roti
+2025-08-07,Lunch,Salad
+2025-08-07,Snacks,Bread Pakora
+2025-08-07,Snacks,Tea
+2025-08-07,Dinner,Khichdi
+2025-08-07,Dinner,Curd
+2025-08-07,Dinner,Papad
+2025-08-08,Breakfast,Upma
+2025-08-08,Breakfast,Tea
+2025-08-08,Breakfast,Milk
+2025-08-08,Lunch,Matar Paneer
+2025-08-08,Lunch,Rice
+2025-08-08,Lunch,Dal Tadka
+2025-08-08,Lunch,Roti
+2025-08-08,Lunch,Salad
+2025-08-08,Snacks,Bhel Puri
+2025-08-08,Snacks,Tea
+2025-08-08,Dinner,Veg Biryani
+2025-08-08,Dinner,Raita
+2025-08-08,Dinner,Salad
+2025-08-09,Breakfast,Poori Bhaji
+2025-08-09,Breakfast,Tea
+2025-08-09,Lunch,Chole
+2025-08-09,Lunch,Rice
+2025-08-09,Lunch,Salad
+2025-08-09,Lunch,Roti
+2025-08-09,Snacks,Corn Chaat
+2025-08-09,Dinner,Rajma
+2025-08-09,Dinner,Rice
+2025-08-09,Dinner,Roti
+2025-08-09,Dinner,Salad
+2025-08-10,Breakfast,Poori Bhaji
+2025-08-10,Breakfast,Tea
+2025-08-10,Lunch,Veg Kofta
+2025-08-10,Lunch,Rice
+2025-08-10,Lunch,Dal Tadka
+2025-08-10,Lunch,Roti
+2025-08-10,Lunch,Salad
+2025-08-10,Snacks,Corn Chaat
+2025-08-10,Dinner,Kadhi
+2025-08-10,Dinner,Rice
+2025-08-10,Dinner,Roti
+2025-08-10,Dinner,Salad
+2025-08-11,Breakfast,Idli
+2025-08-11,Breakfast,Sambar
+2025-08-11,Breakfast,Coconut Chutney
+2025-08-11,Lunch,Veg Kofta
+2025-08-11,Lunch,Rice
+2025-08-11,Lunch,Dal Tadka
+2025-08-11,Lunch,Roti
+2025-08-11,Lunch,Salad
+2025-08-11,Snacks,Bhel Puri
+2025-08-11,Snacks,Tea
+2025-08-11,Dinner,Khichdi
+2025-08-11,Dinner,Curd
+2025-08-11,Dinner,Papad
+2025-08-12,Breakfast,Uttapam
+2025-08-12,Breakfast,Sambar
+2025-08-12,Breakfast,Coconut Chutney
+2025-08-12,Lunch,Chole
+2025-08-12,Lunch,Rice
+2025-08-12,Lunch,Salad
+2025-08-12,Lunch,Roti
+2025-08-12,Snacks,Kachori
+2025-08-12,Snacks,Tea
+2025-08-12,Dinner,Paneer Bhurji
+2025-08-12,Dinner,Roti
+2025-08-12,Dinner,Dal
+2025-08-12,Dinner,Salad
+2025-08-13,Breakfast,Aloo Paratha
+2025-08-13,Breakfast,Curd
+2025-08-13,Breakfast,Pickle
+2025-08-13,Lunch,Mixed Veg Curry
+2025-08-13,Lunch,Rice
+2025-08-13,Lunch,Dal Tadka
+2025-08-13,Lunch,Roti
+2025-08-13,Lunch,Salad
+2025-08-13,Snacks,Veg Cutlet
+2025-08-13,Snacks,Tea
+2025-08-13,Dinner,Paneer Butter Masala
+2025-08-13,Dinner,Roti
+2025-08-13,Dinner,Dal
+2025-08-13,Dinner,Salad
+2025-08-14,Breakfast,Masala Dosa
+2025-08-14,Breakfast,Sambar
+2025-08-14,Breakfast,Coconut Chutney
+2025-08-14,Lunch,Mixed Veg Curry
+2025-08-14,Lunch,Rice
+2025-08-14,Lunch,Dal Tadka
+2025-08-14,Lunch,Roti
+2025-08-14,Lunch,Salad
+2025-08-14,Snacks,Bread Pakora
+2025-08-14,Snacks,Tea
+2025-08-14,Dinner,Veg Biryani
+2025-08-14,Dinner,Raita
+2025-08-14,Dinner,Salad
+2025-08-15,Breakfast,Veg Sandwich
+2025-08-15,Breakfast,Seasonal Fruit
+2025-08-15,Lunch,Palak Paneer
+2025-08-15,Lunch,Rice
+2025-08-15,Lunch,Dal Tadka
+2025-08-15,Lunch,Roti
+2025-08-15,Lunch,Salad
+2025-08-15,Lunch,Gulab Jamun
+2025-08-15,Lunch,Veg Pulao Special
+2025-08-15,Snacks,Sprouts Chaat
+2025-08-15,Dinner,Aloo Matar
+2025-08-15,Dinner,Roti
+2025-08-15,Dinner,Dal
+2025-08-15,Dinner,Salad
+2025-08-16,Breakfast,Aloo Paratha
+2025-08-16,Breakfast,Curd
+2025-08-16,Breakfast,Pickle
+2025-08-16,Lunch,Chole
+2025-08-16,Lunch,Rice
+2025-08-16,Lunch,Salad
+2025-08-16,Lunch,Roti
+2025-08-16,Snacks,Dhokla
+2025-08-16,Snacks,Tea
+2025-08-16,Dinner,Veg Korma
+2025-08-16,Dinner,Roti
+2025-08-16,Dinner,Dal
+2025-08-16,Dinner,Salad
+2025-08-17,Breakfast,Veg Sandwich
+2025-08-17,Breakfast,Seasonal Fruit
+2025-08-17,Lunch,Kala Chana
+2025-08-17,Lunch,Rice
+2025-08-17,Lunch,Salad
+2025-08-17,Lunch,Roti
+2025-08-17,Lunch,Kheer
+2025-08-17,Snacks,Samosa
+2025-08-17,Snacks,Tea
+2025-08-17,Dinner,Veg Korma
+2025-08-17,Dinner,Roti
+2025-08-17,Dinner,Dal
+2025-08-17,Dinner,Salad
+2025-08-18,Breakfast,Besan Chilla
+2025-08-18,Breakfast,Mint Chutney
+2025-08-18,Breakfast,Curd
+2025-08-18,Lunch,Veg Pulao
+2025-08-18,Lunch,Raita
+2025-08-18,Lunch,Salad
+2025-08-18,Snacks,Samosa
+2025-08-18,Snacks,Tea
+2025-08-18,Dinner,Khichdi
+2025-08-18,Dinner,Curd
+2025-08-18,Dinner,Papad
+2025-08-19,Breakfast,Veg Sandwich
+2025-08-19,Breakfast,Seasonal Fruit
+2025-08-19,Breakfast,Milk
+2025-08-19,Lunch,Kadhi
+2025-08-19,Lunch,Rice
+2025-08-19,Lunch,Aloo Gobi
+2025-08-19,Lunch,Roti
+2025-08-19,Snacks,Roasted Chana
+2025-08-19,Snacks,Tea
+2025-08-19,Dinner,Moong Dal Khichdi
+2025-08-19,Dinner,Curd
+2025-08-19,Dinner,Papad
+2025-08-20,Breakfast,Upma
+2025-08-20,Breakfast,Tea
+2025-08-20,Lunch,Matar Paneer
+2025-08-20,Lunch,Rice
+2025-08-20,Lunch,Dal Tadka
+2025-08-20,Lunch,Roti
+2025-08-20,Lunch,Salad
+2025-08-20,Snacks,Corn Chaat
+2025-08-20,Dinner,Mix Veg
+2025-08-20,Dinner,Roti
+2025-08-20,Dinner,Dal
+2025-08-20,Dinner,Salad
+2025-08-21,Breakfast,Vegetable Dalia
+2025-08-21,Breakfast,Banana
+2025-08-21,Lunch,Sambar
+2025-08-21,Lunch,Rice
+2025-08-21,Lunch,Cabbage Poriyal
+2025-08-21,Lunch,Curd
+2025-08-21,Snacks,Samosa
+2025-08-21,Snacks,Tea
+2025-08-21,Dinner,Soya Chunk Curry
+2025-08-21,Dinner,Roti
+2025-08-21,Dinner,Dal
+2025-08-21,Dinner,Salad
+2025-08-22,Breakfast,Besan Chilla
+2025-08-22,Breakfast,Mint Chutney
+2025-08-22,Breakfast,Curd
+2025-08-22,Lunch,Lauki Kofta
+2025-08-22,Lunch,Rice
+2025-08-22,Lunch,Dal Tadka
+2025-08-22,Lunch,Roti
+2025-08-22,Lunch,Salad
+2025-08-22,Snacks,Veg Cutlet
+2025-08-22,Snacks,Tea
+2025-08-22,Dinner,Palak Corn
+2025-08-22,Dinner,Roti
+2025-08-22,Dinner,Dal
+2025-08-22,Dinner,Salad
+2025-08-23,Breakfast,Veg Sandwich
+2025-08-23,Breakfast,Seasonal Fruit
+2025-08-23,Lunch,Chole
+2025-08-23,Lunch,Rice
+2025-08-23,Lunch,Salad
+2025-08-23,Lunch,Roti
+2025-08-23,Snacks,Samosa
+2025-08-23,Snacks,Tea
+2025-08-23,Dinner,Palak Corn
+2025-08-23,Dinner,Roti
+2025-08-23,Dinner,Dal
+2025-08-23,Dinner,Salad
+2025-08-24,Breakfast,Uttapam
+2025-08-24,Breakfast,Sambar
+2025-08-24,Breakfast,Coconut Chutney
+2025-08-24,Lunch,Mixed Veg Curry
+2025-08-24,Lunch,Rice
+2025-08-24,Lunch,Dal Tadka
+2025-08-24,Lunch,Roti
+2025-08-24,Lunch,Salad
+2025-08-24,Snacks,Kachori
+2025-08-24,Snacks,Tea
+2025-08-24,Dinner,Paneer Bhurji
+2025-08-24,Dinner,Roti
+2025-08-24,Dinner,Dal
+2025-08-24,Dinner,Salad
+2025-08-25,Breakfast,Idli
+2025-08-25,Breakfast,Sambar
+2025-08-25,Breakfast,Coconut Chutney
+2025-08-25,Lunch,Lauki Kofta
+2025-08-25,Lunch,Rice
+2025-08-25,Lunch,Dal Tadka
+2025-08-25,Lunch,Roti
+2025-08-25,Lunch,Salad
+2025-08-25,Snacks,Roasted Chana
+2025-08-25,Snacks,Tea
+2025-08-25,Dinner,Aloo Matar
+2025-08-25,Dinner,Roti
+2025-08-25,Dinner,Dal
+2025-08-25,Dinner,Salad
+2025-08-26,Breakfast,Uttapam
+2025-08-26,Breakfast,Sambar
+2025-08-26,Breakfast,Coconut Chutney
+2025-08-26,Lunch,Veg Pulao
+2025-08-26,Lunch,Raita
+2025-08-26,Lunch,Salad
+2025-08-26,Snacks,Veg Cutlet
+2025-08-26,Snacks,Tea
+2025-08-26,Dinner,Rajma
+2025-08-26,Dinner,Rice
+2025-08-26,Dinner,Roti
+2025-08-26,Dinner,Salad
+2025-08-27,Breakfast,Uttapam
+2025-08-27,Breakfast,Sambar
+2025-08-27,Breakfast,Coconut Chutney
+2025-08-27,Lunch,Chole
+2025-08-27,Lunch,Rice
+2025-08-27,Lunch,Salad
+2025-08-27,Lunch,Roti
+2025-08-27,Snacks,Veg Cutlet
+2025-08-27,Snacks,Tea
+2025-08-27,Dinner,Soya Chunk Curry
+2025-08-27,Dinner,Roti
+2025-08-27,Dinner,Dal
+2025-08-27,Dinner,Salad
+2025-08-28,Breakfast,Poori Bhaji
+2025-08-28,Breakfast,Tea
+2025-08-28,Lunch,Chana Dal
+2025-08-28,Lunch,Rice
+2025-08-28,Lunch,Seasonal Veg
+2025-08-28,Lunch,Roti
+2025-08-28,Lunch,Salad
+2025-08-28,Snacks,Veg Cutlet
+2025-08-28,Snacks,Tea
+2025-08-28,Dinner,Veg Biryani
+2025-08-28,Dinner,Raita
+2025-08-28,Dinner,Salad
+2025-08-29,Breakfast,Poha
+2025-08-29,Breakfast,Banana
+2025-08-29,Lunch,Palak Paneer
+2025-08-29,Lunch,Rice
+2025-08-29,Lunch,Dal Tadka
+2025-08-29,Lunch,Roti
+2025-08-29,Lunch,Salad
+2025-08-29,Snacks,Bhel Puri
+2025-08-29,Snacks,Tea
+2025-08-29,Dinner,Veg Korma
+2025-08-29,Dinner,Roti
+2025-08-29,Dinner,Dal
+2025-08-29,Dinner,Salad
+2025-08-30,Breakfast,Besan Chilla
+2025-08-30,Breakfast,Mint Chutney
+2025-08-30,Breakfast,Curd
+2025-08-30,Breakfast,Milk
+2025-08-30,Lunch,Aloo Gobi
+2025-08-30,Lunch,Rice
+2025-08-30,Lunch,Dal Tadka
+2025-08-30,Lunch,Roti
+2025-08-30,Lunch,Salad
+2025-08-30,Snacks,Samosa
+2025-08-30,Snacks,Tea
+2025-08-30,Dinner,Paneer Bhurji
+2025-08-30,Dinner,Roti
+2025-08-30,Dinner,Dal
+2025-08-30,Dinner,Salad
+2025-08-31,Breakfast,Aloo Paratha
+2025-08-31,Breakfast,Curd
+2025-08-31,Breakfast,Pickle
+2025-08-31,Lunch,Lauki Kofta
+2025-08-31,Lunch,Rice
+2025-08-31,Lunch,Dal Tadka
+2025-08-31,Lunch,Roti
+2025-08-31,Lunch,Salad
+2025-08-31,Snacks,Bread Pakora
+2025-08-31,Snacks,Tea
+2025-08-31,Dinner,Soya Chunk Curry
+2025-08-31,Dinner,Roti
+2025-08-31,Dinner,Dal
+2025-08-31,Dinner,Salad
+2025-09-01,Breakfast,Vegetable Dalia
+2025-09-01,Breakfast,Banana
+2025-09-01,Lunch,Chana Dal
+2025-09-01,Lunch,Rice
+2025-09-01,Lunch,Seasonal Veg
+2025-09-01,Lunch,Roti
+2025-09-01,Lunch,Salad
+2025-09-01,Snacks,Roasted Chana
+2025-09-01,Snacks,Tea
+2025-09-01,Dinner,Rajma
+2025-09-01,Dinner,Rice
+2025-09-01,Dinner,Roti
+2025-09-01,Dinner,Salad
+2025-09-02,Breakfast,Veg Sandwich
+2025-09-02,Breakfast,Seasonal Fruit
+2025-09-02,Lunch,Palak Paneer
+2025-09-02,Lunch,Rice
+2025-09-02,Lunch,Dal Tadka
+2025-09-02,Lunch,Roti
+2025-09-02,Lunch,Salad
+2025-09-02,Snacks,Sprouts Chaat
+2025-09-02,Dinner,Chana Masala
+2025-09-02,Dinner,Roti
+2025-09-02,Dinner,Dal
+2025-09-02,Dinner,Salad
+2025-09-03,Breakfast,Aloo Paratha
+2025-09-03,Breakfast,Curd
+2025-09-03,Breakfast,Pickle
+2025-09-03,Lunch,Matar Paneer
+2025-09-03,Lunch,Rice
+2025-09-03,Lunch,Dal Tadka
+2025-09-03,Lunch,Roti
+2025-09-03,Lunch,Salad
+2025-09-03,Snacks,Fruit Chaat
+2025-09-03,Dinner,Moong Dal Khichdi
+2025-09-03,Dinner,Curd
+2025-09-03,Dinner,Papad
+2025-09-04,Breakfast,Vegetable Dalia
+2025-09-04,Breakfast,Banana
+2025-09-04,Lunch,Kala Chana
+2025-09-04,Lunch,Rice
+2025-09-04,Lunch,Salad
+2025-09-04,Lunch,Roti
+2025-09-04,Snacks,Bread Pakora
+2025-09-04,Snacks,Tea
+2025-09-04,Dinner,Dal Makhani
+2025-09-04,Dinner,Roti
+2025-09-04,Dinner,Dal
+2025-09-04,Dinner,Salad
+2025-09-05,Breakfast,Idli
+2025-09-05,Breakfast,Sambar
+2025-09-05,Breakfast,Coconut Chutney
+2025-09-05,Lunch,Chana Dal
+2025-09-05,Lunch,Rice
+2025-09-05,Lunch,Seasonal Veg
+2025-09-05,Lunch,Roti
+2025-09-05,Lunch,Salad
+2025-09-05,Snacks,Dhokla
+2025-09-05,Snacks,Tea
+2025-09-05,Dinner,Veg Korma
+2025-09-05,Dinner,Roti
+2025-09-05,Dinner,Dal
+2025-09-05,Dinner,Salad
+2025-09-06,Breakfast,Vegetable Dalia
+2025-09-06,Breakfast,Banana
+2025-09-06,Lunch,Kala Chana
+2025-09-06,Lunch,Rice
+2025-09-06,Lunch,Salad
+2025-09-06,Lunch,Roti
+2025-09-06,Snacks,Kachori
+2025-09-06,Snacks,Tea
+2025-09-06,Dinner,Dal Makhani
+2025-09-06,Dinner,Roti
+2025-09-06,Dinner,Dal
+2025-09-06,Dinner,Salad
+2025-09-07,Breakfast,Upma
+2025-09-07,Breakfast,Tea
+2025-09-07,Lunch,Palak Paneer
+2025-09-07,Lunch,Rice
+2025-09-07,Lunch,Dal Tadka
+2025-09-07,Lunch,Roti
+2025-09-07,Lunch,Salad
+2025-09-07,Lunch,Kheer
+2025-09-07,Snacks,Kachori
+2025-09-07,Snacks,Tea
+2025-09-07,Dinner,Kadhi
+2025-09-07,Dinner,Rice
+2025-09-07,Dinner,Roti
+2025-09-07,Dinner,Salad
+2025-09-08,Breakfast,Aloo Paratha
+2025-09-08,Breakfast,Curd
+2025-09-08,Breakfast,Pickle
+2025-09-08,Lunch,Kala Chana
+2025-09-08,Lunch,Rice
+2025-09-08,Lunch,Salad
+2025-09-08,Lunch,Roti
+2025-09-08,Snacks,Veg Cutlet
+2025-09-08,Snacks,Tea
+2025-09-08,Dinner,Rajma
+2025-09-08,Dinner,Rice
+2025-09-08,Dinner,Roti
+2025-09-08,Dinner,Salad
+2025-09-09,Breakfast,Uttapam
+2025-09-09,Breakfast,Sambar
+2025-09-09,Breakfast,Coconut Chutney
+2025-09-09,Lunch,Kala Chana
+2025-09-09,Lunch,Rice
+2025-09-09,Lunch,Salad
+2025-09-09,Lunch,Roti
+2025-09-09,Snacks,Corn Chaat
+2025-09-09,Dinner,Dal Makhani
+2025-09-09,Dinner,Roti
+2025-09-09,Dinner,Dal
+2025-09-09,Dinner,Salad
+2025-09-10,Breakfast,Aloo Paratha
+2025-09-10,Breakfast,Curd
+2025-09-10,Breakfast,Pickle
+2025-09-10,Breakfast,Milk
+2025-09-10,Lunch,Lauki Kofta
+2025-09-10,Lunch,Rice
+2025-09-10,Lunch,Dal Tadka
+2025-09-10,Lunch,Roti
+2025-09-10,Lunch,Salad
+2025-09-10,Snacks,Kachori
+2025-09-10,Snacks,Tea
+2025-09-10,Dinner,Palak Corn
+2025-09-10,Dinner,Roti
+2025-09-10,Dinner,Dal
+2025-09-10,Dinner,Salad
+2025-09-11,Breakfast,Poha
+2025-09-11,Breakfast,Banana
+2025-09-11,Lunch,Mixed Veg Curry
+2025-09-11,Lunch,Rice
+2025-09-11,Lunch,Dal Tadka
+2025-09-11,Lunch,Roti
+2025-09-11,Lunch,Salad
+2025-09-11,Snacks,Bread Pakora
+2025-09-11,Snacks,Tea
+2025-09-11,Dinner,Palak Corn
+2025-09-11,Dinner,Roti
+2025-09-11,Dinner,Dal
+2025-09-11,Dinner,Salad
+2025-09-12,Breakfast,Idli
+2025-09-12,Breakfast,Sambar
+2025-09-12,Breakfast,Coconut Chutney
+2025-09-12,Lunch,Kadhi
+2025-09-12,Lunch,Rice
+2025-09-12,Lunch,Aloo Gobi
+2025-09-12,Lunch,Roti
+2025-09-12,Snacks,Fruit Chaat
+2025-09-12,Dinner,Rajma
+2025-09-12,Dinner,Rice
+2025-09-12,Dinner,Roti
+2025-09-12,Dinner,Salad
+2025-09-13,Breakfast,Poha
+2025-09-13,Breakfast,Banana
+2025-09-13,Lunch,Dal Tadka
+2025-09-13,Lunch,Rice
+2025-09-13,Lunch,Seasonal Veg
+2025-09-13,Lunch,Roti
+2025-09-13,Lunch,Salad
+2025-09-13,Snacks,Sprouts Chaat
+2025-09-13,Dinner,Kadhi
+2025-09-13,Dinner,Rice
+2025-09-13,Dinner,Roti
+2025-09-13,Dinner,Salad
+2025-09-14,Breakfast,Masala Dosa
+2025-09-14,Breakfast,Sambar
+2025-09-14,Breakfast,Coconut Chutney
+2025-09-14,Lunch,Sambar
+2025-09-14,Lunch,Rice
+2025-09-14,Lunch,Cabbage Poriyal
+2025-09-14,Lunch,Curd
+2025-09-14,Snacks,Veg Cutlet
+2025-09-14,Snacks,Tea
+2025-09-14,Dinner,Paneer Bhurji
+2025-09-14,Dinner,Roti
+2025-09-14,Dinner,Dal
+2025-09-14,Dinner,Salad
+2025-09-15,Breakfast,Aloo Paratha
+2025-09-15,Breakfast,Curd
+2025-09-15,Breakfast,Pickle
+2025-09-15,Lunch,Chana Dal
+2025-09-15,Lunch,Rice
+2025-09-15,Lunch,Seasonal Veg
+2025-09-15,Lunch,Roti
+2025-09-15,Lunch,Salad
+2025-09-15,Snacks,Sprouts Chaat
+2025-09-15,Dinner,Chana Masala
+2025-09-15,Dinner,Roti
+2025-09-15,Dinner,Dal
+2025-09-15,Dinner,Salad
+2025-09-16,Breakfast,Veg Sandwich
+2025-09-16,Breakfast,Seasonal Fruit
+2025-09-16,Lunch,Matar Paneer
+2025-09-16,Lunch,Rice
+2025-09-16,Lunch,Dal Tadka
+2025-09-16,Lunch,Roti
+2025-09-16,Lunch,Salad
+2025-09-16,Snacks,Veg Cutlet
+2025-09-16,Snacks,Tea
+2025-09-16,Dinner,Soya Chunk Curry
+2025-09-16,Dinner,Roti
+2025-09-16,Dinner,Dal
+2025-09-16,Dinner,Salad
+2025-09-17,Breakfast,Vegetable Dalia
+2025-09-17,Breakfast,Banana
+2025-09-17,Lunch,Rajma
+2025-09-17,Lunch,Rice
+2025-09-17,Lunch,Salad
+2025-09-17,Lunch,Roti
+2025-09-17,Lunch,Gulab Jamun
+2025-09-17,Snacks,Bread Pakora
+2025-09-17,Snacks,Tea
+2025-09-17,Dinner,Veg Korma
+2025-09-17,Dinner,Roti
+2025-09-17,Dinner,Dal
+2025-09-17,Dinner,Salad
+2025-09-18,Breakfast,Veg Sandwich
+2025-09-18,Breakfast,Seasonal Fruit
+2025-09-18,Lunch,Aloo Gobi
+2025-09-18,Lunch,Rice
+2025-09-18,Lunch,Dal Tadka
+2025-09-18,Lunch,Roti
+2025-09-18,Lunch,Salad
+2025-09-18,Snacks,Sprouts Chaat
+2025-09-18,Dinner,Paneer Bhurji
+2025-09-18,Dinner,Roti
+2025-09-18,Dinner,Dal
+2025-09-18,Dinner,Salad
+2025-09-19,Breakfast,Poori Bhaji
+2025-09-19,Breakfast,Tea
+2025-09-19,Lunch,Chana Dal
+2025-09-19,Lunch,Rice
+2025-09-19,Lunch,Seasonal Veg
+2025-09-19,Lunch,Roti
+2025-09-19,Lunch,Salad
+2025-09-19,Snacks,Samosa
+2025-09-19,Snacks,Tea
+2025-09-19,Dinner,Soya Chunk Curry
+2025-09-19,Dinner,Roti
+2025-09-19,Dinner,Dal
+2025-09-19,Dinner,Salad
+2025-09-20,Breakfast,Besan Chilla
+2025-09-20,Breakfast,Mint Chutney
+2025-09-20,Breakfast,Curd
+2025-09-20,Lunch,Lauki Kofta
+2025-09-20,Lunch,Rice
+2025-09-20,Lunch,Dal Tadka
+2025-09-20,Lunch,Roti
+2025-09-20,Lunch,Salad
+2025-09-20,Snacks,Bread Pakora
+2025-09-20,Snacks,Tea
+2025-09-20,Dinner,Rajma
+2025-09-20,Dinner,Rice
+2025-09-20,Dinner,Roti
+2025-09-20,Dinner,Salad
+2025-09-21,Breakfast,Masala Dosa
+2025-09-21,Breakfast,Sambar
+2025-09-21,Breakfast,Coconut Chutney
+2025-09-21,Breakfast,Milk
+2025-09-21,Lunch,Kala Chana
+2025-09-21,Lunch,Rice
+2025-09-21,Lunch,Salad
+2025-09-21,Lunch,Roti
+2025-09-21,Snacks,Samosa
+2025-09-21,Snacks,Tea
+2025-09-21,Dinner,Rajma
+2025-09-21,Dinner,Rice
+2025-09-21,Dinner,Roti
+2025-09-21,Dinner,Salad
+2025-09-22,Breakfast,Aloo Paratha
+2025-09-22,Breakfast,Curd
+2025-09-22,Breakfast,Pickle
+2025-09-22,Lunch,Aloo Gobi
+2025-09-22,Lunch,Rice
+2025-09-22,Lunch,Dal Tadka
+2025-09-22,Lunch,Roti
+2025-09-22,Lunch,Salad
+2025-09-22,Snacks,Bread Pakora
+2025-09-22,Snacks,Tea
+2025-09-22,Dinner,Rajma
+2025-09-22,Dinner,Rice
+2025-09-22,Dinner,Roti
+2025-09-22,Dinner,Salad
+2025-09-23,Breakfast,Upma
+2025-09-23,Breakfast,Tea
+2025-09-23,Lunch,Dal Tadka
+2025-09-23,Lunch,Rice
+2025-09-23,Lunch,Seasonal Veg
+2025-09-23,Lunch,Roti
+2025-09-23,Lunch,Salad
+2025-09-23,Snacks,Kachori
+2025-09-23,Snacks,Tea
+2025-09-23,Dinner,Mix Veg
+2025-09-23,Dinner,Roti
+2025-09-23,Dinner,Dal
+2025-09-23,Dinner,Salad
+2025-09-24,Breakfast,Aloo Paratha
+2025-09-24,Breakfast,Curd
+2025-09-24,Breakfast,Pickle
+2025-09-24,Lunch,Kadhi
+2025-09-24,Lunch,Rice
+2025-09-24,Lunch,Aloo Gobi
+2025-09-24,Lunch,Roti
+2025-09-24,Snacks,Samosa
+2025-09-24,Snacks,Tea
+2025-09-24,Dinner,Rajma
+2025-09-24,Dinner,Rice
+2025-09-24,Dinner,Roti
+2025-09-24,Dinner,Salad
+2025-09-25,Breakfast,Poha
+2025-09-25,Breakfast,Banana
+2025-09-25,Lunch,Matar Paneer
+2025-09-25,Lunch,Rice
+2025-09-25,Lunch,Dal Tadka
+2025-09-25,Lunch,Roti
+2025-09-25,Lunch,Salad
+2025-09-25,Snacks,Veg Cutlet
+2025-09-25,Snacks,Tea
+2025-09-25,Dinner,Palak Corn
+2025-09-25,Dinner,Roti
+2025-09-25,Dinner,Dal
+2025-09-25,Dinner,Salad
+2025-09-26,Breakfast,Veg Sandwich
+2025-09-26,Breakfast,Seasonal Fruit
+2025-09-26,Lunch,Sambar
+2025-09-26,Lunch,Rice
+2025-09-26,Lunch,Cabbage Poriyal
+2025-09-26,Lunch,Curd
+2025-09-26,Snacks,Samosa
+2025-09-26,Snacks,Tea
+2025-09-26,Dinner,Moong Dal Khichdi
+2025-09-26,Dinner,Curd
+2025-09-26,Dinner,Papad
+2025-09-27,Breakfast,Upma
+2025-09-27,Breakfast,Tea
+2025-09-27,Lunch,Sambar
+2025-09-27,Lunch,Rice
+2025-09-27,Lunch,Cabbage Poriyal
+2025-09-27,Lunch,Curd
+2025-09-27,Snacks,Roasted Chana
+2025-09-27,Snacks,Tea
+2025-09-27,Dinner,Mix Veg
+2025-09-27,Dinner,Roti
+2025-09-27,Dinner,Dal
+2025-09-27,Dinner,Salad
+2025-09-28,Breakfast,Veg Sandwich
+2025-09-28,Breakfast,Seasonal Fruit
+2025-09-28,Lunch,Rajma
+2025-09-28,Lunch,Rice
+2025-09-28,Lunch,Salad
+2025-09-28,Lunch,Roti
+2025-09-28,Lunch,Kheer
+2025-09-28,Snacks,Bhel Puri
+2025-09-28,Snacks,Tea
+2025-09-28,Dinner,Moong Dal Khichdi
+2025-09-28,Dinner,Curd
+2025-09-28,Dinner,Papad
+2025-09-29,Breakfast,Vegetable Dalia
+2025-09-29,Breakfast,Banana
+2025-09-29,Lunch,Lauki Kofta
+2025-09-29,Lunch,Rice
+2025-09-29,Lunch,Dal Tadka
+2025-09-29,Lunch,Roti
+2025-09-29,Lunch,Salad
+2025-09-29,Snacks,Samosa
+2025-09-29,Snacks,Tea
+2025-09-29,Dinner,Khichdi
+2025-09-29,Dinner,Curd
+2025-09-29,Dinner,Papad
+2025-09-30,Breakfast,Aloo Paratha
+2025-09-30,Breakfast,Curd
+2025-09-30,Breakfast,Pickle
+2025-09-30,Lunch,Dal Tadka
+2025-09-30,Lunch,Rice
+2025-09-30,Lunch,Seasonal Veg
+2025-09-30,Lunch,Roti
+2025-09-30,Lunch,Salad
+2025-09-30,Snacks,Bread Pakora
+2025-09-30,Snacks,Tea
+2025-09-30,Dinner,Khichdi
+2025-09-30,Dinner,Curd
+2025-09-30,Dinner,Papad
+2025-10-01,Breakfast,Besan Chilla
+2025-10-01,Breakfast,Mint Chutney
+2025-10-01,Breakfast,Curd
+2025-10-01,Lunch,Matar Paneer
+2025-10-01,Lunch,Rice
+2025-10-01,Lunch,Dal Tadka
+2025-10-01,Lunch,Roti
+2025-10-01,Lunch,Salad
+2025-10-01,Snacks,Kachori
+2025-10-01,Snacks,Tea
+2025-10-01,Dinner,Palak Corn
+2025-10-01,Dinner,Roti
+2025-10-01,Dinner,Dal
+2025-10-01,Dinner,Salad
+2025-10-02,Breakfast,Vegetable Dalia
+2025-10-02,Breakfast,Banana
+2025-10-02,Breakfast,Milk
+2025-10-02,Lunch,Sambar
+2025-10-02,Lunch,Rice
+2025-10-02,Lunch,Cabbage Poriyal
+2025-10-02,Lunch,Curd
+2025-10-02,Snacks,Fruit Chaat
+2025-10-02,Dinner,Veg Korma
+2025-10-02,Dinner,Roti
+2025-10-02,Dinner,Dal
+2025-10-02,Dinner,Salad
+2025-10-03,Breakfast,Uttapam
+2025-10-03,Breakfast,Sambar
+2025-10-03,Breakfast,Coconut Chutney
+2025-10-03,Lunch,Chole
+2025-10-03,Lunch,Rice
+2025-10-03,Lunch,Salad
+2025-10-03,Lunch,Roti
+2025-10-03,Snacks,Sprouts Chaat
+2025-10-03,Dinner,Rajma
+2025-10-03,Dinner,Rice
+2025-10-03,Dinner,Roti
+2025-10-03,Dinner,Salad
+2025-10-04,Breakfast,Poori Bhaji
+2025-10-04,Breakfast,Tea
+2025-10-04,Lunch,Kadhi
+2025-10-04,Lunch,Rice
+2025-10-04,Lunch,Aloo Gobi
+2025-10-04,Lunch,Roti
+2025-10-04,Snacks,Bread Pakora
+2025-10-04,Snacks,Tea
+2025-10-04,Dinner,Kadhi
+2025-10-04,Dinner,Rice
+2025-10-04,Dinner,Roti
+2025-10-04,Dinner,Salad
+2025-10-05,Breakfast,Uttapam
+2025-10-05,Breakfast,Sambar
+2025-10-05,Breakfast,Coconut Chutney
+2025-10-05,Lunch,Chole
+2025-10-05,Lunch,Rice
+2025-10-05,Lunch,Salad
+2025-10-05,Lunch,Roti
+2025-10-05,Snacks,Fruit Chaat
+2025-10-05,Dinner,Aloo Matar
+2025-10-05,Dinner,Roti
+2025-10-05,Dinner,Dal
+2025-10-05,Dinner,Salad
+2025-10-06,Breakfast,Upma
+2025-10-06,Breakfast,Tea
+2025-10-06,Lunch,Palak Paneer
+2025-10-06,Lunch,Rice
+2025-10-06,Lunch,Dal Tadka
+2025-10-06,Lunch,Roti
+2025-10-06,Lunch,Salad
+2025-10-06,Snacks,Dhokla
+2025-10-06,Snacks,Tea
+2025-10-06,Dinner,Paneer Butter Masala
+2025-10-06,Dinner,Roti
+2025-10-06,Dinner,Dal
+2025-10-06,Dinner,Salad
+2025-10-07,Breakfast,Uttapam
+2025-10-07,Breakfast,Sambar
+2025-10-07,Breakfast,Coconut Chutney
+2025-10-07,Lunch,Veg Kofta
+2025-10-07,Lunch,Rice
+2025-10-07,Lunch,Dal Tadka
+2025-10-07,Lunch,Roti
+2025-10-07,Lunch,Salad
+2025-10-07,Snacks,Dhokla
+2025-10-07,Snacks,Tea
+2025-10-07,Dinner,Veg Korma
+2025-10-07,Dinner,Roti
+2025-10-07,Dinner,Dal
+2025-10-07,Dinner,Salad
+2025-10-08,Breakfast,Uttapam
+2025-10-08,Breakfast,Sambar
+2025-10-08,Breakfast,Coconut Chutney
+2025-10-08,Lunch,Matar Paneer
+2025-10-08,Lunch,Rice
+2025-10-08,Lunch,Dal Tadka
+2025-10-08,Lunch,Roti
+2025-10-08,Lunch,Salad
+2025-10-08,Snacks,Samosa
+2025-10-08,Snacks,Tea
+2025-10-08,Dinner,Paneer Bhurji
+2025-10-08,Dinner,Roti
+2025-10-08,Dinner,Dal
+2025-10-08,Dinner,Salad
+2025-10-09,Breakfast,Veg Sandwich
+2025-10-09,Breakfast,Seasonal Fruit
+2025-10-09,Lunch,Kadhi
+2025-10-09,Lunch,Rice
+2025-10-09,Lunch,Aloo Gobi
+2025-10-09,Lunch,Roti
+2025-10-09,Snacks,Roasted Chana
+2025-10-09,Snacks,Tea
+2025-10-09,Dinner,Rajma
+2025-10-09,Dinner,Rice
+2025-10-09,Dinner,Roti
+2025-10-09,Dinner,Salad
+2025-10-10,Breakfast,Besan Chilla
+2025-10-10,Breakfast,Mint Chutney
+2025-10-10,Breakfast,Curd
+2025-10-10,Lunch,Kala Chana
+2025-10-10,Lunch,Rice
+2025-10-10,Lunch,Salad
+2025-10-10,Lunch,Roti
+2025-10-10,Snacks,Samosa
+2025-10-10,Snacks,Tea
+2025-10-10,Dinner,Veg Korma
+2025-10-10,Dinner,Roti
+2025-10-10,Dinner,Dal
+2025-10-10,Dinner,Salad
+2025-10-11,Breakfast,Veg Sandwich
+2025-10-11,Breakfast,Seasonal Fruit
+2025-10-11,Lunch,Rajma
+2025-10-11,Lunch,Rice
+2025-10-11,Lunch,Salad
+2025-10-11,Lunch,Roti
+2025-10-11,Snacks,Veg Cutlet
+2025-10-11,Snacks,Tea
+2025-10-11,Dinner,Aloo Matar
+2025-10-11,Dinner,Roti
+2025-10-11,Dinner,Dal
+2025-10-11,Dinner,Salad
+2025-10-12,Breakfast,Idli
+2025-10-12,Breakfast,Sambar
+2025-10-12,Breakfast,Coconut Chutney
+2025-10-12,Lunch,Matar Paneer
+2025-10-12,Lunch,Rice
+2025-10-12,Lunch,Dal Tadka
+2025-10-12,Lunch,Roti
+2025-10-12,Lunch,Salad
+2025-10-12,Snacks,Kachori
+2025-10-12,Snacks,Tea
+2025-10-12,Dinner,Soya Chunk Curry
+2025-10-12,Dinner,Roti
+2025-10-12,Dinner,Dal
+2025-10-12,Dinner,Salad
+2025-10-13,Breakfast,Poha
+2025-10-13,Breakfast,Banana
+2025-10-13,Breakfast,Milk
+2025-10-13,Lunch,Veg Pulao
+2025-10-13,Lunch,Raita
+2025-10-13,Lunch,Salad
+2025-10-13,Snacks,Roasted Chana
+2025-10-13,Snacks,Tea
+2025-10-13,Dinner,Soya Chunk Curry
+2025-10-13,Dinner,Roti
+2025-10-13,Dinner,Dal
+2025-10-13,Dinner,Salad
+2025-10-14,Breakfast,Masala Dosa
+2025-10-14,Breakfast,Sambar
+2025-10-14,Breakfast,Coconut Chutney
+2025-10-14,Lunch,Chole
+2025-10-14,Lunch,Rice
+2025-10-14,Lunch,Salad
+2025-10-14,Lunch,Roti
+2025-10-14,Snacks,Samosa
+2025-10-14,Snacks,Tea
+2025-10-14,Dinner,Kadhi
+2025-10-14,Dinner,Rice
+2025-10-14,Dinner,Roti
+2025-10-14,Dinner,Salad
+2025-10-15,Breakfast,Aloo Paratha
+2025-10-15,Breakfast,Curd
+2025-10-15,Breakfast,Pickle
+2025-10-15,Lunch,Kadhi
+2025-10-15,Lunch,Rice
+2025-10-15,Lunch,Aloo Gobi
+2025-10-15,Lunch,Roti
+2025-10-15,Snacks,Fruit Chaat
+2025-10-15,Dinner,Paneer Bhurji
+2025-10-15,Dinner,Roti
+2025-10-15,Dinner,Dal
+2025-10-15,Dinner,Salad
+2025-10-16,Breakfast,Besan Chilla
+2025-10-16,Breakfast,Mint Chutney
+2025-10-16,Breakfast,Curd
+2025-10-16,Lunch,Chana Dal
+2025-10-16,Lunch,Rice
+2025-10-16,Lunch,Seasonal Veg
+2025-10-16,Lunch,Roti
+2025-10-16,Lunch,Salad
+2025-10-16,Snacks,Corn Chaat
+2025-10-16,Dinner,Soya Chunk Curry
+2025-10-16,Dinner,Roti
+2025-10-16,Dinner,Dal
+2025-10-16,Dinner,Salad
+2025-10-17,Breakfast,Poori Bhaji
+2025-10-17,Breakfast,Tea
+2025-10-17,Lunch,Rajma
+2025-10-17,Lunch,Rice
+2025-10-17,Lunch,Salad
+2025-10-17,Lunch,Roti
+2025-10-17,Snacks,Kachori
+2025-10-17,Snacks,Tea
+2025-10-17,Dinner,Chana Masala
+2025-10-17,Dinner,Roti
+2025-10-17,Dinner,Dal
+2025-10-17,Dinner,Salad
+2025-10-18,Breakfast,Masala Dosa
+2025-10-18,Breakfast,Sambar
+2025-10-18,Breakfast,Coconut Chutney
+2025-10-18,Lunch,Lauki Kofta
+2025-10-18,Lunch,Rice
+2025-10-18,Lunch,Dal Tadka
+2025-10-18,Lunch,Roti
+2025-10-18,Lunch,Salad
+2025-10-18,Snacks,Dhokla
+2025-10-18,Snacks,Tea
+2025-10-18,Dinner,Dal Makhani
+2025-10-18,Dinner,Roti
+2025-10-18,Dinner,Dal
+2025-10-18,Dinner,Salad
+2025-10-19,Breakfast,Aloo Paratha
+2025-10-19,Breakfast,Curd
+2025-10-19,Breakfast,Pickle
+2025-10-19,Lunch,Palak Paneer
+2025-10-19,Lunch,Rice
+2025-10-19,Lunch,Dal Tadka
+2025-10-19,Lunch,Roti
+2025-10-19,Lunch,Salad
+2025-10-19,Lunch,Kheer
+2025-10-19,Snacks,Corn Chaat
+2025-10-19,Dinner,Palak Corn
+2025-10-19,Dinner,Roti
+2025-10-19,Dinner,Dal
+2025-10-19,Dinner,Salad
+2025-10-20,Breakfast,Masala Dosa
+2025-10-20,Breakfast,Sambar
+2025-10-20,Breakfast,Coconut Chutney
+2025-10-20,Lunch,Kala Chana
+2025-10-20,Lunch,Rice
+2025-10-20,Lunch,Salad
+2025-10-20,Lunch,Roti
+2025-10-20,Lunch,Gulab Jamun
+2025-10-20,Snacks,Dhokla
+2025-10-20,Snacks,Tea
+2025-10-20,Snacks,Festival Sweet
+2025-10-20,Dinner,Mix Veg
+2025-10-20,Dinner,Roti
+2025-10-20,Dinner,Dal
+2025-10-20,Dinner,Salad
+2025-10-21,Breakfast,Poha
+2025-10-21,Breakfast,Banana
+2025-10-21,Lunch,Chole
+2025-10-21,Lunch,Rice
+2025-10-21,Lunch,Salad
+2025-10-21,Lunch,Roti
+2025-10-21,Snacks,Bread Pakora
+2025-10-21,Snacks,Tea
+2025-10-21,Dinner,Mix Veg
+2025-10-21,Dinner,Roti
+2025-10-21,Dinner,Dal
+2025-10-21,Dinner,Salad
+2025-10-22,Breakfast,Vegetable Dalia
+2025-10-22,Breakfast,Banana
+2025-10-22,Lunch,Kala Chana
+2025-10-22,Lunch,Rice
+2025-10-22,Lunch,Salad
+2025-10-22,Lunch,Roti
+2025-10-22,Snacks,Corn Chaat
+2025-10-22,Dinner,Soya Chunk Curry
+2025-10-22,Dinner,Roti
+2025-10-22,Dinner,Dal
+2025-10-22,Dinner,Salad
+2025-10-23,Breakfast,Veg Sandwich
+2025-10-23,Breakfast,Seasonal Fruit
+2025-10-23,Lunch,Rajma
+2025-10-23,Lunch,Rice
+2025-10-23,Lunch,Salad
+2025-10-23,Lunch,Roti
+2025-10-23,Snacks,Samosa
+2025-10-23,Snacks,Tea
+2025-10-23,Dinner,Moong Dal Khichdi
+2025-10-23,Dinner,Curd
+2025-10-23,Dinner,Papad
+2025-10-24,Breakfast,Masala Dosa
+2025-10-24,Breakfast,Sambar
+2025-10-24,Breakfast,Coconut Chutney
+2025-10-24,Breakfast,Milk
+2025-10-24,Lunch,Aloo Gobi
+2025-10-24,Lunch,Rice
+2025-10-24,Lunch,Dal Tadka
+2025-10-24,Lunch,Roti
+2025-10-24,Lunch,Salad
+2025-10-24,Snacks,Roasted Chana
+2025-10-24,Snacks,Tea
+2025-10-24,Dinner,Dal Makhani
+2025-10-24,Dinner,Roti
+2025-10-24,Dinner,Dal
+2025-10-24,Dinner,Salad
+2025-10-25,Breakfast,Besan Chilla
+2025-10-25,Breakfast,Mint Chutney
+2025-10-25,Breakfast,Curd
+2025-10-25,Lunch,Chole
+2025-10-25,Lunch,Rice
+2025-10-25,Lunch,Salad
+2025-10-25,Lunch,Roti
+2025-10-25,Snacks,Bhel Puri
+2025-10-25,Snacks,Tea
+2025-10-25,Dinner,Veg Biryani
+2025-10-25,Dinner,Raita
+2025-10-25,Dinner,Salad
+2025-10-26,Breakfast,Vegetable Dalia
+2025-10-26,Breakfast,Banana
+2025-10-26,Lunch,Aloo Gobi
+2025-10-26,Lunch,Rice
+2025-10-26,Lunch,Dal Tadka
+2025-10-26,Lunch,Roti
+2025-10-26,Lunch,Salad
+2025-10-26,Snacks,Roasted Chana
+2025-10-26,Snacks,Tea
+2025-10-26,Dinner,Veg Biryani
+2025-10-26,Dinner,Raita
+2025-10-26,Dinner,Salad
+2025-10-27,Breakfast,Poha
+2025-10-27,Breakfast,Banana
+2025-10-27,Lunch,Palak Paneer
+2025-10-27,Lunch,Rice
+2025-10-27,Lunch,Dal Tadka
+2025-10-27,Lunch,Roti
+2025-10-27,Lunch,Salad
+2025-10-27,Snacks,Dhokla
+2025-10-27,Snacks,Tea
+2025-10-27,Dinner,Moong Dal Khichdi
+2025-10-27,Dinner,Curd
+2025-10-27,Dinner,Papad
+2025-10-28,Breakfast,Veg Sandwich
+2025-10-28,Breakfast,Seasonal Fruit
+2025-10-28,Lunch,Veg Kofta
+2025-10-28,Lunch,Rice
+2025-10-28,Lunch,Dal Tadka
+2025-10-28,Lunch,Roti
+2025-10-28,Lunch,Salad
+2025-10-28,Snacks,Dhokla
+2025-10-28,Snacks,Tea
+2025-10-28,Dinner,Chana Masala
+2025-10-28,Dinner,Roti
+2025-10-28,Dinner,Dal
+2025-10-28,Dinner,Salad
+2025-10-29,Breakfast,Aloo Paratha
+2025-10-29,Breakfast,Curd
+2025-10-29,Breakfast,Pickle
+2025-10-29,Lunch,Chole
+2025-10-29,Lunch,Rice
+2025-10-29,Lunch,Salad
+2025-10-29,Lunch,Roti
+2025-10-29,Snacks,Roasted Chana
+2025-10-29,Snacks,Tea
+2025-10-29,Dinner,Rajma
+2025-10-29,Dinner,Rice
+2025-10-29,Dinner,Roti
+2025-10-29,Dinner,Salad
+2025-10-30,Breakfast,Aloo Paratha
+2025-10-30,Breakfast,Curd
+2025-10-30,Breakfast,Pickle
+2025-10-30,Lunch,Dal Tadka
+2025-10-30,Lunch,Rice
+2025-10-30,Lunch,Seasonal Veg
+2025-10-30,Lunch,Roti
+2025-10-30,Lunch,Salad
+2025-10-30,Snacks,Fruit Chaat
+2025-10-30,Dinner,Moong Dal Khichdi
+2025-10-30,Dinner,Curd
+2025-10-30,Dinner,Papad
+2025-10-31,Breakfast,Besan Chilla
+2025-10-31,Breakfast,Mint Chutney
+2025-10-31,Breakfast,Curd
+2025-10-31,Lunch,Sambar
+2025-10-31,Lunch,Rice
+2025-10-31,Lunch,Cabbage Poriyal
+2025-10-31,Lunch,Curd
+2025-10-31,Snacks,Samosa
+2025-10-31,Snacks,Tea
+2025-10-31,Dinner,Paneer Bhurji
+2025-10-31,Dinner,Roti
+2025-10-31,Dinner,Dal
+2025-10-31,Dinner,Salad
+2025-11-01,Breakfast,Uttapam
+2025-11-01,Breakfast,Sambar
+2025-11-01,Breakfast,Coconut Chutney
+2025-11-01,Lunch,Kadhi
+2025-11-01,Lunch,Rice
+2025-11-01,Lunch,Aloo Gobi
+2025-11-01,Lunch,Roti
+2025-11-01,Snacks,Fruit Chaat
+2025-11-01,Dinner,Kadhi
+2025-11-01,Dinner,Rice
+2025-11-01,Dinner,Roti
+2025-11-01,Dinner,Salad
+2025-11-02,Breakfast,Besan Chilla
+2025-11-02,Breakfast,Mint Chutney
+2025-11-02,Breakfast,Curd
+2025-11-02,Lunch,Kadhi
+2025-11-02,Lunch,Rice
+2025-11-02,Lunch,Aloo Gobi
+2025-11-02,Lunch,Roti
+2025-11-02,Snacks,Roasted Chana
+2025-11-02,Snacks,Tea
+2025-11-02,Dinner,Veg Biryani
+2025-11-02,Dinner,Raita
+2025-11-02,Dinner,Salad
+2025-11-02,Dinner,Gajar Halwa
+2025-11-03,Breakfast,Besan Chilla
+2025-11-03,Breakfast,Mint Chutney
+2025-11-03,Breakfast,Curd
+2025-11-03,Lunch,Veg Kofta
+2025-11-03,Lunch,Rice
+2025-11-03,Lunch,Dal Tadka
+2025-11-03,Lunch,Roti
+2025-11-03,Lunch,Salad
+2025-11-03,Snacks,Sprouts Chaat
+2025-11-03,Dinner,Khichdi
+2025-11-03,Dinner,Curd
+2025-11-03,Dinner,Papad
+2025-11-04,Breakfast,Upma
+2025-11-04,Breakfast,Tea
+2025-11-04,Breakfast,Milk
+2025-11-04,Lunch,Aloo Gobi
+2025-11-04,Lunch,Rice
+2025-11-04,Lunch,Dal Tadka
+2025-11-04,Lunch,Roti
+2025-11-04,Lunch,Salad
+2025-11-04,Snacks,Sprouts Chaat
+2025-11-04,Dinner,Soya Chunk Curry
+2025-11-04,Dinner,Roti
+2025-11-04,Dinner,Dal
+2025-11-04,Dinner,Salad
+2025-11-05,Breakfast,Vegetable Dalia
+2025-11-05,Breakfast,Banana
+2025-11-05,Lunch,Kadhi
+2025-11-05,Lunch,Rice
+2025-11-05,Lunch,Aloo Gobi
+2025-11-05,Lunch,Roti
+2025-11-05,Snacks,Fruit Chaat
+2025-11-05,Dinner,Rajma
+2025-11-05,Dinner,Rice
+2025-11-05,Dinner,Roti
+2025-11-05,Dinner,Salad
+2025-11-06,Breakfast,Masala Dosa
+2025-11-06,Breakfast,Sambar
+2025-11-06,Breakfast,Coconut Chutney
+2025-11-06,Lunch,Lauki Kofta
+2025-11-06,Lunch,Rice
+2025-11-06,Lunch,Dal Tadka
+2025-11-06,Lunch,Roti
+2025-11-06,Lunch,Salad
+2025-11-06,Snacks,Fruit Chaat
+2025-11-06,Dinner,Paneer Bhurji
+2025-11-06,Dinner,Roti
+2025-11-06,Dinner,Dal
+2025-11-06,Dinner,Salad
+2025-11-07,Breakfast,Poori Bhaji
+2025-11-07,Breakfast,Tea
+2025-11-07,Lunch,Dal Tadka
+2025-11-07,Lunch,Rice
+2025-11-07,Lunch,Seasonal Veg
+2025-11-07,Lunch,Roti
+2025-11-07,Lunch,Salad
+2025-11-07,Snacks,Bread Pakora
+2025-11-07,Snacks,Tea
+2025-11-07,Dinner,Paneer Butter Masala
+2025-11-07,Dinner,Roti
+2025-11-07,Dinner,Dal
+2025-11-07,Dinner,Salad
+2025-11-08,Breakfast,Veg Sandwich
+2025-11-08,Breakfast,Seasonal Fruit
+2025-11-08,Lunch,Sambar
+2025-11-08,Lunch,Rice
+2025-11-08,Lunch,Cabbage Poriyal
+2025-11-08,Lunch,Curd
+2025-11-08,Snacks,Veg Cutlet
+2025-11-08,Snacks,Tea
+2025-11-08,Dinner,Aloo Matar
+2025-11-08,Dinner,Roti
+2025-11-08,Dinner,Dal
+2025-11-08,Dinner,Salad
+2025-11-09,Breakfast,Aloo Paratha
+2025-11-09,Breakfast,Curd
+2025-11-09,Breakfast,Pickle
+2025-11-09,Lunch,Chole
+2025-11-09,Lunch,Rice
+2025-11-09,Lunch,Salad
+2025-11-09,Lunch,Roti
+2025-11-09,Lunch,Kheer
+2025-11-09,Snacks,Samosa
+2025-11-09,Snacks,Tea
+2025-11-09,Dinner,Aloo Matar
+2025-11-09,Dinner,Roti
+2025-11-09,Dinner,Dal
+2025-11-09,Dinner,Salad
+2025-11-10,Breakfast,Besan Chilla
+2025-11-10,Breakfast,Mint Chutney
+2025-11-10,Breakfast,Curd
+2025-11-10,Lunch,Kadhi
+2025-11-10,Lunch,Rice
+2025-11-10,Lunch,Aloo Gobi
+2025-11-10,Lunch,Roti
+2025-11-10,Snacks,Sprouts Chaat
+2025-11-10,Dinner,Veg Korma
+2025-11-10,Dinner,Roti
+2025-11-10,Dinner,Dal
+2025-11-10,Dinner,Salad
+2025-11-11,Breakfast,Poori Bhaji
+2025-11-11,Breakfast,Tea
+2025-11-11,Lunch,Lauki Kofta
+2025-11-11,Lunch,Rice
+2025-11-11,Lunch,Dal Tadka
+2025-11-11,Lunch,Roti
+2025-11-11,Lunch,Salad
+2025-11-11,Snacks,Fruit Chaat
+2025-11-11,Dinner,Chana Masala
+2025-11-11,Dinner,Roti
+2025-11-11,Dinner,Dal
+2025-11-11,Dinner,Salad
+2025-11-12,Breakfast,Vegetable Dalia
+2025-11-12,Breakfast,Banana
+2025-11-12,Lunch,Kala Chana
+2025-11-12,Lunch,Rice
+2025-11-12,Lunch,Salad
+2025-11-12,Lunch,Roti
+2025-11-12,Snacks,Bread Pakora
+2025-11-12,Snacks,Tea
+2025-11-12,Dinner,Dal Makhani
+2025-11-12,Dinner,Roti
+2025-11-12,Dinner,Dal
+2025-11-12,Dinner,Salad
+2025-11-13,Breakfast,Veg Sandwich
+2025-11-13,Breakfast,Seasonal Fruit
+2025-11-13,Lunch,Kala Chana
+2025-11-13,Lunch,Rice
+2025-11-13,Lunch,Salad
+2025-11-13,Lunch,Roti
+2025-11-13,Snacks,Bhel Puri
+2025-11-13,Snacks,Tea
+2025-11-13,Dinner,Aloo Matar
+2025-11-13,Dinner,Roti
+2025-11-13,Dinner,Dal
+2025-11-13,Dinner,Salad
+2025-11-14,Breakfast,Aloo Paratha
+2025-11-14,Breakfast,Curd
+2025-11-14,Breakfast,Pickle
+2025-11-14,Lunch,Sambar
+2025-11-14,Lunch,Rice
+2025-11-14,Lunch,Cabbage Poriyal
+2025-11-14,Lunch,Curd
+2025-11-14,Lunch,Gulab Jamun
+2025-11-14,Lunch,Veg Pulao Special
+2025-11-14,Snacks,Veg Cutlet
+2025-11-14,Snacks,Tea
+2025-11-14,Dinner,Aloo Matar
+2025-11-14,Dinner,Roti
+2025-11-14,Dinner,Dal
+2025-11-14,Dinner,Salad
+2025-11-15,Breakfast,Aloo Paratha
+2025-11-15,Breakfast,Curd
+2025-11-15,Breakfast,Pickle
+2025-11-15,Breakfast,Milk
+2025-11-15,Lunch,Rajma
+2025-11-15,Lunch,Rice
+2025-11-15,Lunch,Salad
+2025-11-15,Lunch,Roti
+2025-11-15,Snacks,Bhel Puri
+2025-11-15,Snacks,Tea
+2025-11-15,Dinner,Mix Veg
+2025-11-15,Dinner,Roti
+2025-11-15,Dinner,Dal
+2025-11-15,Dinner,Salad
+2025-11-16,Breakfast,Aloo Paratha
+2025-11-16,Breakfast,Curd
+2025-11-16,Breakfast,Pickle
+2025-11-16,Lunch,Matar Paneer
+2025-11-16,Lunch,Rice
+2025-11-16,Lunch,Dal Tadka
+2025-11-16,Lunch,Roti
+2025-11-16,Lunch,Salad
+2025-11-16,Snacks,Samosa
+2025-11-16,Snacks,Tea
+2025-11-16,Dinner,Paneer Butter Masala
+2025-11-16,Dinner,Roti
+2025-11-16,Dinner,Dal
+2025-11-16,Dinner,Salad
+2025-11-17,Breakfast,Idli
+2025-11-17,Breakfast,Sambar
+2025-11-17,Breakfast,Coconut Chutney
+2025-11-17,Lunch,Veg Kofta
+2025-11-17,Lunch,Rice
+2025-11-17,Lunch,Dal Tadka
+2025-11-17,Lunch,Roti
+2025-11-17,Lunch,Salad
+2025-11-17,Snacks,Bhel Puri
+2025-11-17,Snacks,Tea
+2025-11-17,Dinner,Palak Corn
+2025-11-17,Dinner,Roti
+2025-11-17,Dinner,Dal
+2025-11-17,Dinner,Salad
+2025-11-18,Breakfast,Vegetable Dalia
+2025-11-18,Breakfast,Banana
+2025-11-18,Lunch,Palak Paneer
+2025-11-18,Lunch,Rice
+2025-11-18,Lunch,Dal Tadka
+2025-11-18,Lunch,Roti
+2025-11-18,Lunch,Salad
+2025-11-18,Snacks,Roasted Chana
+2025-11-18,Snacks,Tea
+2025-11-18,Dinner,Kadhi
+2025-11-18,Dinner,Rice
+2025-11-18,Dinner,Roti
+2025-11-18,Dinner,Salad
+2025-11-19,Breakfast,Veg Sandwich
+2025-11-19,Breakfast,Seasonal Fruit
+2025-11-19,Lunch,Chole
+2025-11-19,Lunch,Rice
+2025-11-19,Lunch,Salad
+2025-11-19,Lunch,Roti
+2025-11-19,Snacks,Bread Pakora
+2025-11-19,Snacks,Tea
+2025-11-19,Dinner,Paneer Butter Masala
+2025-11-19,Dinner,Roti
+2025-11-19,Dinner,Dal
+2025-11-19,Dinner,Salad
+2025-11-19,Dinner,Gajar Halwa
+2025-11-20,Breakfast,Uttapam
+2025-11-20,Breakfast,Sambar
+2025-11-20,Breakfast,Coconut Chutney
+2025-11-20,Lunch,Palak Paneer
+2025-11-20,Lunch,Rice
+2025-11-20,Lunch,Dal Tadka
+2025-11-20,Lunch,Roti
+2025-11-20,Lunch,Salad
+2025-11-20,Snacks,Roasted Chana
+2025-11-20,Snacks,Tea
+2025-11-20,Dinner,Veg Korma
+2025-11-20,Dinner,Roti
+2025-11-20,Dinner,Dal
+2025-11-20,Dinner,Salad
+2025-11-21,Breakfast,Uttapam
+2025-11-21,Breakfast,Sambar
+2025-11-21,Breakfast,Coconut Chutney
+2025-11-21,Lunch,Chana Dal
+2025-11-21,Lunch,Rice
+2025-11-21,Lunch,Seasonal Veg
+2025-11-21,Lunch,Roti
+2025-11-21,Lunch,Salad
+2025-11-21,Snacks,Bhel Puri
+2025-11-21,Snacks,Tea
+2025-11-21,Dinner,Rajma
+2025-11-21,Dinner,Rice
+2025-11-21,Dinner,Roti
+2025-11-21,Dinner,Salad
+2025-11-22,Breakfast,Vegetable Dalia
+2025-11-22,Breakfast,Banana
+2025-11-22,Lunch,Sambar
+2025-11-22,Lunch,Rice
+2025-11-22,Lunch,Cabbage Poriyal
+2025-11-22,Lunch,Curd
+2025-11-22,Snacks,Corn Chaat
+2025-11-22,Dinner,Chana Masala
+2025-11-22,Dinner,Roti
+2025-11-22,Dinner,Dal
+2025-11-22,Dinner,Salad
+2025-11-23,Breakfast,Poha
+2025-11-23,Breakfast,Banana
+2025-11-23,Lunch,Kadhi
+2025-11-23,Lunch,Rice
+2025-11-23,Lunch,Aloo Gobi
+2025-11-23,Lunch,Roti
+2025-11-23,Snacks,Corn Chaat
+2025-11-23,Dinner,Soya Chunk Curry
+2025-11-23,Dinner,Roti
+2025-11-23,Dinner,Dal
+2025-11-23,Dinner,Salad
+2025-11-24,Breakfast,Poha
+2025-11-24,Breakfast,Banana
+2025-11-24,Lunch,Veg Pulao
+2025-11-24,Lunch,Raita
+2025-11-24,Lunch,Salad
+2025-11-24,Snacks,Bread Pakora
+2025-11-24,Snacks,Tea
+2025-11-24,Dinner,Kadhi
+2025-11-24,Dinner,Rice
+2025-11-24,Dinner,Roti
+2025-11-24,Dinner,Salad
+2025-11-25,Breakfast,Poori Bhaji
+2025-11-25,Breakfast,Tea
+2025-11-25,Lunch,Lauki Kofta
+2025-11-25,Lunch,Rice
+2025-11-25,Lunch,Dal Tadka
+2025-11-25,Lunch,Roti
+2025-11-25,Lunch,Salad
+2025-11-25,Snacks,Bread Pakora
+2025-11-25,Snacks,Tea
+2025-11-25,Dinner,Khichdi
+2025-11-25,Dinner,Curd
+2025-11-25,Dinner,Papad
+2025-11-26,Breakfast,Vegetable Dalia
+2025-11-26,Breakfast,Banana
+2025-11-26,Breakfast,Milk
+2025-11-26,Lunch,Chole
+2025-11-26,Lunch,Rice
+2025-11-26,Lunch,Salad
+2025-11-26,Lunch,Roti
+2025-11-26,Snacks,Sprouts Chaat
+2025-11-26,Dinner,Chana Masala
+2025-11-26,Dinner,Roti
+2025-11-26,Dinner,Dal
+2025-11-26,Dinner,Salad
+2025-11-27,Breakfast,Upma
+2025-11-27,Breakfast,Tea
+2025-11-27,Lunch,Matar Paneer
+2025-11-27,Lunch,Rice
+2025-11-27,Lunch,Dal Tadka
+2025-11-27,Lunch,Roti
+2025-11-27,Lunch,Salad
+2025-11-27,Snacks,Corn Chaat
+2025-11-27,Dinner,Soya Chunk Curry
+2025-11-27,Dinner,Roti
+2025-11-27,Dinner,Dal
+2025-11-27,Dinner,Salad
+2025-11-28,Breakfast,Uttapam
+2025-11-28,Breakfast,Sambar
+2025-11-28,Breakfast,Coconut Chutney
+2025-11-28,Lunch,Mixed Veg Curry
+2025-11-28,Lunch,Rice
+2025-11-28,Lunch,Dal Tadka
+2025-11-28,Lunch,Roti
+2025-11-28,Lunch,Salad
+2025-11-28,Snacks,Bhel Puri
+2025-11-28,Snacks,Tea
+2025-11-28,Dinner,Kadhi
+2025-11-28,Dinner,Rice
+2025-11-28,Dinner,Roti
+2025-11-28,Dinner,Salad
+2025-11-29,Breakfast,Aloo Paratha
+2025-11-29,Breakfast,Curd
+2025-11-29,Breakfast,Pickle
+2025-11-29,Lunch,Sambar
+2025-11-29,Lunch,Rice
+2025-11-29,Lunch,Cabbage Poriyal
+2025-11-29,Lunch,Curd
+2025-11-29,Snacks,Dhokla
+2025-11-29,Snacks,Tea
+2025-11-29,Dinner,Khichdi
+2025-11-29,Dinner,Curd
+2025-11-29,Dinner,Papad
+2025-11-30,Breakfast,Besan Chilla
+2025-11-30,Breakfast,Mint Chutney
+2025-11-30,Breakfast,Curd
+2025-11-30,Lunch,Lauki Kofta
+2025-11-30,Lunch,Rice
+2025-11-30,Lunch,Dal Tadka
+2025-11-30,Lunch,Roti
+2025-11-30,Lunch,Salad
+2025-11-30,Lunch,Kheer
+2025-11-30,Snacks,Bhel Puri
+2025-11-30,Snacks,Tea
+2025-11-30,Dinner,Rajma
+2025-11-30,Dinner,Rice
+2025-11-30,Dinner,Roti
+2025-11-30,Dinner,Salad
+2025-12-01,Breakfast,Idli
+2025-12-01,Breakfast,Sambar
+2025-12-01,Breakfast,Coconut Chutney
+2025-12-01,Lunch,Mixed Veg Curry
+2025-12-01,Lunch,Rice
+2025-12-01,Lunch,Dal Tadka
+2025-12-01,Lunch,Roti
+2025-12-01,Lunch,Salad
+2025-12-01,Snacks,Kachori
+2025-12-01,Snacks,Tea
+2025-12-01,Dinner,Khichdi
+2025-12-01,Dinner,Curd
+2025-12-01,Dinner,Papad
+2025-12-02,Breakfast,Besan Chilla
+2025-12-02,Breakfast,Mint Chutney
+2025-12-02,Breakfast,Curd
+2025-12-02,Lunch,Aloo Gobi
+2025-12-02,Lunch,Rice
+2025-12-02,Lunch,Dal Tadka
+2025-12-02,Lunch,Roti
+2025-12-02,Lunch,Salad
+2025-12-02,Snacks,Bhel Puri
+2025-12-02,Snacks,Tea
+2025-12-02,Dinner,Palak Corn
+2025-12-02,Dinner,Roti
+2025-12-02,Dinner,Dal
+2025-12-02,Dinner,Salad
+2025-12-03,Breakfast,Idli
+2025-12-03,Breakfast,Sambar
+2025-12-03,Breakfast,Coconut Chutney
+2025-12-03,Lunch,Matar Paneer
+2025-12-03,Lunch,Rice
+2025-12-03,Lunch,Dal Tadka
+2025-12-03,Lunch,Roti
+2025-12-03,Lunch,Salad
+2025-12-03,Snacks,Corn Chaat
+2025-12-03,Dinner,Kadhi
+2025-12-03,Dinner,Rice
+2025-12-03,Dinner,Roti
+2025-12-03,Dinner,Salad
+2025-12-04,Breakfast,Aloo Paratha
+2025-12-04,Breakfast,Curd
+2025-12-04,Breakfast,Pickle
+2025-12-04,Lunch,Chana Dal
+2025-12-04,Lunch,Rice
+2025-12-04,Lunch,Seasonal Veg
+2025-12-04,Lunch,Roti
+2025-12-04,Lunch,Salad
+2025-12-04,Snacks,Sprouts Chaat
+2025-12-04,Dinner,Moong Dal Khichdi
+2025-12-04,Dinner,Curd
+2025-12-04,Dinner,Papad
+2025-12-05,Breakfast,Upma
+2025-12-05,Breakfast,Tea
+2025-12-05,Lunch,Veg Kofta
+2025-12-05,Lunch,Rice
+2025-12-05,Lunch,Dal Tadka
+2025-12-05,Lunch,Roti
+2025-12-05,Lunch,Salad
+2025-12-05,Lunch,Gulab Jamun
+2025-12-05,Snacks,Fruit Chaat
+2025-12-05,Dinner,Moong Dal Khichdi
+2025-12-05,Dinner,Curd
+2025-12-05,Dinner,Papad
+2025-12-05,Dinner,Kheer
+2025-12-06,Breakfast,Besan Chilla
+2025-12-06,Breakfast,Mint Chutney
+2025-12-06,Breakfast,Curd
+2025-12-06,Lunch,Veg Kofta
+2025-12-06,Lunch,Rice
+2025-12-06,Lunch,Dal Tadka
+2025-12-06,Lunch,Roti
+2025-12-06,Lunch,Salad
+2025-12-06,Snacks,Veg Cutlet
+2025-12-06,Snacks,Tea
+2025-12-06,Dinner,Palak Corn
+2025-12-06,Dinner,Roti
+2025-12-06,Dinner,Dal
+2025-12-06,Dinner,Salad
+2025-12-06,Dinner,Gajar Halwa
+2025-12-07,Breakfast,Vegetable Dalia
+2025-12-07,Breakfast,Banana
+2025-12-07,Breakfast,Milk
+2025-12-07,Lunch,Palak Paneer
+2025-12-07,Lunch,Rice
+2025-12-07,Lunch,Dal Tadka
+2025-12-07,Lunch,Roti
+2025-12-07,Lunch,Salad
+2025-12-07,Snacks,Corn Chaat
+2025-12-07,Dinner,Dal Makhani
+2025-12-07,Dinner,Roti
+2025-12-07,Dinner,Dal
+2025-12-07,Dinner,Salad
+2025-12-08,Breakfast,Vegetable Dalia
+2025-12-08,Breakfast,Banana
+2025-12-08,Lunch,Palak Paneer
+2025-12-08,Lunch,Rice
+2025-12-08,Lunch,Dal Tadka
+2025-12-08,Lunch,Roti
+2025-12-08,Lunch,Salad
+2025-12-08,Snacks,Bhel Puri
+2025-12-08,Snacks,Tea
+2025-12-08,Dinner,Khichdi
+2025-12-08,Dinner,Curd
+2025-12-08,Dinner,Papad
+2025-12-09,Breakfast,Aloo Paratha
+2025-12-09,Breakfast,Curd
+2025-12-09,Breakfast,Pickle
+2025-12-09,Lunch,Kadhi
+2025-12-09,Lunch,Rice
+2025-12-09,Lunch,Aloo Gobi
+2025-12-09,Lunch,Roti
+2025-12-09,Snacks,Sprouts Chaat
+2025-12-09,Dinner,Veg Korma
+2025-12-09,Dinner,Roti
+2025-12-09,Dinner,Dal
+2025-12-09,Dinner,Salad
+2025-12-10,Breakfast,Idli
+2025-12-10,Breakfast,Sambar
+2025-12-10,Breakfast,Coconut Chutney
+2025-12-10,Lunch,Aloo Gobi
+2025-12-10,Lunch,Rice
+2025-12-10,Lunch,Dal Tadka
+2025-12-10,Lunch,Roti
+2025-12-10,Lunch,Salad
+2025-12-10,Snacks,Roasted Chana
+2025-12-10,Snacks,Tea
+2025-12-10,Dinner,Veg Korma
+2025-12-10,Dinner,Roti
+2025-12-10,Dinner,Dal
+2025-12-10,Dinner,Salad
+2025-12-11,Breakfast,Besan Chilla
+2025-12-11,Breakfast,Mint Chutney
+2025-12-11,Breakfast,Curd
+2025-12-11,Lunch,Veg Pulao
+2025-12-11,Lunch,Raita
+2025-12-11,Lunch,Salad
+2025-12-11,Snacks,Bread Pakora
+2025-12-11,Snacks,Tea
+2025-12-11,Dinner,Kadhi
+2025-12-11,Dinner,Rice
+2025-12-11,Dinner,Roti
+2025-12-11,Dinner,Salad
+2025-12-12,Breakfast,Vegetable Dalia
+2025-12-12,Breakfast,Banana
+2025-12-12,Lunch,Veg Pulao
+2025-12-12,Lunch,Raita
+2025-12-12,Lunch,Salad
+2025-12-12,Snacks,Kachori
+2025-12-12,Snacks,Tea
+2025-12-12,Dinner,Palak Corn
+2025-12-12,Dinner,Roti
+2025-12-12,Dinner,Dal
+2025-12-12,Dinner,Salad
+2025-12-13,Breakfast,Uttapam
+2025-12-13,Breakfast,Sambar
+2025-12-13,Breakfast,Coconut Chutney
+2025-12-13,Lunch,Kadhi
+2025-12-13,Lunch,Rice
+2025-12-13,Lunch,Aloo Gobi
+2025-12-13,Lunch,Roti
+2025-12-13,Snacks,Bhel Puri
+2025-12-13,Snacks,Tea
+2025-12-13,Dinner,Aloo Matar
+2025-12-13,Dinner,Roti
+2025-12-13,Dinner,Dal
+2025-12-13,Dinner,Salad
+2025-12-14,Breakfast,Aloo Paratha
+2025-12-14,Breakfast,Curd
+2025-12-14,Breakfast,Pickle
+2025-12-14,Lunch,Lauki Kofta
+2025-12-14,Lunch,Rice
+2025-12-14,Lunch,Dal Tadka
+2025-12-14,Lunch,Roti
+2025-12-14,Lunch,Salad
+2025-12-14,Snacks,Veg Cutlet
+2025-12-14,Snacks,Tea
+2025-12-14,Dinner,Paneer Butter Masala
+2025-12-14,Dinner,Roti
+2025-12-14,Dinner,Dal
+2025-12-14,Dinner,Salad
+2025-12-15,Breakfast,Uttapam
+2025-12-15,Breakfast,Sambar
+2025-12-15,Breakfast,Coconut Chutney
+2025-12-15,Lunch,Aloo Gobi
+2025-12-15,Lunch,Rice
+2025-12-15,Lunch,Dal Tadka
+2025-12-15,Lunch,Roti
+2025-12-15,Lunch,Salad
+2025-12-15,Snacks,Sprouts Chaat
+2025-12-15,Dinner,Khichdi
+2025-12-15,Dinner,Curd
+2025-12-15,Dinner,Papad
+2025-12-16,Breakfast,Masala Dosa
+2025-12-16,Breakfast,Sambar
+2025-12-16,Breakfast,Coconut Chutney
+2025-12-16,Lunch,Rajma
+2025-12-16,Lunch,Rice
+2025-12-16,Lunch,Salad
+2025-12-16,Lunch,Roti
+2025-12-16,Snacks,Bhel Puri
+2025-12-16,Snacks,Tea
+2025-12-16,Dinner,Dal Makhani
+2025-12-16,Dinner,Roti
+2025-12-16,Dinner,Dal
+2025-12-16,Dinner,Salad
+2025-12-17,Breakfast,Poha
+2025-12-17,Breakfast,Banana
+2025-12-17,Lunch,Aloo Gobi
+2025-12-17,Lunch,Rice
+2025-12-17,Lunch,Dal Tadka
+2025-12-17,Lunch,Roti
+2025-12-17,Lunch,Salad
+2025-12-17,Snacks,Bread Pakora
+2025-12-17,Snacks,Tea
+2025-12-17,Dinner,Dal Makhani
+2025-12-17,Dinner,Roti
+2025-12-17,Dinner,Dal
+2025-12-17,Dinner,Salad
+2025-12-18,Breakfast,Upma
+2025-12-18,Breakfast,Tea
+2025-12-18,Breakfast,Milk
+2025-12-18,Lunch,Mixed Veg Curry
+2025-12-18,Lunch,Rice
+2025-12-18,Lunch,Dal Tadka
+2025-12-18,Lunch,Roti
+2025-12-18,Lunch,Salad
+2025-12-18,Snacks,Roasted Chana
+2025-12-18,Snacks,Tea
+2025-12-18,Dinner,Soya Chunk Curry
+2025-12-18,Dinner,Roti
+2025-12-18,Dinner,Dal
+2025-12-18,Dinner,Salad
+2025-12-19,Breakfast,Masala Dosa
+2025-12-19,Breakfast,Sambar
+2025-12-19,Breakfast,Coconut Chutney
+2025-12-19,Lunch,Dal Tadka
+2025-12-19,Lunch,Rice
+2025-12-19,Lunch,Seasonal Veg
+2025-12-19,Lunch,Roti
+2025-12-19,Lunch,Salad
+2025-12-19,Snacks,Samosa
+2025-12-19,Snacks,Tea
+2025-12-19,Dinner,Chana Masala
+2025-12-19,Dinner,Roti
+2025-12-19,Dinner,Dal
+2025-12-19,Dinner,Salad
+2025-12-20,Breakfast,Masala Dosa
+2025-12-20,Breakfast,Sambar
+2025-12-20,Breakfast,Coconut Chutney
+2025-12-20,Lunch,Matar Paneer
+2025-12-20,Lunch,Rice
+2025-12-20,Lunch,Dal Tadka
+2025-12-20,Lunch,Roti
+2025-12-20,Lunch,Salad
+2025-12-20,Snacks,Samosa
+2025-12-20,Snacks,Tea
+2025-12-20,Dinner,Soya Chunk Curry
+2025-12-20,Dinner,Roti
+2025-12-20,Dinner,Dal
+2025-12-20,Dinner,Salad
+2025-12-21,Breakfast,Veg Sandwich
+2025-12-21,Breakfast,Seasonal Fruit
+2025-12-21,Lunch,Lauki Kofta
+2025-12-21,Lunch,Rice
+2025-12-21,Lunch,Dal Tadka
+2025-12-21,Lunch,Roti
+2025-12-21,Lunch,Salad
+2025-12-21,Lunch,Kheer
+2025-12-21,Snacks,Veg Cutlet
+2025-12-21,Snacks,Tea
+2025-12-21,Dinner,Dal Makhani
+2025-12-21,Dinner,Roti
+2025-12-21,Dinner,Dal
+2025-12-21,Dinner,Salad
+2025-12-22,Breakfast,Upma
+2025-12-22,Breakfast,Tea
+2025-12-22,Lunch,Chole
+2025-12-22,Lunch,Rice
+2025-12-22,Lunch,Salad
+2025-12-22,Lunch,Roti
+2025-12-22,Snacks,Dhokla
+2025-12-22,Snacks,Tea
+2025-12-22,Dinner,Paneer Bhurji
+2025-12-22,Dinner,Roti
+2025-12-22,Dinner,Dal
+2025-12-22,Dinner,Salad
+2025-12-23,Breakfast,Poha
+2025-12-23,Breakfast,Banana
+2025-12-23,Lunch,Palak Paneer
+2025-12-23,Lunch,Rice
+2025-12-23,Lunch,Dal Tadka
+2025-12-23,Lunch,Roti
+2025-12-23,Lunch,Salad
+2025-12-23,Snacks,Samosa
+2025-12-23,Snacks,Tea
+2025-12-23,Dinner,Veg Korma
+2025-12-23,Dinner,Roti
+2025-12-23,Dinner,Dal
+2025-12-23,Dinner,Salad
+2025-12-23,Dinner,Gajar Halwa
+2025-12-24,Breakfast,Poori Bhaji
+2025-12-24,Breakfast,Tea
+2025-12-24,Lunch,Veg Kofta
+2025-12-24,Lunch,Rice
+2025-12-24,Lunch,Dal Tadka
+2025-12-24,Lunch,Roti
+2025-12-24,Lunch,Salad
+2025-12-24,Snacks,Corn Chaat
+2025-12-24,Dinner,Mix Veg
+2025-12-24,Dinner,Roti
+2025-12-24,Dinner,Dal
+2025-12-24,Dinner,Salad
+2025-12-25,Breakfast,Idli
+2025-12-25,Breakfast,Sambar
+2025-12-25,Breakfast,Coconut Chutney
+2025-12-25,Lunch,Rajma
+2025-12-25,Lunch,Rice
+2025-12-25,Lunch,Salad
+2025-12-25,Lunch,Roti
+2025-12-25,Lunch,Gulab Jamun
+2025-12-25,Snacks,Samosa
+2025-12-25,Snacks,Tea
+2025-12-25,Dinner,Khichdi
+2025-12-25,Dinner,Curd
+2025-12-25,Dinner,Papad
+2025-12-25,Dinner,Kheer
+2025-12-26,Breakfast,Veg Sandwich
+2025-12-26,Breakfast,Seasonal Fruit
+2025-12-26,Lunch,Dal Tadka
+2025-12-26,Lunch,Rice
+2025-12-26,Lunch,Seasonal Veg
+2025-12-26,Lunch,Roti
+2025-12-26,Lunch,Salad
+2025-12-26,Snacks,Sprouts Chaat
+2025-12-26,Dinner,Palak Corn
+2025-12-26,Dinner,Roti
+2025-12-26,Dinner,Dal
+2025-12-26,Dinner,Salad
+2025-12-27,Breakfast,Idli
+2025-12-27,Breakfast,Sambar
+2025-12-27,Breakfast,Coconut Chutney
+2025-12-27,Lunch,Lauki Kofta
+2025-12-27,Lunch,Rice
+2025-12-27,Lunch,Dal Tadka
+2025-12-27,Lunch,Roti
+2025-12-27,Lunch,Salad
+2025-12-27,Snacks,Roasted Chana
+2025-12-27,Snacks,Tea
+2025-12-27,Dinner,Paneer Bhurji
+2025-12-27,Dinner,Roti
+2025-12-27,Dinner,Dal
+2025-12-27,Dinner,Salad
+2025-12-28,Breakfast,Besan Chilla
+2025-12-28,Breakfast,Mint Chutney
+2025-12-28,Breakfast,Curd
+2025-12-28,Lunch,Kadhi
+2025-12-28,Lunch,Rice
+2025-12-28,Lunch,Aloo Gobi
+2025-12-28,Lunch,Roti
+2025-12-28,Snacks,Bread Pakora
+2025-12-28,Snacks,Tea
+2025-12-28,Dinner,Veg Biryani
+2025-12-28,Dinner,Raita
+2025-12-28,Dinner,Salad
+2025-12-29,Breakfast,Aloo Paratha
+2025-12-29,Breakfast,Curd
+2025-12-29,Breakfast,Pickle
+2025-12-29,Breakfast,Milk
+2025-12-29,Lunch,Kadhi
+2025-12-29,Lunch,Rice
+2025-12-29,Lunch,Aloo Gobi
+2025-12-29,Lunch,Roti
+2025-12-29,Snacks,Bhel Puri
+2025-12-29,Snacks,Tea
+2025-12-29,Dinner,Kadhi
+2025-12-29,Dinner,Rice
+2025-12-29,Dinner,Roti
+2025-12-29,Dinner,Salad
+2025-12-30,Breakfast,Masala Dosa
+2025-12-30,Breakfast,Sambar
+2025-12-30,Breakfast,Coconut Chutney
+2025-12-30,Lunch,Chole
+2025-12-30,Lunch,Rice
+2025-12-30,Lunch,Salad
+2025-12-30,Lunch,Roti
+2025-12-30,Snacks,Fruit Chaat
+2025-12-30,Dinner,Moong Dal Khichdi
+2025-12-30,Dinner,Curd
+2025-12-30,Dinner,Papad
+2025-12-31,Breakfast,Idli
+2025-12-31,Breakfast,Sambar
+2025-12-31,Breakfast,Coconut Chutney
+2025-12-31,Lunch,Kala Chana
+2025-12-31,Lunch,Rice
+2025-12-31,Lunch,Salad
+2025-12-31,Lunch,Roti
+2025-12-31,Snacks,Kachori
+2025-12-31,Snacks,Tea
+2025-12-31,Dinner,Paneer Bhurji
+2025-12-31,Dinner,Roti
+2025-12-31,Dinner,Dal
+2025-12-31,Dinner,Salad
