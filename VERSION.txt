@@ -1,0 +1,1 @@
+3.4 - Automatic full-year demo bootstrap when cloud/local database is completely empty
